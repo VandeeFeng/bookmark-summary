@@ -13,7 +13,7 @@ from urllib.parse import quote
 from waybackpy import WaybackMachineSaveAPI
 
 # -- configurations begin --
-BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
+BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark"
 BOOKMARK_SUMMARY_REPO_NAME: str = "bookmark-summary"
 # -- configurations end --
 
