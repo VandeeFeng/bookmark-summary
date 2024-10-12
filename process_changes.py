@@ -187,13 +187,21 @@ def process_bookmark_file():
     with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
         bookmark_lines: List[str] = f.readlines()
 
-    with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'r', encoding='utf-8') as f:
-        summarized_bookmark_dicts = json.load(f)
-        summarized_bookmarks = [SummarizedBookmark(**bookmark) for bookmark in summarized_bookmark_dicts]
+    # 安全读取 data.json 文件
+    try:
+        with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'r', encoding='utf-8') as f:
+            if os.stat(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json').st_size == 0:
+                summarized_bookmarks = []  # 文件为空时，返回空列表
+            else:
+                summarized_bookmark_dicts = json.load(f)
+                summarized_bookmarks = [SummarizedBookmark(**bookmark) for bookmark in summarized_bookmark_dicts]
+    except (json.JSONDecodeError, FileNotFoundError) as e:
+        logging.warning(f"Failed to read data.json: {e}")
+        summarized_bookmarks = []  # 返回空列表以继续执行
 
     summarized_urls = set([bookmark.url for bookmark in summarized_bookmarks])
 
-    # find the first unprocessed && summary-not-present bookmark
+    # 找到第一个未处理的书签
     title: Optional[str] = None
     url: Optional[str] = None
     for line in bookmark_lines:
@@ -203,24 +211,24 @@ def process_bookmark_file():
             break
 
     if title and url:
-        # Create folder for month if it doesn't exist
+        # 创建月份目录（如果不存在）
         Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_MONTH}').mkdir(parents=True, exist_ok=True)
 
-        # process the bookmark
+        # 处理书签
         submit_to_wayback_machine(url)
         text_content: str = get_text_content(url)
         summary: str = summarize_text(text_content)
         one_sentence: str = one_sentence_summary(summary)
         summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
         timestamp = int(datetime.now().timestamp())
-        
+
         with open(get_text_content_path(title), 'w', encoding='utf-8') as f:
             f.write(text_content)
 
         with open(get_summary_file_path(title, timestamp=timestamp), 'w', encoding='utf-8') as f:
             f.write(summary_file_content)
-        
-        # Update bookmark-summary/README.md
+
+        # 更新书签列表
         summarized_bookmarks.append(SummarizedBookmark(
             month=CURRENT_MONTH,
             title=title,
@@ -228,12 +236,15 @@ def process_bookmark_file():
             timestamp=timestamp
         ))
 
+        # 更新 README.md
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
             f.write(build_summary_readme_md(summarized_bookmarks))
 
-        # Update data.json
+        # 更新 data.json
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
             json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
+
+
 
 def main():
     process_bookmark_file()
