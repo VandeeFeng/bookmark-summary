@@ -36,12 +36,14 @@ def log_execution_time(func):
 
 @dataclass
 class SummarizedBookmark:
+    year: str
     month: str  # yyyyMM
     title: str
     url: str
     timestamp: int  # unix timestamp
-
-CURRENT_MONTH: str = datetime.now().strftime('%Y%m')
+    
+CURRENT_YEAR: str = datetime.now().strftime('%Y')
+CURRENT_MONTH: str = datetime.now().strftime('%m')
 CURRENT_DATE: str = datetime.now().strftime('%Y-%m-%d')
 CURRENT_DATE_AND_TIME: str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
@@ -85,26 +87,27 @@ def slugify(text: str) -> str:
     invalid_fs_chars: str = '/\\:*?"<>|'
     return re.sub(r'[' + re.escape(invalid_fs_chars) + r'\s]+', '-', text.lower()).strip('-')
 
-def get_summary_file_path(title: str, timestamp: int, month: Optional[str] = None, in_readme_md: bool = False) -> Path:
+def get_summary_file_path(title: str, timestamp: int, year: Optional[str] = None, month: Optional[str] = None, in_readme_md: bool = False) -> Path:
     date_str = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
     summary_filename: str = f"{date_str}-{slugify(title)}.md"
+    if year is None:
+        year = CURRENT_YEAR
+    if month is None:
+        month = CURRENT_MONTH
     if in_readme_md:
-        if month is None:
-            raise ValueError("Month must be provided when in_readme_md is True")
-        root: Path = Path(".", month)
-        summary_filename = f"{date_str}-{quote(slugify(title))}.md"
+        root: Path = Path(year, month)  # 更新路径为 year/month
     else:
-        if month is None:
-            month = CURRENT_MONTH
-        root: Path = Path(BOOKMARK_SUMMARY_REPO_NAME, month)
+        root: Path = Path(BOOKMARK_SUMMARY_REPO_NAME, year, month)  # 更新路径为 year/month
     return Path(root, summary_filename)
+
 
 def get_text_content_path(title: str, in_summary_md: bool = False) -> Path:
     text_content_filename: str = f"{CURRENT_DATE}-{slugify(title)}_raw.md"
-    root: Path = Path(BOOKMARK_SUMMARY_REPO_NAME, CURRENT_MONTH)
+    root: Path = Path(BOOKMARK_SUMMARY_REPO_NAME, CURRENT_YEAR, CURRENT_MONTH)  # 更新路径为 YEAR/MONTH
     if in_summary_md:
         root = Path(".")
     return Path(root, text_content_filename)
+
 
 def build_summary_file(title: str, url: str, summary: str, one_sentence: str) -> str:
     return f"""# {title}
@@ -139,6 +142,9 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
 
 @log_execution_time
 def process_bookmark_file():
+    # 创建路径为 year/month 的文件夹
+    Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_YEAR}/{CURRENT_MONTH}').mkdir(parents=True, exist_ok=True)
+
     with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
         bookmark_lines: List[str] = f.readlines()
 
@@ -157,31 +163,36 @@ def process_bookmark_file():
             break
 
     if title and url:
-        Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_MONTH}').mkdir(parents=True, exist_ok=True)
         text_content: str = get_text_content(url)
         summary: str = summarize_text(text_content)
         one_sentence: str = one_sentence_summary(summary)
         summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
         timestamp = int(datetime.now().timestamp())
 
+        # 保存原始文本内容
         with open(get_text_content_path(title), 'w', encoding='utf-8') as f:
             f.write(text_content)
 
+        # 保存总结文件
         with open(get_summary_file_path(title, timestamp), 'w', encoding='utf-8') as f:
             f.write(summary_file_content)
 
+        # 添加到总结书签列表
         summarized_bookmarks.append(SummarizedBookmark(
+            year=CURRENT_YEAR,
             month=CURRENT_MONTH,
             title=title,
             url=url,
             timestamp=timestamp
         ))
 
+        # 更新 README 和数据文件
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
             f.write(build_summary_readme_md(summarized_bookmarks))
 
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
             json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
+
 
 def main():
     process_bookmark_file()
