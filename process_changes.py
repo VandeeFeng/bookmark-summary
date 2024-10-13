@@ -140,6 +140,35 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
         summary_list += f"- ({datetime.fromtimestamp(bookmark.timestamp).strftime('%Y-%m-%d')}) [{bookmark.title}]({summary_file_path})\n"
     return initial_prefix + summary_list
 
+def sync_data_with_files() -> List[SummarizedBookmark]:
+    new_bookmarks = []
+
+    # 遍历所有 year/month 文件夹中的 .md 文件
+    for md_file in Path(BOOKMARK_SUMMARY_REPO_NAME).rglob("*.md"):
+        match = re.match(r"(\d{4})-(\d{2})-(\d{2})-(.*)\.md", md_file.name)
+        if match:
+            year, month, day, slug = match.groups()
+            timestamp = int(datetime.strptime(f"{year}-{month}-{day}", "%Y-%m-%d").timestamp())
+
+            # 从文件中读取标题和 URL
+            with open(md_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+                title_match = re.search(r"# (.+)", content)  # 提取标题
+                url_match = re.search(r"- URL: (.+)", content)  # 提取 URL
+
+                if title_match and url_match:
+                    title = title_match.group(1).strip()
+                    url = url_match.group(1).strip()
+                    new_bookmarks.append(SummarizedBookmark(
+                        year=year,
+                        month=month,
+                        title=title,
+                        url=url,
+                        timestamp=timestamp
+                    ))
+
+    return new_bookmarks
+
 @log_execution_time
 def process_bookmark_file():
     # 创建路径为 year/month 的文件夹
@@ -148,9 +177,8 @@ def process_bookmark_file():
     with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
         bookmark_lines: List[str] = f.readlines()
 
-    with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'r', encoding='utf-8') as f:
-        summarized_bookmark_dicts = json.load(f)
-        summarized_bookmarks = [SummarizedBookmark(**bookmark) for bookmark in summarized_bookmark_dicts]
+    # 从文件系统同步书签数据
+    summarized_bookmarks = sync_data_with_files()
 
     summarized_urls = set([bookmark.url for bookmark in summarized_bookmarks])
 
@@ -186,12 +214,15 @@ def process_bookmark_file():
             timestamp=timestamp
         ))
 
-        # 更新 README 和数据文件
-        with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
-            f.write(build_summary_readme_md(summarized_bookmarks))
+    # 更新 README 和数据文件
+    with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
+        f.write(build_summary_readme_md(summarized_bookmarks))
 
-        with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
-            json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
+    # 使用最新的数据覆盖 data.json
+    with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
+        json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
+
+
 
 
 def main():
