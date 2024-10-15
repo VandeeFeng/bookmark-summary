@@ -41,6 +41,7 @@ class SummarizedBookmark:
     title: str
     url: str
     timestamp: int  # unix timestamp
+    summary: str
     
 CURRENT_YEAR: str = datetime.now().strftime('%Y')
 CURRENT_MONTH: str = datetime.now().strftime('%m')
