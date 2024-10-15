@@ -183,7 +183,7 @@ def process_bookmark_file():
             month=CURRENT_MONTH,
             title=title,
             url=url,
-            summary={one_sentence}
+            summary={one_sentence},
             timestamp=timestamp
         ))
 
