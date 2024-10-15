@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-10-15) [Google "We Have No Moat, And Neither Does OpenAI"](2024/10/2024-10-15-google-we-have-no-moat,-and-neither-does-openai.md)
 - (2024-10-15) [The Knowledge Economy Is Over. Welcome to the Allocation Economy](2024/10/2024-10-15-the-knowledge-economy-is-over.-welcome-to-the-allocation-economy.md)
 - (2024-10-15) [The Interactive Guide to Rendering in React](2024/10/2024-10-15-the-interactive-guide-to-rendering-in-react.md)
 - (2024-10-15) [On the Nature of Time](2024/10/2024-10-15-on-the-nature-of-time.md)
