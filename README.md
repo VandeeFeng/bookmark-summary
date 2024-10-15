@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-10-15) [The Intellectual Obesity Crisis](2024/10/2024-10-15-the-intellectual-obesity-crisis.md)
 - (2024-10-15) [解构之美](2024/10/2024-10-15-解构之美.md)
 - (2024-10-15) [知识的缝隙](2024/10/2024-10-15-知识的缝隙.md)
 - (2024-10-15) [Google "We Have No Moat, And Neither Does OpenAI"](2024/10/2024-10-15-google-we-have-no-moat,-and-neither-does-openai.md)
