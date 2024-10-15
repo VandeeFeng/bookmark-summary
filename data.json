@@ -38,5 +38,13 @@
     "url": "https://ui.dev/why-react-renders",
     "timestamp": 1728999720,
     "summary": "React渲染指南简介：React通过调用组件函数更新视图，渲染组件的过程包括创建快照和更新视图两步。根组件渲染初始视图，createRoot函数用于创建根元素。React只在组件状态变化时重新渲染组件，通过检查事件处理函数来确定状态变化。React.memo用于优化渲染，严格模式用于检查应用代码质量。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "The Knowledge Economy Is Over. Welcome to the Allocation Economy",
+    "url": "https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy/",
+    "timestamp": 1729005637,
+    "summary": "知识经济逐渐结束，我们即将进入一个新的经济模式，即“分配经济”。在分配经济中，人们将不再只注重知识和技能积累，而是着重于资源管理、目标设定，做出更好的决策。AI工具，如聊天机器人，可以帮助我们更好地概括和分析信息。在新经济模式下，人们将专注于管理和分配资源，而不是从事大量重复性工作。分配经济将带来管理技能普及化、经济复杂化和创造力释放，并需要我们关注社会责任。"
   }
 ]
