@@ -22,5 +22,13 @@
     "url": "https://www.together.ai/blog/how-to-build-a-real-time-image-generator-with-together-ai",
     "timestamp": 1728988567,
     "summary": "使用 Flux 和 Together AI，可以创建实时图像生成器。通过使用 React 和 Together AI 的 API，可以实现实时图像生成。用户可以在输入框中输入 prompt，应用程序会实时生成图像。同时，可以使用 Debounce 降低 API 请求频率，提高应用程序性能。应用程序还支持控制图像生成步数和随机性。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "On the Nature of Time",
+    "url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+    "timestamp": 1728990602,
+    "summary": "本文讨论了时间的计算视图。它介绍了时间的本质、观察者的角色、狭义相对论和重力等概念，阐明了计算步骤的不可约性决定了观察者无法跳过计算步骤，且空间和时间之间存在一定的相关性，观察者以不同方式感知和处理空间和时间。"
   }
 ]
