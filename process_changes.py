@@ -22,6 +22,15 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S'
 )
 
+import hashlib
+
+def calculate_file_hash(file_path: Path) -> str:
+    hasher = hashlib.sha256()
+    with open(file_path, 'rb') as f:
+        while chunk := f.read(8192):
+            hasher.update(chunk)
+    return hasher.hexdigest()
+
 def log_execution_time(func):
     @wraps(func)
     def wrapper(*args, **kwargs):
@@ -41,6 +50,7 @@ class SummarizedBookmark:
     title: str
     url: str
     timestamp: int  # unix timestamp
+    hash: str  # 文件内容的哈希值
     
 CURRENT_YEAR: str = datetime.now().strftime('%Y')
 CURRENT_MONTH: str = datetime.now().strftime('%m')
@@ -141,86 +151,70 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
     return initial_prefix + summary_list
 
 def sync_data_with_files() -> List[SummarizedBookmark]:
+    # 从 data.json 读取现有书签数据
+    if Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json').exists():
+        with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'r', encoding='utf-8') as f:
+            existing_bookmarks = {bm['url']: bm for bm in json.load(f)}
+    else:
+        existing_bookmarks = {}
+
     new_bookmarks = []
 
-    # 遍历所有 year/month 文件夹中的 .md 文件
+    # 遍历所有 .md 文件
     for md_file in Path(BOOKMARK_SUMMARY_REPO_NAME).rglob("*.md"):
+        file_hash = calculate_file_hash(md_file)
+        last_modified = int(md_file.stat().st_mtime)
+
+        # 提取文件中的信息
         match = re.match(r"(\d{4})-(\d{2})-(\d{2})-(.*)\.md", md_file.name)
         if match:
             year, month, day, slug = match.groups()
             timestamp = int(datetime.strptime(f"{year}-{month}-{day}", "%Y-%m-%d").timestamp())
 
-            # 从文件中读取标题和 URL
             with open(md_file, 'r', encoding='utf-8') as f:
                 content = f.read()
-                title_match = re.search(r"# (.+)", content)  # 提取标题
-                url_match = re.search(r"- URL: (.+)", content)  # 提取 URL
+                title_match = re.search(r"# (.+)", content)
+                url_match = re.search(r"- URL: (.+)", content)
 
                 if title_match and url_match:
                     title = title_match.group(1).strip()
                     url = url_match.group(1).strip()
+
+                    # 如果文件内容或修改时间没有变化，则跳过
+                    if (url in existing_bookmarks and 
+                        existing_bookmarks[url]['hash'] == file_hash and
+                        existing_bookmarks[url]['timestamp'] >= last_modified):
+                        new_bookmarks.append(SummarizedBookmark(**existing_bookmarks[url]))
+                        continue
+
+                    # 添加新书签记录
                     new_bookmarks.append(SummarizedBookmark(
                         year=year,
                         month=month,
                         title=title,
                         url=url,
-                        timestamp=timestamp
+                        timestamp=last_modified,
+                        hash=file_hash
                     ))
 
     return new_bookmarks
 
+
 @log_execution_time
 def process_bookmark_file():
-    # 创建路径为 year/month 的文件夹
+    # 确保文件夹存在
     Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_YEAR}/{CURRENT_MONTH}').mkdir(parents=True, exist_ok=True)
 
-    with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
-        bookmark_lines: List[str] = f.readlines()
-
-    # 从文件系统同步书签数据
+    # 同步书签数据
     summarized_bookmarks = sync_data_with_files()
 
-    summarized_urls = set([bookmark.url for bookmark in summarized_bookmarks])
-
-    title: Optional[str] = None
-    url: Optional[str] = None
-    for line in bookmark_lines:
-        match: re.Match = re.search(r'- \[(.*?)\]\((.*?)\)', line)
-        if match and match.group(2) not in summarized_urls:
-            title, url = match.groups()
-            break
-
-    if title and url:
-        text_content: str = get_text_content(url)
-        summary: str = summarize_text(text_content)
-        one_sentence: str = one_sentence_summary(summary)
-        summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
-        timestamp = int(datetime.now().timestamp())
-
-        # 保存原始文本内容
-        with open(get_text_content_path(title), 'w', encoding='utf-8') as f:
-            f.write(text_content)
-
-        # 保存总结文件
-        with open(get_summary_file_path(title, timestamp), 'w', encoding='utf-8') as f:
-            f.write(summary_file_content)
-
-        # 添加到总结书签列表
-        summarized_bookmarks.append(SummarizedBookmark(
-            year=CURRENT_YEAR,
-            month=CURRENT_MONTH,
-            title=title,
-            url=url,
-            timestamp=timestamp
-        ))
-
-    # 更新 README 和数据文件
+    # 更新 README 和 data.json
     with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
         f.write(build_summary_readme_md(summarized_bookmarks))
 
-    # 使用最新的数据覆盖 data.json
     with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
         json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
+
 
 
 
