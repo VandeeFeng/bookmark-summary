@@ -14,5 +14,13 @@
     "url": "https://darioamodei.com/machines-of-loving-grace",
     "timestamp": 1728982061,
     "summary": "人工智能可以带来美好的未来，但也存在风险。健康方面，如解决医学问题，改善健康和寿命。经济方面，如提高生产力，创造新的工作机会。社会方面，如解决贫困、犯罪和教育问题。政府方面，如管理公共服务和资源。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "How to build a real-time image generator with Flux and Together AI",
+    "url": "https://www.together.ai/blog/how-to-build-a-real-time-image-generator-with-together-ai",
+    "timestamp": 1728988567,
+    "summary": "使用 Flux 和 Together AI，可以创建实时图像生成器。通过使用 React 和 Together AI 的 API，可以实现实时图像生成。用户可以在输入框中输入 prompt，应用程序会实时生成图像。同时，可以使用 Debounce 降低 API 请求频率，提高应用程序性能。应用程序还支持控制图像生成步数和随机性。"
   }
 ]
