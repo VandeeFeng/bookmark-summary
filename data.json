@@ -30,5 +30,13 @@
     "url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
     "timestamp": 1728990602,
     "summary": "本文讨论了时间的计算视图。它介绍了时间的本质、观察者的角色、狭义相对论和重力等概念，阐明了计算步骤的不可约性决定了观察者无法跳过计算步骤，且空间和时间之间存在一定的相关性，观察者以不同方式感知和处理空间和时间。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "The Interactive Guide to Rendering in React",
+    "url": "https://ui.dev/why-react-renders",
+    "timestamp": 1728999720,
+    "summary": "React渲染指南简介：React通过调用组件函数更新视图，渲染组件的过程包括创建快照和更新视图两步。根组件渲染初始视图，createRoot函数用于创建根元素。React只在组件状态变化时重新渲染组件，通过检查事件处理函数来确定状态变化。React.memo用于优化渲染，严格模式用于检查应用代码质量。"
   }
 ]
