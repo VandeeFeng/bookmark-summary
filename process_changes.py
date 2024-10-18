@@ -42,7 +42,7 @@ class SummarizedBookmark:
     url: str
     timestamp: int  # unix timestamp
     summary: str
-    
+
 CURRENT_YEAR: str = datetime.now().strftime('%Y')
 CURRENT_MONTH: str = datetime.now().strftime('%m')
 CURRENT_DATE: str = datetime.now().strftime('%Y-%m-%d')
@@ -109,24 +109,27 @@ def get_text_content_path(title: str, in_summary_md: bool = False) -> Path:
         root = Path(".")
     return Path(root, text_content_filename)
 
-
-def build_summary_file(title: str, url: str, summary: str, one_sentence: str) -> str:
-    return f"""# {title}
-- URL: {url}
-- Added At: {CURRENT_DATE_AND_TIME}
-- [Link To Text]({get_text_content_path(title, in_summary_md=True)})
+def build_index_md(title: str, url: str, summary: str, one_sentence: str, text_content: str) -> str:
+    """构建 index.md 文件内容，添加 YAML 头部。"""
+    return f"""---
+title: {title}
+source: {url}
+date: {CURRENT_DATE}
+---
 
 ## TL;DR
 {one_sentence}
 
 ## Summary
 {summary}
+
+## Full Content
 """
 
 def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> str:
-    initial_prefix: str = """# Bookmark Summary 
+    initial_prefix: str = """# Bookmark Summary
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
-    
+
 ## Summarized Bookmarks
 """
     summary_list: str = ""
@@ -143,8 +146,9 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
 
 @log_execution_time
 def process_bookmark_file():
-    # 创建路径为 year/month 的文件夹
-    Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_YEAR}/{CURRENT_MONTH}').mkdir(parents=True, exist_ok=True)
+    # 创建路径为 content/YEAR/MONTH 的文件夹
+    summary_path = Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/content/{CURRENT_YEAR}/{CURRENT_MONTH}')
+    summary_path.mkdir(parents=True, exist_ok=True)
 
     with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
         bookmark_lines: List[str] = f.readlines()
@@ -167,16 +171,21 @@ def process_bookmark_file():
         text_content: str = get_text_content(url)
         summary: str = summarize_text(text_content)
         one_sentence: str = one_sentence_summary(summary)
-        summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
         timestamp = int(datetime.now().timestamp())
 
         # 保存原始文本内容
-        with open(get_text_content_path(title), 'w', encoding='utf-8') as f:
+        with open(summary_path / f"{slugify(title)}_raw.md", 'w', encoding='utf-8') as f:
             f.write(text_content)
 
         # 保存总结文件
-        with open(get_summary_file_path(title, timestamp), 'w', encoding='utf-8') as f:
+        summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
+        with open(summary_path / f"{slugify(title)}.md", 'w', encoding='utf-8') as f:
             f.write(summary_file_content)
+
+        # 保存 index.md 文件
+        index_file_content: str = build_index_md(title, url, summary, one_sentence, text_content)
+        with open(summary_path / "index.md", 'w', encoding='utf-8') as f:
+            f.write(index_file_content)
 
         # 添加到总结书签列表
         summarized_bookmarks.append(SummarizedBookmark(
@@ -194,6 +203,8 @@ def process_bookmark_file():
 
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
             json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
+
+
 
 
 def main():

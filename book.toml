@@ -1,0 +1,32 @@
+base_url = "https://clip.vandee.art"
+[book]
+title = "Vandee's Clip"
+description = "Vandee's Clip"
+src = "content"
+language = "zh"
+authors = ["Vandee Feng"]
+
+[output.html]
+# git-repository-url = "https://github.com/theowenyoung/clip-template"
+# edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
+preferred-dark-theme = "caol"
+[output.html.search]
+enable = true
+
+[output.html.print]
+enable = false    # include support for printable output
+page-break = false # insert page-break after each chapter
+
+[output.markdown]
+enable = true
+
+[mail]
+# false will diasble mail sending
+enable = false
+from_email = "bot@owenyoung.com"
+from_name = "Owen"
+# you can set the mailjet contact list id here
+# mailjet_contact_list_id = "17669"
+# or directly set the to_email, seperated by comma
+# or your can also set the environment variable TO_EMAIL
+to_email = ""
