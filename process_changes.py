@@ -233,7 +233,7 @@ def process_bookmark_file():
     ))
 
     # 更新 README 和 data.json
-    with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
+    with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/Bookmarks_List.md', 'w', encoding='utf-8') as f:
         f.write(build_summary_readme_md(summarized_bookmarks))
 
     with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
