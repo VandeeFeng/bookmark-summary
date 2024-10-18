@@ -126,7 +126,7 @@ def build_summary_file(title: str, url: str, summary: str, one_sentence: str) ->
 
 
 def build_index_md(title: str, url: str, summary: str, one_sentence: str, text_content: str) -> str:
-    """构建 index.md 文件内容，添加 YAML 头部。"""
+    """构建 index.md 文件内容，添加 YAML 头部并包含全文内容。"""
     return f"""---
 title: {title}
 source: {url}
@@ -140,7 +140,9 @@ date: {CURRENT_DATE}
 {summary}
 
 ## Full Content
+{text_content}
 """
+
 
 def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> str:
     initial_prefix: str = """# Bookmark Summary
@@ -162,48 +164,54 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
 
 @log_execution_time
 def process_bookmark_file():
-    # 创建路径为 content/YEAR/MONTH 的文件夹
-    summary_path = Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/content/{CURRENT_YEAR}/{CURRENT_MONTH}')
-    summary_path.mkdir(parents=True, exist_ok=True)
+    title_slug = slugify(title)  # 将标题格式化为合法文件名
 
+    # 创建 YEAR/MONTH/ 目录（用于 raw 和 summary 文件）
+    monthly_path = Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_YEAR}/{CURRENT_MONTH}')
+    monthly_path.mkdir(parents=True, exist_ok=True)
+
+    # 创建 content/YEAR/MONTH/TITLE/ 目录（用于 index.md 文件）
+    content_path = Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/content/{CURRENT_YEAR}/{CURRENT_MONTH}/{title_slug}')
+    content_path.mkdir(parents=True, exist_ok=True)
+
+    # 读取书签和已总结书签
     with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
-        bookmark_lines: List[str] = f.readlines()
+        bookmark_lines = f.readlines()
 
     with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'r', encoding='utf-8') as f:
         summarized_bookmark_dicts = json.load(f)
         summarized_bookmarks = [SummarizedBookmark(**bookmark) for bookmark in summarized_bookmark_dicts]
 
-    summarized_urls = set([bookmark.url for bookmark in summarized_bookmarks])
+    summarized_urls = {bookmark.url for bookmark in summarized_bookmarks}
 
-    title: Optional[str] = None
-    url: Optional[str] = None
+    title, url = None, None
     for line in bookmark_lines:
-        match: re.Match = re.search(r'- \[(.*?)\]\((.*?)\)', line)
+        match = re.search(r'- \[(.*?)\]\((.*?)\)', line)
         if match and match.group(2) not in summarized_urls:
             title, url = match.groups()
             break
 
     if title and url:
-        text_content: str = get_text_content(url)
-        summary: str = summarize_text(text_content)
-        one_sentence: str = one_sentence_summary(summary)
+        text_content = get_text_content(url)
+        summary = summarize_text(text_content)
+        one_sentence = one_sentence_summary(summary)
         timestamp = int(datetime.now().timestamp())
 
-        # 保存原始文本内容
-        with open(summary_path / f"{slugify(title)}_raw.md", 'w', encoding='utf-8') as f:
+        # 保存原始内容到 YEAR/MONTH/title_raw.md
+        with open(monthly_path / f"{title_slug}_raw.md", 'w', encoding='utf-8') as f:
             f.write(text_content)
 
-        # 保存总结文件
-        summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
-        with open(summary_path / f"{slugify(title)}.md", 'w', encoding='utf-8') as f:
-            f.write(summary_file_content)
+        # 保存总结内容到 YEAR/MONTH/title.md
+        summary_content = build_summary_file(title, url, summary, one_sentence)
+        with open(monthly_path / f"{title_slug}.md", 'w', encoding='utf-8') as f:
+            f.write(summary_content)
 
-        # 保存 index.md 文件
-        index_file_content: str = build_index_md(title, url, summary, one_sentence, text_content)
-        with open(summary_path / "index.md", 'w', encoding='utf-8') as f:
-            f.write(index_file_content)
+        # 保存 index.md 到 content/YEAR/MONTH/TITLE/index.md
+        index_content = build_index_md(title, url, summary, one_sentence, text_content)
+        with open(content_path / "index.md", 'w', encoding='utf-8') as f:
+            f.write(index_content)
 
-        # 添加到总结书签列表
+        # 更新已总结的书签数据
         summarized_bookmarks.append(SummarizedBookmark(
             year=CURRENT_YEAR,
             month=CURRENT_MONTH,
@@ -213,7 +221,7 @@ def process_bookmark_file():
             timestamp=timestamp
         ))
 
-        # 更新 README 和数据文件
+        # 更新 README 和 data.json
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
             f.write(build_summary_readme_md(summarized_bookmarks))
 
