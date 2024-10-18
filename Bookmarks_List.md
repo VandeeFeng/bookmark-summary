@@ -1,10 +1,10 @@
 # Clip
-
 总会有一些没达到我想收录到PKM体系里标准的文章，但又弃之可惜。介于这两者之间的，就放在这个clip里了。区别于笔记，这里主要是原文的 Markdown。
 
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-18) [八位 Google 员工开创了现代 AI 的新纪元，揭秘他们的故事 [译]](2024/10/2024-10-18-八位-google-员工开创了现代-ai-的新纪元，揭秘他们的故事-[译].md)
 - (2024-10-18) [读书人对君主是怎么想的？](2024/10/2024-10-18-读书人对君主是怎么想的？.md)
 - (2024-10-18) [局外人](2024/10/2024-10-18-局外人.md)
 - (2024-10-18) [请全力以赴地敷衍了事 | 参考答案Answers](2024/10/2024-10-18-请全力以赴地敷衍了事-参考答案answers.md)

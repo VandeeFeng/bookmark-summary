@@ -134,5 +134,13 @@
     "url": "https://mp.weixin.qq.com/s/o2usQ-ZJT70AhqA3LS7hDw",
     "timestamp": 1729260761,
     "summary": "中国历史上的君主制度一直备受争议。儒家学派在历史上的态度发生了变化。一开始他们对君主采取平视态度，然而后代儒家学派就越来越趋向于君权神授，从而导致对君主的过度推崇。在儒家经典《论语》中，孟子批评过暴君，展现的就是一种平视态度。另一个例子是“三代之治”，即尧舜禹的治理时期。后世尊重他们，因为他们是理想的君主典范。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "八位 Google 员工开创了现代 AI 的新纪元，揭秘他们的故事 [译]",
+    "url": "https://baoyu.io/translations/story/eight-google-employees-invented-modern-ai-transformers-paper",
+    "timestamp": 1729270827,
+    "summary": "以下是对这篇文章的简短总结：\n\nTransformer 模型是人工智能技术的重要组成部分，它广泛应用于自然语言处理和图像识别等领域。该模型由 Google 研究团队开发，核心思想是通过自注意力机制来处理序列数据，提高模型表现和效率。Transformer 模型的成功受到广泛关注，成为人工智能发展史上的一项重要成就。"
   }
 ]
