@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-18) [读书人对君主是怎么想的？](2024/10/2024-10-18-读书人对君主是怎么想的？.md)
 - (2024-10-18) [局外人](2024/10/2024-10-18-局外人.md)
 - (2024-10-18) [良好的缘起](2024/10/2024-10-18-良好的缘起.md)
 - (2024-10-18) [请全力以赴地敷衍了事 | 参考答案Answers](2024/10/2024-10-18-请全力以赴地敷衍了事-参考答案answers.md)
