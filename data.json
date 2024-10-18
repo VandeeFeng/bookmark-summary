@@ -102,5 +102,13 @@
     "url": "https://m.cyzone.cn/article/481508.html",
     "timestamp": 1729218141,
     "summary": "该文章总结如下：发生了AssertionFailureError错误，状态码为42206，等待时间30000毫秒已超时。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "0 → 1, Shipping Threads in 5 Months",
+    "url": "https://www.infoq.com/presentations/threads-meta/",
+    "timestamp": 1729218607,
+    "summary": "InfoQ网站提供了多项服务，包括新闻、文章、演讲和播客等。近期主题演讲0 → 1, Shipping Threads in 5 Months中，Meta软件工程师Zahan Malkani分享了如何利用小团队在几个月内推出Threads社交网络的经验。"
   }
 ]
