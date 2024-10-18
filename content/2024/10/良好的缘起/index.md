@@ -1,7 +1,9 @@
 ---
 title: 良好的缘起
-source: https://mp.weixin.qq.com/s/bzjBukwX4O-Tsdw1CuWnZw
 date: 2024-10-18
+extra:
+  source: https://mp.weixin.qq.com/s/bzjBukwX4O-Tsdw1CuWnZw
+  original_title: 良好的缘起
 ---
 
 ## TL;DR
@@ -9,8 +11,6 @@ date: 2024-10-18
 
 ## Summary
 *   **缘起**： 文章探讨了“缘起”的重要性。好的缘起往往伴随着良好的结果。
-
-<!---->
 
 *   **原则**：
     *   在决定做一件事之前，需要考虑其“缘起”是否良好。
@@ -40,12 +40,6 @@ Title: 良好的缘起
 URL Source: https://mp.weixin.qq.com/s/bzjBukwX4O-Tsdw1CuWnZw
 
 Markdown Content:
-Weixin Official Accounts Platform
-===============
-
-             
-
- 
 
 ![Image 1: cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkqnTm3nXKqzLgKpe7kic1jpfVDdGb3Z42W02QgyxibmHazib9w8ic5OFquRkJRtsMTh9fO54G3IhWcia6Q/0?wx_fmt=jpeg)
 

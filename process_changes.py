@@ -129,24 +129,25 @@ def build_index_md(title: str, url: str, summary: str, one_sentence: str, text_c
     """构建 index.md 文件内容，添加 YAML 头部并包含全文内容。"""
     return f"""---
 title: {title}
-source: {url}
 date: {CURRENT_DATE}
+extra:
+  source: {url}
+  original_title: {title}
 ---
-
 ## TL;DR
 {one_sentence}
-
 ## Summary
 {summary}
-
 ## Full Content
 {text_content}
 """
 
 
 def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> str:
-    initial_prefix: str = """# Bookmark Summary
-读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
+    initial_prefix: str = """# Clip
+总会有一些没达到我想收录到PKM体系里标准的文章，但又弃之可惜。介于这两者之间的，就放在这个clip里了。区别于笔记，这里主要是原文的 Markdown。
+
+Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
 """
