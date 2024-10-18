@@ -204,13 +204,16 @@ def process_bookmark_file():
     one_sentence = one_sentence_summary(summary)
     timestamp = int(datetime.now().timestamp())
 
-    # 保存原始内容到 YEAR/MONTH/title_raw.md
-    with open(monthly_path / f"{title_slug}_raw.md", 'w', encoding='utf-8') as f:
+    # 使用当前日期创建前缀
+    date_prefix = datetime.now().strftime('%Y-%m-%d-')
+
+    # 保存原始内容到 YEAR/MONTH/yyyy-MM-dd-title_raw.md
+    with open(monthly_path / f"{date_prefix}{title_slug}_raw.md", 'w', encoding='utf-8') as f:
         f.write(text_content)
 
-    # 保存总结内容到 YEAR/MONTH/title.md
+    # 保存总结内容到 YEAR/MONTH/yyyy-MM-dd-title.md
     summary_content = build_summary_file(title, url, summary, one_sentence)
-    with open(monthly_path / f"{title_slug}.md", 'w', encoding='utf-8') as f:
+    with open(monthly_path / f"{date_prefix}{title_slug}.md", 'w', encoding='utf-8') as f:
         f.write(summary_content)
 
     # 保存 index.md 到 content/YEAR/MONTH/TITLE/index.md
