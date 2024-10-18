@@ -1,7 +1,10 @@
-# Bookmark Summary
-读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
+# Clip
+总会有一些没达到我想收录到PKM体系里标准的文章，但又弃之可惜。介于这两者之间的，就放在这个clip里了。区别于笔记，这里主要是原文的 Markdown。
+
+Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-18) [局外人](2024/10/2024-10-18-局外人.md)
 - (2024-10-18) [良好的缘起](2024/10/2024-10-18-良好的缘起.md)
 - (2024-10-18) [请全力以赴地敷衍了事 | 参考答案Answers](2024/10/2024-10-18-请全力以赴地敷衍了事-参考答案answers.md)
 - (2024-10-18) [0 → 1, Shipping Threads in 5 Months](2024/10/2024-10-18-0-→-1,-shipping-threads-in-5-months.md)
