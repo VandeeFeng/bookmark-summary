@@ -109,6 +109,22 @@ def get_text_content_path(title: str, in_summary_md: bool = False) -> Path:
         root = Path(".")
     return Path(root, text_content_filename)
 
+
+def build_summary_file(title: str, url: str, summary: str, one_sentence: str) -> str:
+    """构建总结文件的内容。"""
+    return f"""# {title}
+- URL: {url}
+- Added At: {CURRENT_DATE_AND_TIME}
+- [Link To Text]({get_text_content_path(title, in_summary_md=True)})
+
+## TL;DR
+{one_sentence}
+
+## Summary
+{summary}
+"""
+
+
 def build_index_md(title: str, url: str, summary: str, one_sentence: str, text_content: str) -> str:
     """构建 index.md 文件内容，添加 YAML 头部。"""
     return f"""---
