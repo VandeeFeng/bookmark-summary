@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-19) [如何找到愿意为之付出一生的研究事业？](2024/10/2024-10-19-如何找到愿意为之付出一生的研究事业？.md)
 - (2024-10-19) [Using static websites for tiny archives](2024/10/2024-10-19-using-static-websites-for-tiny-archives.md)
 - (2024-10-18) [八位 Google 员工开创了现代 AI 的新纪元，揭秘他们的故事 [译]](2024/10/2024-10-18-八位-google-员工开创了现代-ai-的新纪元，揭秘他们的故事-[译].md)
 - (2024-10-18) [读书人对君主是怎么想的？](2024/10/2024-10-18-读书人对君主是怎么想的？.md)
