@@ -142,5 +142,13 @@
     "url": "https://baoyu.io/translations/story/eight-google-employees-invented-modern-ai-transformers-paper",
     "timestamp": 1729270827,
     "summary": "以下是对这篇文章的简短总结：\n\nTransformer 模型是人工智能技术的重要组成部分，它广泛应用于自然语言处理和图像识别等领域。该模型由 Google 研究团队开发，核心思想是通过自注意力机制来处理序列数据，提高模型表现和效率。Transformer 模型的成功受到广泛关注，成为人工智能发展史上的一项重要成就。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Using static websites for tiny archives",
+    "url": "https://alexwlchan.net/2024/static-websites/",
+    "timestamp": 1729304650,
+    "summary": "使用静态网站作为数字仓储可以更好地组织和存储文件。静态网站更可靠易用，并且可以在任何支持HTML的设备上正常使用。此外，静态网站也可以根据自己的需求进行定制，添加需要的功能，使其成为小型数字仓储的理想解决方案。静态网站使用HTML文件存储展示文件，不需要依赖特定应用。"
   }
 ]
