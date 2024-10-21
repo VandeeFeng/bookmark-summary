@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-21) [Everything I built with Claude Artifacts this week](2024/10/2024-10-21-everything-i-built-with-claude-artifacts-this-week.md)
 - (2024-10-21) [Henri Bergson — Why we live in the past - Ralph Ammer](2024/10/2024-10-21-henri-bergson-—-why-we-live-in-the-past---ralph-ammer.md)
 - (2024-10-19) [李继刚全网首播干货分享整理 | Prompt（提示词）的道和术](2024/10/2024-10-19-李继刚全网首播干货分享整理-prompt（提示词）的道和术.md)
 - (2024-10-19) [如何找到愿意为之付出一生的研究事业？](2024/10/2024-10-19-如何找到愿意为之付出一生的研究事业？.md)

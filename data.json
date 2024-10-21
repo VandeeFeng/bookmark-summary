@@ -174,5 +174,13 @@
     "url": "https://ralphammer.com/bergson-why-we-live-in-the-past/",
     "timestamp": 1729478315,
     "summary": "根据文章总结，法国哲学家亨利·柏格森认为，人们无法仅生活在“当下”。柏格森认为，感知是以身体为基础的，目的是采取行动，同时感到记忆并不仅仅存储在脑中。文章还讨论了如何通过提高注意力、丰富记忆和实践来增强感知能力。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Everything I built with Claude Artifacts this week",
+    "url": "https://simonwillison.net/2024/Oct/21/claude-artifacts/",
+    "timestamp": 1729533450,
+    "summary": "\n\nSimon Willison 通过利用 Claude 的 \"Artifacts\" 功能，快速构建了许多实用工具，涵盖文本处理、图像处理和日常应用等方面。这些工具的简单易用和交互性，使其能够快速解决问题和原型设计。虽然Artifacts目前功能有限，但作者相信其未来潜力巨大。 \n\n\n"
   }
 ]
