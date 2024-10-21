@@ -7,7 +7,7 @@ language = "zh"
 authors = ["Vandee Feng"]
 
 [output.html]
-# git-repository-url = "https://github.com/theowenyoung/clip-template"
+git-repository-url = "https://github.com/VandeeFeng/bookmark-summary"
 # edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
 preferred-dark-theme = "caol"
 [output.html.search]
