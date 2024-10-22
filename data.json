@@ -190,5 +190,13 @@
     "url": "https://m.okjike.com/originalPosts/6714d8a49d53db7b44eec70a",
     "timestamp": 1729567342,
     "summary": "这篇文章分析了马斯克的愿景、思维方式和对未来的看法。马斯克坚定地追求人类太空移民，并将人类未来寄托于火星殖民。他以工程师思维追求卓越的制造能力，并强调科技创新和第一性原理。文章鼓励年轻人持之以恒地探索，找到自己的人生意义。 \n"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "LLM from scratch with Pytorch",
+    "url": "https://medium.com/@msouza.os/llm-from-scratch-with-pytorch-9f21808c6319",
+    "timestamp": 1729569689,
+    "summary": "这篇文章介绍了如何从头开始构建一个大型语言模型（LLM）。LLM是一种基于Transformer的模型，用于生成类似人类语言的文本。文章首先介绍了LLM的基本原理和工作机制，然后展示了如何使用预训练嵌入层和自定义令牌化方法来改善模型的性能。文章还比较了使用不同预训练模型的结果，证明了GPT-2模型的优异性能。"
   }
 ]
