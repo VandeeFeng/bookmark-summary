@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-22) [On the Nature of Time](2024/10/2024-10-22-on-the-nature-of-time.md)
 - (2024-10-22) [知识的缝隙-孟岩](2024/10/2024-10-22-知识的缝隙-孟岩.md)
 - (2024-10-22) [解构之美](2024/10/2024-10-22-解构之美.md)
 - (2024-10-22) [Google "We Have No Moat, And Neither Does OpenAI"](2024/10/2024-10-22-google-we-have-no-moat,-and-neither-does-openai.md)
