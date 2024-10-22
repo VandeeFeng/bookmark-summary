@@ -23,7 +23,6 @@ Title: 极端者最平静
 URL Source: https://mp.weixin.qq.com/s/r0CAQ5DWF0B-FC63E7JA7Q
 
 Markdown Content:
-![Image 1: Image](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkrK6th5o4ic5uxc5Q56XVOpJ6K3fjuSWqcgRaIRibfTHmBlFI4ppGYibqxM2HhpqZRiaaiaNs8AkOPXUrw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 发现没有？我从不说上班好或者创业好，抬高一方，贬损另一方。我也不说结婚好还是独身好，繁育好还是丁克好。甚至在那么多年里，我也不赞美有房产的人拿到了时代红利，或者赞美租房的人是难得的独醒者。
 
@@ -53,43 +52,4 @@ Markdown Content:
 
 我并不愤恨，我就觉得滑稽，有时候还觉得有点荒诞。在这个人世间，反而是我这种极端者最宽容，最随和，没有那么多非此不可，没有那么非此即彼。而那些几乎还拥有人生一切可能，尚未做下自己决定的人，却在撕裂人群，撕裂社会，自认为掌握了某种真理，党同伐异，无休无止。那么，现在有谁是在修补这个世界吗？或者说，大家认为这个世界还需要修补吗？
 
-![Image 2: Image](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkrK6th5o4ic5uxc5Q56XVOpJibMAMeWDxPyrIQCMJBIcC7NeSLnhy7l2DVACkmbRiaOicRvsbIDHmaaIA/640?wx_fmt=jpeg&from=appmsg)
-
-题图标题：**《对垒》**
-
-创作者：**和菜头的小肉手**
-
-AI算法提供：**Midjourney V6.1**
-
-Prompt：___background for a debate on gender issues with the left half blue and right half red with a tiny white dot in the center --ar 16:9 --p \--s 1000___ __\-_\-v 6.1_
-
-**槽边往事****和菜头 出品**
-
-****【微信号】****Bitsea**** 
-
-**个人转载内容至朋友圈和群聊天，无需特别申请版权许可。**
-
-**请你相信我，**
-
-**我所说的每一句话，**
-
-**都是错的**
-
->  **禅定时刻**
-
-![Image 3: Image](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkrK6th5o4ic5uxc5Q56XVOpJNzwibXBAV8kiaDceBTkXNu8ZT01BWPp4Ef7fYnDcGEGvv1WTdpjRbVJA/640?wx_fmt=jpeg&from=appmsg)
-
-**《脱先》**
-
-**和菜头的小肉手**
-
-**Midjourney V6.1**
-
->  **南派三叔专区**
-
-![Image 4: Image](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkrK6th5o4ic5uxc5Q56XVOpJoD9XibWk3J6cSh6ozJgRwyXMpCQLuv9Fu4l6vFlDEBkRBM4UPZ77DBw/640?wx_fmt=jpeg&from=appmsg)
-
-南派，这张《**遁去的一**》送给你。
-
->  **《槽边往事》专营店营业中**
 
