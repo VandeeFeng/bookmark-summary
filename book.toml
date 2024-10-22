@@ -8,7 +8,7 @@ authors = ["Vandee Feng"]
 
 [output.html]
 git-repository-url = "https://github.com/VandeeFeng/bookmark-summary"
-# edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
+edit-url-template = "https://github.com/VandeeFeng/bookmark-summary/edit/main/{path}"
 preferred-dark-theme = "caol"
 [output.html.search]
 enable = true
