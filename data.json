@@ -214,5 +214,13 @@
     "url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
     "timestamp": 1729606301,
     "summary": "时间是人类经验的核心特征，从计算角度来看，时间可视为一种计算过程，具有不可逆转性。观察者的角度和相对论效应也影响时间的表现。时间的性质复杂，多面，涉及计算过程、观察者、相对论效应等因素。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "What is a \"cognitive architecture\"?",
+    "url": "https://blog.langchain.dev/what-is-a-cognitive-architecture/",
+    "timestamp": 1729613709,
+    "summary": "本文讨论了“认知架构”的概念及其在大型语言模型中的作用。作者根据个人理解阐述了认知架构的定义，强调了选择合适的认知架构的重要性。文章还提到了LangChain和LangGraph两个工具，帮助开发者轻松构建和实验不同认知架构。"
   }
 ]
