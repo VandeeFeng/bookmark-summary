@@ -26,14 +26,6 @@
   {
     "year": "2024",
     "month": "10",
-    "title": "On the Nature of Time",
-    "url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
-    "timestamp": 1728990602,
-    "summary": "本文讨论了时间的计算视图。它介绍了时间的本质、观察者的角色、狭义相对论和重力等概念，阐明了计算步骤的不可约性决定了观察者无法跳过计算步骤，且空间和时间之间存在一定的相关性，观察者以不同方式感知和处理空间和时间。"
-  },
-  {
-    "year": "2024",
-    "month": "10",
     "title": "The Interactive Guide to Rendering in React",
     "url": "https://ui.dev/why-react-renders",
     "timestamp": 1728999720,
@@ -46,30 +38,6 @@
     "url": "https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy/",
     "timestamp": 1729005637,
     "summary": "知识经济逐渐结束，我们即将进入一个新的经济模式，即“分配经济”。在分配经济中，人们将不再只注重知识和技能积累，而是着重于资源管理、目标设定，做出更好的决策。AI工具，如聊天机器人，可以帮助我们更好地概括和分析信息。在新经济模式下，人们将专注于管理和分配资源，而不是从事大量重复性工作。分配经济将带来管理技能普及化、经济复杂化和创造力释放，并需要我们关注社会责任。"
-  },
-  {
-    "year": "2024",
-    "month": "10",
-    "title": "Google \"We Have No Moat, And Neither Does OpenAI\"",
-    "url": "https://www.semianalysis.com/p/google-we-have-no-moat-and-neither",
-    "timestamp": 1729008105,
-    "summary": "**谷歌内部文件：AI领域的竞争面临考验**谷歌内部人士认为，公司在AI领域的竞争优势不明显，尤其面对open-source模型的快速进展。开源模型的实施成本大幅降低，个人和小公司都能够运行高性能模型。谷歌面临的挑战包括模型体积过大和开放式模型的快速成长。谷歌需要重新评估商业模式和产品战略，并考虑与开放式开发社区合作。"
-  },
-  {
-    "year": "2024",
-    "month": "10",
-    "title": "知识的缝隙",
-    "url": "https://mp.weixin.qq.com/s/Nu16xFYIInSZN5hjW-avrw",
-    "timestamp": 1729008337,
-    "summary": "费曼学习法强调了学习的实用性和分享。它包括五个步骤：明确概念、教给别人、检查自己的理解、简化语言和反复练习。这个方法可以有效地提升学习者的理解和记忆力。"
-  },
-  {
-    "year": "2024",
-    "month": "10",
-    "title": "解构之美",
-    "url": "https://wangyurui.com/posts/jie-gou-zhi-mei-4e3d28d8",
-    "timestamp": 1729008581,
-    "summary": "解构主义是法国哲学家雅克·德里达创立的后现代思想，批判和解构现代思想和西方传统。其核心概念包括延异、逆反和非本质化，认为意义是在不断延后的过程中产生的。解构主义对西方传统的中心主义和逻各斯中心主义进行批判，推动社会多元化和文化多样性。其思想对艺术和建筑等领域产生影响，但本身存在矛盾和不稳定性，给予世界思想带来更大的发挥空间。"
   },
   {
     "year": "2024",
