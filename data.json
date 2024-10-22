@@ -222,5 +222,13 @@
     "url": "https://blog.langchain.dev/what-is-a-cognitive-architecture/",
     "timestamp": 1729613709,
     "summary": "本文讨论了“认知架构”的概念及其在大型语言模型中的作用。作者根据个人理解阐述了认知架构的定义，强调了选择合适的认知架构的重要性。文章还提到了LangChain和LangGraph两个工具，帮助开发者轻松构建和实验不同认知架构。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Why you should outsource your agentic infrastructure, but own your cognitive architecture",
+    "url": "https://blog.langchain.dev/why-you-should-outsource-your-agentic-infrastructure-but-own-your-cognitive-architecture/",
+    "timestamp": 1729613801,
+    "summary": "LangChain公司强调构建认知体系很重要，而不是过依赖通用性代理基础设施。本文总结了代理基础设施和认知体系的区别，分析了OpenAI Assitants API的局限性，并推广了LangChain公司的LangGraph Cloud服务，方便开发者建立自身认知体系。"
   }
 ]
