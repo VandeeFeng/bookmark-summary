@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-22) [半百](2024/10/2024-10-22-半百.md)
 - (2024-10-22) [LLM from scratch with Pytorch](2024/10/2024-10-22-llm-from-scratch-with-pytorch.md)
 - (2024-10-22) [马斯克的一些言论 - 即刻App](2024/10/2024-10-22-马斯克的一些言论---即刻app.md)
 - (2024-10-21) [Everything I built with Claude Artifacts this week](2024/10/2024-10-21-everything-i-built-with-claude-artifacts-this-week.md)
