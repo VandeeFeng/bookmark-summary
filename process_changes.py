@@ -114,7 +114,9 @@ def summarize_text(text: str) -> str:
 **要点总结**：
 {要点总结}
 """
-    return call_openai_api(prompt, text)
+    result = call_openai_api(prompt, text)  # 先调用 API 并存储结果
+    time.sleep(1)  # 等待 1 秒
+    return result  # 返回结果
 
 @log_execution_time
 def one_sentence_summary(text: str) -> str:
