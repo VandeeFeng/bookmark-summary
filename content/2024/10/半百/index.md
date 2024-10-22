@@ -29,7 +29,6 @@ Title: 半百
 URL Source: https://mp.weixin.qq.com/s/Sd580wX64RPN6C9cLRNQPQ
 
 Markdown Content:
-![Image 1: Image](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkoyaZiabakflAFVhSibVxqOZician2HPG5ib3ic9tmB4DOHVYXawGQvUc1HibAq44j347bAiaZE0mM1euw82g/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 转瞬之间，就到了轮流为朋友们庆祝50岁生日的时候。50岁生日要比40岁生日时好很多，没有了那么多彷徨无措，多了一些淡定从容，可能是因为多少知道了一点生命的变化，也可能是因为放弃了一些欲望和野心。
 
@@ -49,41 +48,4 @@ Markdown Content:
 
 所有五十岁的各位，祝你们生日快乐！亲爱的周迅，也祝你昨天生日快乐！
 
-题图标题：**《水珠》**
-
-创作者：**和菜头的小肉手**
-
-AI算法提供：**Midjourney V6.1**
-
-Prompt：____Abstract minimalist photography, with an ultra-shallow depth of field, pastel colors, and foggy blue mountains in the background. Three differently colored glass shapes are floating on the water, with cinematic lighting and soft, high-quality illumination. This image was created in the style of Hassan Pacheco___ \--ar 16:9_ __\-_\-v 6.1_
-
-**槽边往事****和菜头 出品**
-
-****【微信号】****Bitsea**** 
-
-**个人转载内容至朋友圈和群聊天，无需特别申请版权许可。**
-
-**请你相信我，**
-
-**我所说的每一句话，**
-
-**都是错的**
-
->  **禅定时刻**
-
-![Image 2: Image](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkoyaZiabakflAFVhSibVxqOZicicED7BxqCXZQ6LwgA1GYJXkMha77mKFma50brpJcljbDzHSm0sS1yrQ/640?wx_fmt=jpeg&from=appmsg)
-
-**《近日互联网观感》**
-
-**和菜头的小肉手**
-
-**Midjourney V6.1**
-
->  **南派三叔专区**
-
-![Image 3: Image](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkoyaZiabakflAFVhSibVxqOZicylDTov1ENssL0epGLzcw3rr42AsBs5o1HsA8eqySNadDWE7jFHHtMQ/640?wx_fmt=jpeg&from=appmsg)
-
-南派，这张《沙海日暮》送给你。
-
->  **《槽边往事》专营店营业中**
 
