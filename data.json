@@ -230,5 +230,13 @@
     "url": "https://blog.langchain.dev/why-you-should-outsource-your-agentic-infrastructure-but-own-your-cognitive-architecture/",
     "timestamp": 1729613801,
     "summary": "LangChain公司强调构建认知体系很重要，而不是过依赖通用性代理基础设施。本文总结了代理基础设施和认知体系的区别，分析了OpenAI Assitants API的局限性，并推广了LangChain公司的LangGraph Cloud服务，方便开发者建立自身认知体系。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "What is an agent?",
+    "url": "https://blog.langchain.dev/what-is-an-agent/",
+    "timestamp": 1729614186,
+    "summary": "作者认为代理一词并非指一个明确的事物，而是一系列使用大型语言模型（LLM）控制程序流程的事物。可以将代理看做一个谱系，拥有从简单路由系统到复杂自治系统等的多种可能性。还提到了开发过程的工具和平台 LANGGRAPH 和 LANGSMITH，及其在开发过程的重要性。"
   }
 ]
