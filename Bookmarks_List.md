@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-22) [解构之美](2024/10/2024-10-22-解构之美.md)
 - (2024-10-22) [Google "We Have No Moat, And Neither Does OpenAI"](2024/10/2024-10-22-google-we-have-no-moat,-and-neither-does-openai.md)
 - (2024-10-22) [极端者最平静](2024/10/2024-10-22-极端者最平静.md)
 - (2024-10-22) [半百](2024/10/2024-10-22-半百.md)
