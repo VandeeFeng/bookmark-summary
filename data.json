@@ -238,5 +238,13 @@
     "url": "https://blog.langchain.dev/what-is-an-agent/",
     "timestamp": 1729614186,
     "summary": "作者认为代理一词并非指一个明确的事物，而是一系列使用大型语言模型（LLM）控制程序流程的事物。可以将代理看做一个谱系，拥有从简单路由系统到复杂自治系统等的多种可能性。还提到了开发过程的工具和平台 LANGGRAPH 和 LANGSMITH，及其在开发过程的重要性。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "5 Chunking Strategies For RAG",
+    "url": "https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag",
+    "timestamp": 1729740165,
+    "summary": "本文讨论了五种 CHUNKING 策略用于 RAG 应用。RAG 通过从大型知识库中检索相关文档生成文本， CHUNKING 策略可提高检索效率和生成文本质量。五种策略包括固定大小、基于语义、基于文档结构、基于语言模型和混合方法，每种策略有优缺点，需根据具体需求选择。"
   }
 ]
