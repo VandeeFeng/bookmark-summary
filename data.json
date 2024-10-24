@@ -246,5 +246,13 @@
     "url": "https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag",
     "timestamp": 1729740165,
     "summary": "本文讨论了五种 CHUNKING 策略用于 RAG 应用。RAG 通过从大型知识库中检索相关文档生成文本， CHUNKING 策略可提高检索效率和生成文本质量。五种策略包括固定大小、基于语义、基于文档结构、基于语言模型和混合方法，每种策略有优缺点，需根据具体需求选择。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Aman's AI Journal • Primers • Ilya Sutskever's Top 30",
+    "url": "https://aman.ai/primers/ai/top-30-papers/",
+    "timestamp": 1729744675,
+    "summary": "两篇研究论文评估了大型语言模型对新知识的理解和推理能力及自动化事实核查能力。结果显示：模型难以理解和推理新知识，自动化事实核查有潜力但需人工核查；模型表现因语言和文化差异而有所不同；持续学习对于改进能力至关重要。"
   }
 ]

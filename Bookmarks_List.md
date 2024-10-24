@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-24) [Aman's AI Journal • Primers • Ilya Sutskever's Top 30](2024/10/2024-10-24-aman's-ai-journal-•-primers-•-ilya-sutskever's-top-30.md)
 - (2024-10-24) [5 Chunking Strategies For RAG](2024/10/2024-10-24-5-chunking-strategies-for-rag.md)
 - (2024-10-22) [What is an agent?](2024/10/2024-10-22-what-is-an-agent.md)
 - (2024-10-22) [Why you should outsource your agentic infrastructure, but own your cognitive architecture](2024/10/2024-10-22-why-you-should-outsource-your-agentic-infrastructure,-but-own-your-cognitive-architecture.md)
