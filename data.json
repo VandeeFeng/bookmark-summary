@@ -278,5 +278,13 @@
     "url": "https://lopespm.com/notes/2024/10/13/lessons_roman_history.html",
     "timestamp": 1729832145,
     "summary": "罗马从共和到帝国的转变与其后的崩溃，都是由多种因素促成的。罗马重视过去，尤其是对祖先的纪念和继承，塑造了其文化和政治体制。然而，帝国的衰落却是地理、气候、宗教、疾病等多因素导致的。历史的经验和教训可以使我们避免重复错误，指导我们的现在和未来。了解过去有助于我们为个人和集体发展提供指导和参考。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "PabloNet-将反射转化为画作",
+    "url": "https://www.matthieulc.com/posts/pablonet/",
+    "timestamp": 1729832366,
+    "summary": "PabloNet 是一个结合了 AI 和艺术的创作项目，利用 webcam 视频和人工神经网络生成艺术图像。作者 Matthieu Lecauchois 用一个可挂壁的 LCD 框架来展示 AI 生成的作品。项目旨在探索 AI 创作独特艺术的可能性，虽然存在帧率问题，但已开源邀请社区参与和贡献。"
   }
 ]
