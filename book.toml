@@ -9,7 +9,7 @@ authors = ["Vandee Feng"]
 [output.html]
 git-repository-url = "https://github.com/VandeeFeng/bookmark-summary"
 edit-url-template = "https://github.com/VandeeFeng/bookmark-summary/edit/main/{path}"
-preferred-dark-theme = "caol"
+preferred-dark-theme = "Ayu"
 [output.html.search]
 enable = true
 
