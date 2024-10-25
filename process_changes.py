@@ -105,7 +105,7 @@ def summarize_text(text: str) -> str:
 - 逐段阅读文章内容。
 - 总结文章的内容并生成「摘要」。这一步你需要全面理解文章内容的主题、内容的逻辑框架、作者的提出的观点，摘要不少于270个中文汉字。
 - 再次回顾原文所有内容，在上一步总结出「摘要」的基础上，进行深入分析。这一步你需要理清这些内容之间的逻辑关系、专业概念、名词概念，并着重关注原文内容里多次出现的词汇或概念，特别关注作者提出了什么观点、作者解决了那些具体的问题、作者体悟出了哪些道理、作者得出了什么重大的研究结论，最后梳理出「精炼内容」。
-- 根据原文内容和你上一步的「精炼内容」，提炼出文章的至少4个要点，按照markdown有序列表的格式列出这些要点并引入要点所在的原文并严格根据文章内容扩展对该要点的解析，方便读者理解这些要点的意思。
+- 根据原文内容和你上一步的「精炼内容」，提炼出文章的至少4个要点。你需要按照markdown有序列表的格式列出这些要点，并根据要点所在的原文并严格根据文章内容扩展对该要点的解析，方便读者理解这些要点的意思。
 - 按照指定的输出格式,整理出文章内容的总结。
 
 ## OutputFormat:
@@ -156,9 +156,6 @@ def build_summary_file(title: str, url: str, summary: str, one_sentence: str) ->
 - Added At: {CURRENT_DATE_AND_TIME}
 - [Link To Text]({get_text_content_path(title, in_summary_md=True)})
 
-## TL;DR
-{one_sentence}
-
 ## Summary
 {summary}
 """
@@ -173,8 +170,6 @@ extra:
   source: {url}
   original_title: {title}
 ---
-## TL;DR
-{one_sentence}
 ## Summary
 {summary}
 ## Full Content
