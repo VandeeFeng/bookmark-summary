@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-25) [Lessons from Roman History - Byte Tank](2024/10/2024-10-25-lessons-from-roman-history---byte-tank.md)
 - (2024-10-25) [Interview Learnings from former CIA Intelligence Officer - Byte Tank](2024/10/2024-10-25-interview-learnings-from-former-cia-intelligence-officer---byte-tank.md)
 - (2024-10-25) [内容行业和知识付费是一次性消耗积累不了资本](2024/10/2024-10-25-内容行业和知识付费是一次性消耗积累不了资本.md)
 - (2024-10-24) [Aman's AI Journal • Primers • Ilya Sutskever's Top 30](2024/10/2024-10-24-aman's-ai-journal-•-primers-•-ilya-sutskever's-top-30.md)
