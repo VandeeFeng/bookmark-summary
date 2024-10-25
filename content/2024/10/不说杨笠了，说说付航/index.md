@@ -85,32 +85,3 @@ _2024年10月24日 09:24_
 
 所以说，是要选一个偶尔不舒服，但有趣的社会呢？还是一个没有不舒服，但无趣的社会呢？后者也许更正能量，但我肯定会选前者。
 
-预览时标签不可点
-
-![Image 3](https://mp.weixin.qq.com/s/8VbZvcnGxzVjCXc2bWvOBQ?__readwiseLocation=)Scan to Follow
-
-继续滑动看下一个
-
-轻触阅读原文
-
-![Image 4](http://mmbiz.qpic.cn/mmbiz_png/4JuR3CjricibMPEm5Gl6E7Joons3uAkwibfN6DW1gflZic66GbC1922L819v9qVCeH0AVDZB3mr3T5bIdwy5g0cVBQ/0?wx_fmt=png)
-
-押沙龙yashl
-
-向上滑动看下一个
-
-[Got It](javascript:;)
-
- 
-
-![Image 5](https://mp.weixin.qq.com/s/8VbZvcnGxzVjCXc2bWvOBQ?__readwiseLocation=) Scan with Weixin to  
-use this Mini Program
-
-[Cancel](javascript:void(0);) [Allow](javascript:void(0);)
-
-[Cancel](javascript:void(0);) [Allow](javascript:void(0);)
-
-× 分析
-
- : ， .   Video Mini Program Like ，轻点两下取消赞 Wow ，轻点两下取消在看 Share Comment Favorite
-
