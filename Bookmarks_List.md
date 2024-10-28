@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-28) [Writes and Write-Nots - 写作能力的分化](2024/10/2024-10-28-writes-and-write-nots---写作能力的分化.md)
 - (2024-10-28) [一行代码降低 Vercel 40 倍成本](2024/10/2024-10-28-一行代码降低-vercel-40-倍成本.md)
 - (2024-10-28) [Character Amnesia in China - 提笔忘字性格失忆症](2024/10/2024-10-28-character-amnesia-in-china---提笔忘字性格失忆症.md)
 - (2024-10-28) [Before you buy a domain name, first check to see if it's haunted](2024/10/2024-10-28-before-you-buy-a-domain-name,-first-check-to-see-if-it's-haunted.md)

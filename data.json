@@ -342,5 +342,13 @@
     "url": "https://www.memfree.me/blog/reduce-vercel-costs",
     "timestamp": 1730096124,
     "summary": "通过禁用Next.js中next/link的预加载，文章实现了将Vercel函数调用次数降低40倍，显著节省成本；优化策略包括利用Cloudflare CDN功能和平衡客户端/服务器资源，提高性能与成本效率。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Writes and Write-Nots - 写作能力的分化",
+    "url": "https://paulgraham.com/writes.html",
+    "timestamp": 1730107195,
+    "summary": "文章探讨了技术发展下的写作角色分化，形成“写作者”与“不写作者”群体，强调写作不仅是技能也是思考的体现，技术进步可能增加思考能力差异，引发社会分层担忧，鼓励个人主动发展写作技能以避免认知流失。"
   }
 ]
