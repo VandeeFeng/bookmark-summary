@@ -334,5 +334,13 @@
     "url": "https://globalchinapulse.net/character-amnesia-in-china/",
     "timestamp": 1730095210,
     "summary": "本文探讨了“汉字遗忘症”现象，指受过良好教育的中国人开始遗忘如何书写常用汉字。原因包括汉字系统的复杂性、历史上的语言改革和教育变化。文章强调，数字化时代挑战汉字书写能力，中国需面对如何维持及提升汉字教育的困境。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "一行代码降低 Vercel 40 倍成本",
+    "url": "https://www.memfree.me/blog/reduce-vercel-costs",
+    "timestamp": 1730096124,
+    "summary": "通过禁用Next.js中next/link的预加载，文章实现了将Vercel函数调用次数降低40倍，显著节省成本；优化策略包括利用Cloudflare CDN功能和平衡客户端/服务器资源，提高性能与成本效率。"
   }
 ]
