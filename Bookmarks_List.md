@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-10-28) [Before you buy a domain name, first check to see if it's haunted](2024/10/2024-10-28-before-you-buy-a-domain-name,-first-check-to-see-if-it's-haunted.md)
 - (2024-10-25) [马克思常读常新](2024/10/2024-10-25-马克思常读常新.md)
 - (2024-10-25) [银弹飞过先锋大厦](2024/10/2024-10-25-银弹飞过先锋大厦.md)
 - (2024-10-25) [Measuring personal growth](2024/10/2024-10-25-measuring-personal-growth.md)
