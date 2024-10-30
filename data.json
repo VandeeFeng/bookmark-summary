@@ -350,5 +350,13 @@
     "url": "https://paulgraham.com/writes.html",
     "timestamp": 1730107195,
     "summary": "文章探讨了技术发展下的写作角色分化，形成“写作者”与“不写作者”群体，强调写作不仅是技能也是思考的体现，技术进步可能增加思考能力差异，引发社会分层担忧，鼓励个人主动发展写作技能以避免认知流失。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "无限续杯 Cursor",
+    "url": "http://bianyujie.cn/Unlimited-use-of-the-cursor?locale=zh",
+    "timestamp": 1730288626,
+    "summary": "Cursor是一款AI赋能的代码编辑器，拥有智能代码补全和深度理解能力，结合Claude 3.5 Sonnet提升性能。提供14天免费试用，新用户可注册新邮箱账号无限续用，同时维持原配置独立。适合通过教程学习快捷键、与AI交互，以提高编程效率。"
   }
 ]
