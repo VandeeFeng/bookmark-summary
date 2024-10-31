@@ -235,7 +235,3 @@ Dewarp流程与基本概念
 
 *   [汉王扫描笔T500](https://www.hw99.com/index.php?m=content&c=index&a=show&catid=135&id=743&mid=37)
 
-\> 下载少数派 [客户端](https://sspai.com/page/client)、关注 [少数派公众号](https://sspai.com/s/J71e)，了解更多的新玩意 🆒
-
-\> 特惠、好用的硬件产品，尽在 [少数派 sspai 官方店铺](https://shop549593764.taobao.com/?spm=a230r.7195193.1997079397.2.2ddc7e0bPqKQHc) 🛒
-
