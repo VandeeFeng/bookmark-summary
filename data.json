@@ -366,5 +366,13 @@
     "url": "https://baoyu.io/blog/v0-dev-prompt-structure-explanation?__readwiseLocation=",
     "timestamp": 1730344108,
     "summary": "文章介绍了Vercel设计的AI助手v0，强调其协助解决编程和开发任务的能力，通过MDX格式和特定代码块提供支持，遵循最佳实践和道德标准。v0提供简洁高效创新的编码解决方案，支持多种代码块和语言库，并通过实例展示了在构建3D场景、处理图像、邮件提交等多种场景的应用。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Solar-powered, self-hosted website",
+    "url": "https://solar.dri.es/",
+    "timestamp": 1730350573,
+    "summary": "本文分析了使用太阳能供电的Raspberry Pi网络站点，探讨了可再生能源在本地网络托管中的应用，分享了实际操作技术、挑战与优化策略，强调了环保理念与生态建设，以生动案例展示了技术的人文关怀。"
   }
 ]
