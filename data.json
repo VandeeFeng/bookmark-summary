@@ -390,5 +390,13 @@
     "url": "https://manateelazycat.github.io/2024/11/01/framework-for-simple/",
     "timestamp": 1730538554,
     "summary": "创业与工程架构师的成长历程分为五个阶段：从积累经验的初级程序员，到专注于整体产品设计并理解需求驱动架构的重要性，再到注重简洁优雅设计的高级阶段，始终以用户需求和代码简化为核心。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Octoverse: AI leads Python to top language as the number of global developers surges - 语言趋势",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-2024/",
+    "timestamp": 1730538966,
+    "summary": "本文分析AI对全球开发者及GitHub平台影响，揭示AI创建与Python流行趋势。开发者通过构建AI模型、参与Python、Jupyter Notebooks项目数量激增。Python超越JavaScript成为首选语言，Rust与T-SQL分别凸显安全性关注与数据科学需求，全球开发者加入高潮，尤其是印度、德国、日本与新加坡等国。开发人员角色转型为自动化、机器学习与数据科学专家，AI活动增长，推动云原生应用发展与GitHub多样化技术团队形成。"
   }
 ]
