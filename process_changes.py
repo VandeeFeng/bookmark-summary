@@ -71,7 +71,7 @@ def call_openai_api(prompt: str, content: str) -> str:
     api_endpoint: str = os.environ.get('OPENAI_API_ENDPOINT', 'https://api.openai.com/v1/chat/completions')
     response: requests.Response = requests.post(api_endpoint, headers=headers, data=json.dumps(data))
     return response.json()['choices'][0]['message']['content']
-
+'''
 def clean_prompt(prompt: str) -> str:
     """清理和验证prompt格式"""
     # 移除多余的空白字符
@@ -86,11 +86,11 @@ def clean_prompt(prompt: str) -> str:
     except ElementTree.ParseError as e:
         logging.warning(f"Prompt XML format warning: {e}")
     return prompt
-
+'''
 @log_execution_time
 def summarize_text(text: str) -> str:
     """从XML模板文件读取prompt并总结文本内容"""
-    with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/summary_prompt.xml', 'r', encoding='utf-8') as f:
+    with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/prompts/summary_prompt.txt', 'r', encoding='utf-8') as f:
         prompt = f.read()
     result = call_openai_api(prompt, text)
     time.sleep(1)
