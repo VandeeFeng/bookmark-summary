@@ -20,6 +20,54 @@
         </strict_rules>
     </constraints>
 
+    <chain_of_thought>
+        <phase name="阅读理解">
+            <step id="1">
+                <question>文章的主要议题是什么？</question>
+                <question>作者想要解决什么问题？</question>
+                <question>文章的整体框架如何？</question>
+                <reflection>基于以上问题，我理解文章的主要目标和结构是...</reflection>
+            </step>
+        </phase>
+
+        <phase name="概念分析">
+            <step id="2">
+                <question>文中的关键概念有哪些？</question>
+                <question>这些概念之间的关系是什么？</question>
+                <question>哪些是核心概念，哪些是支撑概念？</question>
+                <reflection>通过梳理概念关系，我发现文章的核心脉络是...</reflection>
+            </step>
+        </phase>
+
+        <phase name="逻辑分析">
+            <step id="3">
+                <question>作者的论证逻辑是什么？</question>
+                <question>论点之间如何递进和支撑？</question>
+                <question>有哪些重要的转折或突破点？</question>
+                <reflection>分析论证结构后，我认为关键的逻辑链条是...</reflection>
+            </step>
+        </phase>
+
+        <phase name="要点提炼">
+            <step id="4">
+                <question>如何将摘要中的核心信息进一步凝练？</question>
+                <question>哪些要点是最具代表性的？</question>
+                <question>要点之间是否存在重叠？</question>
+                <reflection>经过对摘要的再次提炼，我认为最核心的要点应该是...</reflection>
+            </step>
+        </phase>
+
+        <phase name="总结优化">
+            <step id="5">
+                <check>摘要是否完整传达了文章核心价值？</check>
+                <check>要点之间是否存在逻辑递进关系？</check>
+                <check>是否遗漏了重要观点？</check>
+                <check>原文引用是否准确且具有代表性？</check>
+                <reflection>基于以上检查，需要调整的地方是...</reflection>
+            </step>
+        </phase>
+    </chain_of_thought>
+    
     <output_format>
         <strict_boundaries>
             <!-- 定义严格的开始和结束边界 -->
