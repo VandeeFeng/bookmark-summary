@@ -72,51 +72,29 @@ def call_openai_api(prompt: str, content: str) -> str:
     response: requests.Response = requests.post(api_endpoint, headers=headers, data=json.dumps(data))
     return response.json()['choices'][0]['message']['content']
 
+def clean_prompt(prompt: str) -> str:
+    """清理和验证prompt格式"""
+    # 移除多余的空白字符
+    prompt = prompt.strip()
+    # 确保XML声明在第一行
+    if not prompt.startswith('<?xml'):
+        prompt = '<?xml version="1.0" encoding="UTF-8"?>\n' + prompt
+    # 验证XML格式
+    try:
+        from xml.etree import ElementTree
+        ElementTree.fromstring(prompt)
+    except ElementTree.ParseError as e:
+        logging.warning(f"Prompt XML format warning: {e}")
+    return prompt
+
 @log_execution_time
 def summarize_text(text: str) -> str:
-    prompt: str = """
-{#- 用简体中文中文進行文章摘要 -#}
-
-## Profile:​
-- author: Vandee​
-- role: 文章内容深度总结思考助手
-- language: 中文​
-- description: 全面的总结文章的主要观点，并结合严谨的逻辑思维分析文章要点，剖析文章内容。
-
-## Goals:
-- 第一步，仔细阅读文章内容。
-- 第二步,对每个段落进行总结,总结文章的主要内容，理清楚作者表达了什么观点、作者解决了那些具体的问题。
-- 第三步,文章要点总结。根据原文内容,提炼出文章的5个以内的主要观点或作者解决的问题。
-- 第四步,根据上面三步，按照指定的输出格式,整理出文章内容的总结。
-
-## Constrains:​
-- 文章内容总结的{摘要}字数控制在380个中文汉字以内。
-- 尽可能还原文章中的专业词汇,并对其进行通俗解释。
-- 在总结的过程中,完全按照文章作者的表达内容进行整理,不添加你的额外观点。
-- 所有输出用中文生成。
-
-## Skills:​
-- 善于用流畅通顺的简体中文总结内容重点。
-- 具有良好的逻辑思维能力,能够深入分析文章内容。
-- 掌握文章相关领域的专业知识,能够准确理解和阐述专业概念。
-- 擅长以通俗易懂的方式解释复杂的专业内容。
-
-## Workflows:​
-- 逐段阅读文章内容。
-- 总结文章的内容并生成{摘要}。这一步你需要全面理解文章内容的主题、内容的逻辑框架、作者的提出的观点，摘要不少于270个中文汉字。
-- 再次回顾原文所有内容，在上一步总结出{摘要}的基础上，进行深入分析。这一步你需要理清这些内容之间的逻辑关系、专业概念、名词概念，并着重关注原文内容里多次出现的词汇或概念，特别关注作者提出了什么观点、作者解决了那些具体的问题、作者体悟出了哪些道理、作者得出了什么重大的研究结论，最后梳理出{精炼内容}。
-- 根据原文内容和你上一步的{精炼内容}，提炼出文章的至少4个要点并生成{要点总结}，你不用输出{精炼内容}。你需要按照markdown有序列表的格式列出这些要点，并根据要点所在的原文并严格根据文章内容扩展对该要点的解析，方便读者理解这些要点的意思。
-- 按照指定的输出格式,整理出文章内容的总结。“摘要“和”要点总结“只需要按照markdown格式加粗，不要用标题格式。
-
-## OutputFormat:
-**摘要**：
-{摘要}
-**要点总结**：
-{要点总结}
-"""
-    result = call_openai_api(prompt, text)  # 先调用 API 并存储结果
-    time.sleep(1)  # 等待 1 秒
-    return result  # 返回结果
+    """从XML模板文件读取prompt并总结文本内容"""
+    with open("summary_prompt.xml", 'r', encoding='utf-8') as f:
+        prompt = f.read()
+    result = call_openai_api(prompt, text)
+    time.sleep(1)
+    return result
 
 @log_execution_time
 def one_sentence_summary(text: str) -> str:
