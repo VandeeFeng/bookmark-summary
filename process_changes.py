@@ -163,8 +163,11 @@ def build_summary_file(title: str, url: str, summary: str, one_sentence: str) ->
 
 def build_index_md(title: str, url: str, summary: str, one_sentence: str, text_content: str) -> str:
     """构建 index.md 文件内容，添加 YAML 头部并包含全文内容。"""
+    # 处理标题中的冒号
+    yaml_safe_title = title.replace(':', '-')
+    
     return f"""---
-title: {title}
+title: {yaml_safe_title}
 date: {CURRENT_DATE}
 extra:
   source: {url}
@@ -175,7 +178,6 @@ extra:
 ## Full Content
 {text_content}
 """
-
 
 def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> str:
     initial_prefix: str = """# Clip
