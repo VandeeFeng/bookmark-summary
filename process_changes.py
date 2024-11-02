@@ -89,7 +89,7 @@ def clean_prompt(prompt: str) -> str:
 '''
 @log_execution_time
 def summarize_text(text: str) -> str:
-    """从XML模板文件读取prompt并总结文本内容"""
+    """从模板文件读取prompt并总结文本内容"""
     with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/prompts/summary_prompt.txt', 'r', encoding='utf-8') as f:
         prompt = f.read()
     result = call_openai_api(prompt, text)
