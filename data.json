@@ -398,5 +398,13 @@
     "url": "https://github.blog/news-insights/octoverse/octoverse-2024/",
     "timestamp": 1730538966,
     "summary": "本文分析AI对全球开发者及GitHub平台影响，揭示AI创建与Python流行趋势。开发者通过构建AI模型、参与Python、Jupyter Notebooks项目数量激增。Python超越JavaScript成为首选语言，Rust与T-SQL分别凸显安全性关注与数据科学需求，全球开发者加入高潮，尤其是印度、德国、日本与新加坡等国。开发人员角色转型为自动化、机器学习与数据科学专家，AI活动增长，推动云原生应用发展与GitHub多样化技术团队形成。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Migrating billions of records: moving our active DNS database while it’s in use",
+    "url": "https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use",
+    "timestamp": 1730539849,
+    "summary": "Cloudflare进行DNS数据迁移以优化存储系统、提升服务性能。原系统资源紧张影响其他服务，促使DNS团队独立数据库集群。涉及数据库架构重设、服务数据分离、新API构建与安全性提升。迁移实现了数据同步、性能优化和资源管理改进，展示了大规模数据迁移的技术策略和管理经验。"
   }
 ]
