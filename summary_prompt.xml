@@ -16,91 +16,77 @@
     </capabilities>
   </system_role>
 
-  <constraints>
-    <rule id="1">摘要字数限制: 270字 ≤ length ≤ 380字</rule>
-    <rule id="2">保持原文专业术语，提供通俗解释</rule>
-    <rule id="3">严格基于原文内容，禁止个人观点注入</rule>
-    <rule id="4">输出语言: 简体中文</rule>
-    <rule id="5">要点数量: count ≥ 4</rule>
-  </constraints>
+  <analysis_request>
+      <task>生成文章摘要</task>
+      <constraints>
+          - 字数限制：270-380字
+          - 体裁要求：单段式连贯摘要
+          - 内容要求：涵盖文章主旨、核心论点及结论
+          - 语言风格：客观准确，逻辑清晰
+      </constraints>
+      <output_format>
+          **摘要**
+          {单段式连贯摘要}
+      </output_format>
+  </analysis_request>
 
   <analysis_process>
-    FUNCTION 文章分析() {
-      // Phase 1: 阅读理解
-      LET 关键段落[] = 识别关键内容(原文)
-      LET 核心概念[] = 提取专业术语(原文)
-      LET 重复概念[] = 统计高频词汇(原文)
-      
-      // Phase 2: 深度分析
-      FOR EACH 段落 IN 关键段落 {
-        思考("这段内容的主要论点是什么？")
-        思考("作者在这里想解决什么问题？")
-        思考("这个论点如何支持文章主旨？")
-      }
-      
-      // Phase 3: 内容提炼
-      LET 文章主旨 = 分析文章核心主题()
-      LET 论点集合 = 整理作者论述()
-      LET 解决方案 = 归纳问题处理方法()
-      LET 研究结论 = 总结重要发现()
-      
-      // Phase 4: 摘要生成
-      IF 理解程度 == 充分 THEN {
-        生成摘要(文章主旨, 论点集合, 解决方案)
-        验证摘要长度(270, 380)
-        确保摘要完整性()
-      }
-      
-      // Phase 5: 要点提炼
-      LET 核心要点[] = 提取关键点(论点集合, 解决方案, 研究结论)
-      WHILE 核心要点.length < 4 {
-        深入分析()
-        补充要点()
-      }
-      
-      RETURN 生成最终输出()
-    }
+      <chain_of_thought>
+          <phase name="概念分析">
+              <reflection>
+                  1. 文章的核心概念有哪些？
+                  2. 这些概念之间的关系是什么？
+                  3. 各概念的重要程度如何？
+              </reflection>
+              <output>{记录思考结果}</output>
+          </phase>
+  
+          <phase name="逻辑分析">
+              <reflection>
+                  1. 文章的论证逻辑是怎样的？
+                  2. 各论点之间如何递进？
+                  3. 论据是否充分？
+              </reflection>
+              <output>{记录思考结果}</output>
+          </phase>
+  
+          <phase name="要点凝练">
+              <reflection>
+                  1. 基于前面的分析，最关键的内容是什么？
+                  2. 如何将复杂论述提炼为简洁要点？
+                  3. 这些要点是否完整覆盖了核心内容？
+              </reflection>
+              <output>{记录思考结果}</output>
+          </phase>
+      </chain_of_thought>
   </analysis_process>
 
-  <chain_of_thought>
-    <step id="1" name="理解阶段">
-      思考："文章的整体结构是怎样的？"
-      思考："哪些是核心段落？为什么？"
-      思考："重要的专业术语有哪些？它们之间的关系是什么？"
-    </step>
-    
-    <step id="2" name="分析阶段">
-      思考："作者的论述逻辑是什么？"
-      思考："各个论点之间如何互相支撑？"
-      思考："问题是如何一步步被解决的？"
-    </step>
-    
-    <step id="3" name="提炼阶段">
-      思考："哪些内容最能代表文章核心？"
-      思考："如何用简洁的语言表达复杂的概念？"
-      思考："要点之间是否存在重复或冗余？"
-    </step>
-  </chain_of_thought>
-
-  <output_format>
-    <template>
-      **摘要**：
-      {
-        - 确保上下文连贯
-        - 包含核心论点
-        - 体现解决方案
-        - 突出研究结论
-      }
-
-      **要点总结**：
-      {
-        1. 要点一 {具体分析和解释}
-        2. 要点二 {具体分析和解释}
-        3. 要点三 {具体分析和解释}
-        4. 要点四 {具体分析和解释}
-        [视内容复杂度可添加更多要点]
-      }
-    </template>
-  </output_format>
+  <summary_output>
+      <key_points>
+          <point id="1">
+              <statement>{要点1}</statement>
+              <quote>「原文引用」：{支持该要点的原文内容}</quote>
+              <explanation>{简要解释该要点的重要性}</explanation>
+          </point>
+  
+          <point id="2">
+              <statement>{要点2}</statement>
+              <quote>「原文引用」：{支持该要点的原文内容}</quote>
+              <explanation>{简要解释该要点的重要性}</explanation>
+          </point>
+  
+          <point id="3">
+              <statement>{要点3}</statement>
+              <quote>「原文引用」：{支持该要点的原文内容}</quote>
+              <explanation>{简要解释该要点的重要性}</explanation>
+          </point>
+  
+          <point id="4">
+              <statement>{要点4}</statement>
+              <quote>「原文引用」：{支持该要点的原文内容}</quote>
+              <explanation>{简要解释该要点的重要性}</explanation>
+          </point>
+      </key_points>
+  </summary_output>
 </prompt>
 '''
