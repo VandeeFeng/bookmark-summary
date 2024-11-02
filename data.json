@@ -406,13 +406,5 @@
     "url": "https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use",
     "timestamp": 1730539849,
     "summary": "Cloudflare进行DNS数据迁移以优化存储系统、提升服务性能。原系统资源紧张影响其他服务，促使DNS团队独立数据库集群。涉及数据库架构重设、服务数据分离、新API构建与安全性提升。迁移实现了数据同步、性能优化和资源管理改进，展示了大规模数据迁移的技术策略和管理经验。"
-  },
-  {
-    "year": "2024",
-    "month": "11",
-    "title": "Creating a LLM-as-a-Judge That Drives Business Results",
-    "url": "https://hamel.dev/blog/posts/llm-judge/",
-    "timestamp": 1730544468,
-    "summary": "本文阐述了利用大规模语言模型构建\"裁判系统\"以驱动业务成果的关键步骤与策略。通过专家识别、多元数据集构建、专家指向判断与结果审核、错误分析与迭代、个性化\"裁判\"模型构建，该系统系统化地提升AI评估与决策的精确度。核心成就在细节构建、与专家合作、过程优化与成效评估中实现，增强业务成果与人工智能应用效能。"
   }
 ]
