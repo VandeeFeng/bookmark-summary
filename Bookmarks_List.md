@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-02) [Creating a LLM-as-a-Judge That Drives Business Results](2024/11/2024-11-02-creating-a-llm-as-a-judge-that-drives-business-results.md)
 - (2024-11-02) [Migrating billions of records: moving our active DNS database while it’s in use](2024/11/2024-11-02-migrating-billions-of-records-moving-our-active-dns-database-while-it’s-in-use.md)
 - (2024-11-02) [Octoverse: AI leads Python to top language as the number of global developers surges - 语言趋势](2024/11/2024-11-02-octoverse-ai-leads-python-to-top-language-as-the-number-of-global-developers-surges---语言趋势.md)
 - (2024-11-02) [创业架构师和工程架构师](2024/11/2024-11-02-创业架构师和工程架构师.md)
