@@ -406,5 +406,13 @@
     "url": "https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use",
     "timestamp": 1730539849,
     "summary": "Cloudflare进行DNS数据迁移以优化存储系统、提升服务性能。原系统资源紧张影响其他服务，促使DNS团队独立数据库集群。涉及数据库架构重设、服务数据分离、新API构建与安全性提升。迁移实现了数据同步、性能优化和资源管理改进，展示了大规模数据迁移的技术策略和管理经验。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Creating a LLM-as-a-Judge That Drives Business Results",
+    "url": "https://hamel.dev/blog/posts/llm-judge/",
+    "timestamp": 1730545646,
+    "summary": "文章《创建一个作为法官的 LLM，推动业务成果》提出“批判性阴影法”，解决AI团队在数据应用中迷失方向的问题，包括过量指标、任意评分系统、忽视领域专家意见和未验证指标等。建议识别关键领域专家，构建涵盖多种应用场景的数据集，逐步指导AI系统建设，确保其符合用户需求并有效运行。"
   }
 ]
