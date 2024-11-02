@@ -5,72 +5,39 @@
         <type>article_summary</type>
     </metadata>
 
+<?xml version="1.0" encoding="UTF-8"?>
+<prompt>
     <constraints>
         <strict_rules>
             <rule id="1">严禁在输出中包含任何助手标识、作者信息或模板标记</rule>
-            <rule id="2">输出内容必须直接从摘要开始</rule>
-            <rule id="3">禁止在输出中出现任何元信息说明</rule>
-            <rule id="4">摘要字数限制: 270字 ≤ length ≤ 380字</rule>
-            <rule id="5">保持原文专业术语，提供通俗解释</rule>
-            <rule id="6">严格基于原文内容，禁止个人观点注入</rule>
-            <rule id="7">输出语言: 简体中文</rule>
-            <rule id="8">要点数量: count ≥ 4</rule>
+            <rule id="2">输出必须直接从"**摘要**"开始，并立即呈现实际摘要内容</rule>
+            <rule id="3">禁止显示任何提示词、模板说明或格式说明</rule>
+            <rule id="4">禁止输出任何总结性质的元描述</rule>
+            <rule id="5">禁止保留花括号{}内的提示内容</rule>
+            <rule id="6">摘要字数限制: 270字 ≤ length ≤ 380字</rule>
+            <rule id="7">保持原文专业术语，提供通俗解释</rule>
+            <rule id="8">严格基于原文内容，禁止个人观点注入</rule>
+            <rule id="9">输出语言: 简体中文</rule>
+            <rule id="10">要点数量: 5 ≥ count ≥ 4</rule>
         </strict_rules>
     </constraints>
 
-    <chain_of_thought>
-        <phase name="阅读理解">
-            <step id="1">
-                <question>文章的主要议题是什么？</question>
-                <question>作者想要解决什么问题？</question>
-                <question>文章的整体框架如何？</question>
-                <reflection>基于以上问题，我理解文章的主要目标和结构是...</reflection>
-            </step>
-        </phase>
-
-        <phase name="概念分析">
-            <step id="2">
-                <question>文中的关键概念有哪些？</question>
-                <question>这些概念之间的关系是什么？</question>
-                <question>哪些是核心概念，哪些是支撑概念？</question>
-                <reflection>通过梳理概念关系，我发现文章的核心脉络是...</reflection>
-            </step>
-        </phase>
-
-        <phase name="逻辑分析">
-            <step id="3">
-                <question>作者的论证逻辑是什么？</question>
-                <question>论点之间如何递进和支撑？</question>
-                <question>有哪些重要的转折或突破点？</question>
-                <reflection>分析论证结构后，我认为关键的逻辑链条是...</reflection>
-            </step>
-        </phase>
-
-        <phase name="要点提炼">
-            <step id="4">
-                <question>如何将摘要中的核心信息进一步凝练？</question>
-                <question>哪些要点是最具代表性的？</question>
-                <question>要点之间是否存在重叠？</question>
-                <reflection>经过对摘要的再次提炼，我认为最核心的要点应该是...</reflection>
-            </step>
-        </phase>
-
-        <phase name="总结优化">
-            <step id="5">
-                <check>摘要是否完整传达了文章核心价值？</check>
-                <check>要点之间是否存在逻辑递进关系？</check>
-                <check>是否遗漏了重要观点？</check>
-                <check>原文引用是否准确且具有代表性？</check>
-                <reflection>基于以上检查，需要调整的地方是...</reflection>
-            </step>
-        </phase>
-    </chain_of_thought>
-
     <output_format>
+        <strict_boundaries>
+            <!-- 定义严格的开始和结束边界 -->
+            <start_marker>必须以 "**摘要**" 开始</start_marker>
+            <end_marker>必须在最后一个要点的 "要点解释" 后结束，禁止添加任何总结性文字</end_marker>
+            <prohibited_content>
+                <item>禁止输出任何形式的总结语</item>
+                <item>禁止对输出内容进行评价或描述</item>
+                <item>禁止在最后添加任何额外说明</item>
+                <item>禁止对文章结构或专业术语进行meta描述</item>
+            </prohibited_content>
+        </strict_boundaries>
+
         <template>
-            <!-- 必须直接从摘要开始，禁止任何额外标识 -->
             **摘要**
-            {单段式连贯摘要，270-380字，包含文章主旨、核心论点及结论}
+            [直接输出完整摘要内容]
 
             **核心要点**
             1. {要点一}：{支持该要点的原文内容}{简要说明该要点的重要性和意义}
@@ -79,26 +46,23 @@
             4. {要点四}：{支持该要点的原文内容}{简要说明该要点的重要性和意义}
             5. {要点五}：{支持该要点的原文内容}{简要说明该要点的重要性和意义}
         </template>
-
+        <!-- 严格的输出验证规则 -->
         <validation>
-            <check id="1">验证输出是否不含任何助手标识或元信息</check>
-            <check id="2">确保摘要字数在规定范围内</check>
-            <check id="3">验证每个要点是否都有相应的原文引用</check>
-            <check id="4">检查要点之间是否存在内容重复</check>
-            <check id="5">确认整体输出结构的完整性和规范性</check>
+            <rule id="1">输出必须严格按照模板格式</rule>
+            <rule id="2">在最后一个要点解释后立即终止输出</rule>
+            <rule id="3">禁止添加任何形式的总结或评价</rule>
+            <rule id="4">禁止对输出进行任何形式的meta描述</rule>
         </validation>
     </output_format>
+    <!-- 示例输出 -->
+    <example>
+        **摘要**
+        本文详细探讨了人工智能在医疗诊断领域的应用革新。通过分析大规模临床数据和病例研究，文章系统性地阐述了AI辅助诊断系统的开发流程、实施策略和效果评估。研究表明，在引入AI辅助诊断后，医生的诊断准确率提升了15%，诊断时间平均缩短30%。同时，文章也指出了当前AI医疗系统面临的数据标准化、算法透明度等关键挑战，并提出了相应的解决方案。
 
-    <examples>
-        <example>
-            **摘要**
-            本文详细介绍了利用大规模语言模型构建AI裁判系统以驱动业务成果的完整流程。文章阐述了从初始的专家索引到最终的实施评估的全过程，包括如何选择合适的领域专家、构建标准化的数据集、设计评估机制等关键步骤。通过系统性的方法论，展示了AI裁判系统如何有效提升业务决策质量和效率。
-
-            **核心要点**
-            1. 建立专家知识索引体系：通过与领域专家的深入对话，提炼出标准化的处理规则和评判标准。
-            2. 构建标准化数据集：数据集设计包括构建系统性结构，如类别、特征、场景和用户角色。
-
-            [后续要点格式相同...]
-        </example>
-    </examples>
+        **核心要点**
+        1. AI辅助诊断系统的开发流程：系统开发需要经过数据收集、算法训练、临床验证三个关键阶段，每个阶段都需要医疗专家的深度参与。
+        2. 诊断效率的显著提升：研究数据显示，采用AI辅助诊断后，医生的诊断准确率提升15%，平均诊断时间减少30%。
+        3. 数据标准化挑战：不同医疗机构的数据格式和标准不一致，这给AI系统的训练带来了显著挑战。
+        4. 算法透明度保障：文章提出了通过模型解释性技术和决策路径可视化来提升AI系统的透明度。
+    </example>
 </prompt>
