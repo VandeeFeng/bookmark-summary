@@ -5,8 +5,6 @@
         <type>article_summary</type>
     </metadata>
 
-<?xml version="1.0" encoding="UTF-8"?>
-<prompt>
     <constraints>
         <strict_rules>
             <rule id="1">严禁在输出中包含任何助手标识、作者信息或模板标记</rule>
