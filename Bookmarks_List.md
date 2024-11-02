@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-02) [创业架构师和工程架构师](2024/11/2024-11-02-创业架构师和工程架构师.md)
 - (2024-10-31) [带着数字化「摘录者」重返纸质阅读 - 少数派](2024/10/2024-10-31-带着数字化「摘录者」重返纸质阅读---少数派.md)
 - (2024-10-31) [Solar-powered, self-hosted website](2024/10/2024-10-31-solar-powered,-self-hosted-website.md)
 - (2024-10-31) [v0.dev prompt 结构详细解释](2024/10/2024-10-31-v0.dev-prompt-结构详细解释.md)
