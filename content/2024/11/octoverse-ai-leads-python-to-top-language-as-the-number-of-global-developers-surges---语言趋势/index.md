@@ -1,5 +1,5 @@
 ---
-title: Octoverse: AI leads Python to top language as the number of global developers surges - 语言趋势
+title: Octoverse AI leads Python to top language as the number of global developers surges - 语言趋势
 date: 2024-11-02
 extra:
   source: https://github.blog/news-insights/octoverse/octoverse-2024/
