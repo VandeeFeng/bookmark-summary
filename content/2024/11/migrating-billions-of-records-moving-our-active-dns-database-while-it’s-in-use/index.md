@@ -1,9 +1,9 @@
 ---
-title: Migrating billions of records: moving our active DNS database while it’s in use
+title: Migrating billions of records - moving our active DNS database while it’s in use
 date: 2024-11-02
 extra:
   source: https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use
-  original_title: Migrating billions of records: moving our active DNS database while it’s in use
+  original_title: Migrating billions of records - moving our active DNS database while it’s in use
 ---
 ## Summary
 **摘要**：
