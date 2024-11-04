@@ -414,5 +414,13 @@
     "url": "https://hamel.dev/blog/posts/llm-judge/",
     "timestamp": 1730546401,
     "summary": "该文介绍了一种将大型语言模型作为决策工具的方法，通过七个步骤构建理智模型以辅助业务决策，强调与专家合作、数据多样化、模型迭代优化和错误分析，旨在提供基于事实、逻辑和成本效益的数据驱动建议。文章建议构建专业化LLM并提供资源指南。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Drawing the Transformer Network from Scratch (Part 1)",
+    "url": "https://towardsdatascience.com/drawing-the-transformer-network-from-scratch-part-1-9269ed9a2c5e",
+    "timestamp": 1730703037,
+    "summary": "本文为Building a Transformer神经网络系列开篇，旨在以直观方式解析Transformer架构。文章从初始输入序列，经历词汇嵌入与位置编码提升表示能力，到关键与查询构造、自注意力机制实现，直至最后的多头自注意力优化，一步步揭示Transformer如何通过注意力机制理解、处理文本信息，最终汇总自注意力结果产生输出，特别强调多头自注意力在强化模型性能中的作用。此系列旨在构建对Transformer的清晰认知与应用基础。"
   }
 ]
