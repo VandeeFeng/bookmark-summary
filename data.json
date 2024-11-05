@@ -422,5 +422,13 @@
     "url": "https://towardsdatascience.com/drawing-the-transformer-network-from-scratch-part-1-9269ed9a2c5e",
     "timestamp": 1730703037,
     "summary": "本文为Building a Transformer神经网络系列开篇，旨在以直观方式解析Transformer架构。文章从初始输入序列，经历词汇嵌入与位置编码提升表示能力，到关键与查询构造、自注意力机制实现，直至最后的多头自注意力优化，一步步揭示Transformer如何通过注意力机制理解、处理文本信息，最终汇总自注意力结果产生输出，特别强调多头自注意力在强化模型性能中的作用。此系列旨在构建对Transformer的清晰认知与应用基础。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "A return to hand-written notes by learning to read & write",
+    "url": "http://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/",
+    "timestamp": 1730781449,
+    "summary": "内部服务器错误提示，常见于服务器故障或资源问题。解决需重试、检查浏览器缓存、验证网络连接，尝试访问其他网站确认问题是否普遍，并联系网站管理员报告错误，请求修复。关注后续解决状态。"
   }
 ]
