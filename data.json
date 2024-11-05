@@ -430,5 +430,13 @@
     "url": "https://www.sqlsec.com/2024/10/ubuntu.html",
     "timestamp": 1730782562,
     "summary": "本文指导如何在Kubuntu 24.04上构建高生产力Linux系统，通过优化安装、配置和应用选择，实现媲美macOS的体验，重点提升办公、编程、多媒体处理及娱乐效果。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "A return to hand-written notes by learning to read & write",
+    "url": "https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/",
+    "timestamp": 1730782713,
+    "summary": "本文关注从实物手写笔记转换为数字矢量化形式的技术，简化过程以普及数字笔记管理，提出“InkSight：通过阅读与书写学习的离线转在线手写转换”，使用照片提取手写轨迹，避免传统方法的硬件和软件开销，引入“Read & Write”概念简化过程。"
   }
 ]
