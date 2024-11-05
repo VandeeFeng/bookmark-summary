@@ -422,5 +422,13 @@
     "url": "https://towardsdatascience.com/drawing-the-transformer-network-from-scratch-part-1-9269ed9a2c5e",
     "timestamp": 1730703037,
     "summary": "本文为Building a Transformer神经网络系列开篇，旨在以直观方式解析Transformer架构。文章从初始输入序列，经历词汇嵌入与位置编码提升表示能力，到关键与查询构造、自注意力机制实现，直至最后的多头自注意力优化，一步步揭示Transformer如何通过注意力机制理解、处理文本信息，最终汇总自注意力结果产生输出，特别强调多头自注意力在强化模型性能中的作用。此系列旨在构建对Transformer的清晰认知与应用基础。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "手把手带你打造一个媲美 macOS 的 Linux 生产力系统",
+    "url": "https://www.sqlsec.com/2024/10/ubuntu",
+    "timestamp": 1730780651,
+    "summary": "Nginx是一款用于服务器端的高级网页集成应用系统，常用于实现反向代理、负载均衡和静态文件服务。以高性能、高稳定性和易于配置著称，广泛应用于现代Web服务器环境。文章简介Nginx用途并提及Ubuntu相关配置，但指向的URL返回“404 Not Found”，强调了在线资源完整性的重要。"
   }
 ]
