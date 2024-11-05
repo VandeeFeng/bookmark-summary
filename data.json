@@ -438,5 +438,13 @@
     "url": "https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/",
     "timestamp": 1730782713,
     "summary": "本文关注从实物手写笔记转换为数字矢量化形式的技术，简化过程以普及数字笔记管理，提出“InkSight：通过阅读与书写学习的离线转在线手写转换”，使用照片提取手写轨迹，避免传统方法的硬件和软件开销，引入“Read & Write”概念简化过程。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "15岁开发者 zmh - Chat Nio 被百万收购",
+    "url": "https://m.okjike.com/originalPosts/672733dadd10af52275889bc",
+    "timestamp": 1730809461,
+    "summary": "作者Vandee分享了从游戏兴趣到编程入门，再到项目开发、商业探索的个人经历，展示了编程带来的成长与机遇，最终通过开源与收购实现项目成功转型的历程。"
   }
 ]
