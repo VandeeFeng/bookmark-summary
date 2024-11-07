@@ -462,5 +462,13 @@
     "url": "https://berthub.eu/articles/posts/tracker-beeper/",
     "timestamp": 1730959662,
     "summary": "Bert Hubert 发布的“Tracker Beeper”工具通过发出声响警示用户每次数据传输，曝光了隐性追踪现象，已获百万观看，计划扩展兼容性与功能，包括支持更多平台与设备，并通过现场演示设备提升用户体验。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Great Hackers",
+    "url": "https://www.paulgraham.com/gh.html",
+    "timestamp": 1730994548,
+    "summary": "保罗·格雷厄姆的文章探讨了黑客产出与社会生产力的关系，指出科技提升导致分层明显，顶尖黑客的产出至关重要。文章强调，优秀黑客更看重工作趣味性与高品质工具，难以自我评价技能，热爱编程是成为顶尖黑客的关键。企业文化应重视与激励这样的人才。"
   }
 ]
