@@ -454,5 +454,13 @@
     "url": "https://uxplanet.org/alternatives-to-using-pure-black-000000-for-text-and-backgrounds-54ef0e733cdb",
     "timestamp": 1730811667,
     "summary": "《纯黑(#000000)用作文本和背景的替代方案》探讨了全黑设计的利弊，指出其可能引起眼疲劳的问题，并建议使用灰度、深蓝等中间色调以提升用户舒适度和体验。文章强调了以用户体验为中心的设计原则，并通过探讨色彩视觉因素，为设计者提供实用的色彩选择策略，以构建既美观又实用的界面。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Tracker Beeper - Bert Hubert's writings",
+    "url": "https://berthub.eu/articles/posts/tracker-beeper/",
+    "timestamp": 1730959662,
+    "summary": "Bert Hubert 发布的“Tracker Beeper”工具通过发出声响警示用户每次数据传输，曝光了隐性追踪现象，已获百万观看，计划扩展兼容性与功能，包括支持更多平台与设备，并通过现场演示设备提升用户体验。"
   }
 ]

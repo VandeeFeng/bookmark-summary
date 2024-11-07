@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-07) [Tracker Beeper - Bert Hubert's writings](2024/11/2024-11-07-tracker-beeper---bert-hubert's-writings.md)
 - (2024-11-05) [Alternatives to Using Pure Black for Text and Backgrounds](2024/11/2024-11-05-alternatives-to-using-pure-black-for-text-and-backgrounds.md)
 - (2024-11-05) [15岁开发者 zmh - Chat Nio 被百万收购](2024/11/2024-11-05-15岁开发者-zmh---chat-nio-被百万收购.md)
 - (2024-11-05) [A return to hand-written notes by learning to read & write](2024/11/2024-11-05-a-return-to-hand-written-notes-by-learning-to-read-&-write.md)
