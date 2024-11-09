@@ -21,7 +21,6 @@ Title: 心-境转化通俗解释
 URL Source: https://mp.weixin.qq.com/s/sKL5xOTs1jxzOjz-oSEXGw
 
 Markdown Content:
-![Image 1](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkpRgwjBT1IRI3OKsMtn00tuVbEH4znBicqvibmibU8fhRWY0RrAT9rqjpp4iaNlKTS1WKjZouHMTSMkxA/640?wx_fmt=jpeg&from=appmsg)
 
 我们在生活中时常听到一对概念：心随境转和境随心转。我们也会经常听到一句略带鸡汤味的话：你的心是怎样的，你看到的世界就是怎样的。
 
@@ -60,46 +59,4 @@ Markdown Content:
 我们生活在这个世界上，从孩子成长为成人，有点像是即时战略游戏里的“开地图”。每探索多一点，我们就能打开更大一片地图，能看到更多景象。然而，看到更多景象之后，我们之间彼此的选择并不相同，因为外境对心的影响彼此完全不同。所以这个游戏里，有人很快修建定居点，也有人继续在游荡，点亮更多地图。有的人以自己为终点，有的人以自己为起点，于是世界就那么建成了。
 
 不过，如果以自我解脱作为终极目的，那么人还是需要在这两者之间做出取舍，只是大多数人因为外境就已经有了足够的烦恼，不会费心去思考这件事而已，也更不会意识到曾经有一刻，自己在别人心中曾经那么忽闪忽闪个没完没了。
-
-题图标题：**《侧面》**
-
-创作者：**和菜头的小肉手**
-
-AI算法提供：**Midjourney V6.1**
-
-Prompt：__________Illustration of an elegant woman in profile, her face partially obscured by shadows, in the style of Toshihiro Kawamoto and Kazumasa Nagai, in the style of Eiko Ojala, minimalism, simple shapes, monochrome background, flat illustration, black and white, vintage style, low light, dark background, sharp focus, centered composition, high contrast, soft lighting, beautiful, elegant, cinematic. --ar 3:4 --p__________   __\-_\-v 6.1_
-
-**槽边往事****和菜头 出品**
-
-****【微信号】****Bitsea**** 
-
-**个人转载内容至朋友圈和群聊天，无需特别申请版权许可。**
-
-**请你相信我，**
-
-**我所说的每一句话，**
-
-**都是错的**
-
->  **禅定时刻**
-
-![Image 2](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkpRgwjBT1IRI3OKsMtn00tuUfHjZAYvhhWw9ibgIdu5l7nnEiaWcydRKhwsDCiceq2FQPXnCCjEAfKsA/640?wx_fmt=jpeg&from=appmsg)
-
-**《阿咪呀》**
-
-**和菜头的小肉手**
-
-**Midjourney V6.1**
-
->  **南派三叔专区**
-
-![Image 3](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkoib0ZXyXgxTVde1ibngibFz2BgadNV4dqZm1S9KqaYNiciaQnqRtart3Q5HwEuduRLUBUKRyb87SiawJ8g/640?wx_fmt=jpeg&from=appmsg)
-
-南派，这张《**Hello****》**送给你。
-
->  **《槽边往事》专营店营业中**
-
-由于生日专场下单较多，同时还有大量赠品和礼品需要和包裹一一对应，所以需要较长时间处理，11月5日下单的各位还请耐心等待，我们将竭力尽早、正确地发出包裹。谢谢大家的理解和体谅！
-
-预计今天包裹还剩一小半。
 
