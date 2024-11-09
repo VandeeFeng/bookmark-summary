@@ -478,5 +478,13 @@
     "url": "https://www.gcores.com/articles/190566",
     "timestamp": 1731143617,
     "summary": "文章通过解析C语言内存管理，强调栈与堆内存差异，指出直接使用栈返回字符串引起的错误，提出输出参数与堆内存分配及释放作为解决方案，旨在提升开发者对内存管理正确性的认识与实践能力。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Do It Your Way",
+    "url": "https://collabfund.com/blog/your-way-is-the-only-way/",
+    "timestamp": 1731144685,
+    "summary": "本文警告个性在内外压力下被忽视，强调在职场和生活中保留个人属性的重要性，提倡根据个人目标设定标准，尊重投资与消费个性，避免模糊对错评判，强调满足个人需求超过社会认同。"
   }
 ]
