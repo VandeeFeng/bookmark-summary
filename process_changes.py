@@ -16,7 +16,7 @@ import http.client
 BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
 BOOKMARK_SUMMARY_REPO_NAME: str = "bookmark-summary"
 TEABLE_TABLE_ID: str = os.environ.get('TEABLE_TABLE_ID') 
-TEABLE_API: str = os.environ.get('TEABLE_TOKEN') 
+TEABLE_TOKEN: str = os.environ.get('TEABLE_TOKEN') 
 # -- configurations end --
 
 logging.basicConfig(
@@ -339,7 +339,7 @@ def process_bookmark_file():
         json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
 
         # Post to Teable
-    if TEABLE_API_TOKEN and TEABLE_TABLE_ID:
+    if TEABLE_TOKEN and TEABLE_TABLE_ID:
         post_to_teable(title, url, one_sentence)
     else:
         logging.warning("Teable API token or table ID not set, skipping Teable update")
