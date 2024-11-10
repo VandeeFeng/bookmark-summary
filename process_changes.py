@@ -323,11 +323,11 @@ def process_bookmark_file():
 
     # 更新已总结的书签数据
     summarized_bookmarks.append(SummarizedBookmark(
-        year=CURRENT_YEAR,
-        month=CURRENT_MONTH,
         title=title,
         url=url,
         summary=one_sentence,
+        year=CURRENT_YEAR,
+        month=CURRENT_MONTH,
         timestamp=timestamp
     ))
 
