@@ -233,7 +233,7 @@ def post_to_teable(title: str, url: str, one_sentence: str) -> None:
             "records": [{
                 "fields": {
                     "Title": title,
-                    "URL": url,
+                    "Source": url,
                     "Summary": one_sentence,
                 }
             }]
