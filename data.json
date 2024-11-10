@@ -502,5 +502,13 @@
     "url": "https://wangyurui.com/posts/fu-shi-de-jing-shen-fe7413c8",
     "timestamp": 1731210366,
     "summary": "《浮士德》是歌德以六十年倾力打造的德语文学巨著，描述天才学者浮士德通过与魔鬼梅菲斯特的交易，不断追求知识、权力、爱情与艺术，最终理解生命真谛，灵魂前往天堂的故事。浮士德的四次失败象征人性的局限，而其对理想的不懈追求反映了歌德的深刻思考。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "提示词工程：技术分类与提示词微调[译]",
+    "url": "https://baoyu.io/translations/prompt-engineering/prompt-engineering-classification-of-techniques-and-prompt-tuning",
+    "timestamp": 1731254746,
+    "summary": "文章《提示词工程：技术分类与提示词微调》详解提示词工程技术，旨在优化大语言模型的响应。其核心包括分类应对引用资源、偏见、解算数学和消除幻觉的回答的技术，分为单一、组合提示词与外部工具结合三类，并提出清晰、具体、结构性提示词设计法则。强调提示词设计为数据科学过程，通过实例指导和评估优化模型理解及生成质量。"
   }
 ]
