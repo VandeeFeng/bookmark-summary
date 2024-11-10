@@ -10,10 +10,13 @@ import logging
 import time
 from functools import wraps
 from urllib.parse import quote
+import http.client
 
 # -- configurations begin --
 BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
 BOOKMARK_SUMMARY_REPO_NAME: str = "bookmark-summary"
+TEABLE_TABLE_ID: str = os.environ.get('TEABLE_TABLE_ID') 
+TEABLE_API: str = os.environ.get('TEABLE_TOKEN') 
 # -- configurations end --
 
 logging.basicConfig(
@@ -218,6 +221,48 @@ Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签
     return initial_prefix + summary_list
 
 @log_execution_time
+def post_to_teable(title: str, url: str, one_sentence: str) -> None:
+    """
+    Post a bookmark record to Teable
+    """
+    try:
+        conn = http.client.HTTPSConnection("app.teable.io")
+        
+        payload = {
+            "typecast": True,
+            "records": [{
+                "fields": {
+                    "Title": title,
+                    "URL": url,
+                    "Summary": one_sentence,
+                }
+            }]
+        }
+        
+        headers = {
+            'Authorization': f"Bearer {TEABLE_TOKEN}",
+            'Content-Type': "application/json"
+        }
+        
+        conn.request(
+            "POST", 
+            f"/api/table/{TEABLE_TABLE_ID}/record", 
+            json.dumps(payload), 
+            headers
+        )
+        
+        response = conn.getresponse()
+        if response.status not in (200, 201):
+            logging.error(f"Failed to post to Teable. Status: {response.status}, Response: {response.read().decode()}")
+        else:
+            logging.info("Successfully posted to Teable")
+            
+    except Exception as e:
+        logging.error(f"Error posting to Teable: {str(e)}")
+    finally:
+        conn.close()
+
+@log_execution_time
 def process_bookmark_file():
     # 读取书签和已总结书签
     with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
@@ -293,9 +338,11 @@ def process_bookmark_file():
     with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
         json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
 
-
-
-
+        # Post to Teable
+    if TEABLE_API_TOKEN and TEABLE_TABLE_ID:
+        post_to_teable(title, url, one_sentence)
+    else:
+        logging.warning("Teable API token or table ID not set, skipping Teable update")
 
 def main():
     process_bookmark_file()
