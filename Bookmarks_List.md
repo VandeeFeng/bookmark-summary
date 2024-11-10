@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-10) [提示词工程：技术分类与提示词微调[译]](2024/11/2024-11-10-提示词工程：技术分类与提示词微调[译].md)
 - (2024-11-10) [人生需要浮士德精神](2024/11/2024-11-10-人生需要浮士德精神.md)
 - (2024-11-09) [心-境转化通俗解释](2024/11/2024-11-09-心-境转化通俗解释.md)
 - (2024-11-09) [Do It Your Way](2024/11/2024-11-09-do-it-your-way.md)
