@@ -11,6 +11,7 @@ import time
 from functools import wraps
 from urllib.parse import quote
 import http.client
+from pypinyin import pinyin, Style
 
 # -- configurations begin --
 BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
@@ -147,6 +148,12 @@ def one_sentence_summary(text: str) -> str:
 def slugify(text: str) -> str:
     invalid_fs_chars: str = '/\\:*?"<>|'
     return re.sub(r'[' + re.escape(invalid_fs_chars) + r'\s]+', '-', text.lower()).strip('-')
+
+def url_to_pinyin(text: str) -> str:
+    # 默认输出不带声调的拼音
+    result = pinyin(text, style=Style.NORMAL)
+    # 用短横线连接拼音
+    return '-'.join([''.join(p) for p in result])
 
 def get_summary_file_path(title: str, timestamp: int, year: Optional[str] = None, month: Optional[str] = None, in_readme_md: bool = False) -> Path:
     date_str = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
@@ -290,12 +297,14 @@ def process_bookmark_file():
     # 将标题格式化为文件名
     title_slug = slugify(title)
 
+    title_pinyin = url_to_pinyin(title)
+
     # 创建 YEAR/MONTH/ 目录
     monthly_path = Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_YEAR}/{CURRENT_MONTH}')
     monthly_path.mkdir(parents=True, exist_ok=True)
 
     # 创建 content/YEAR/MONTH/TITLE/ 目录
-    content_path = Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/content/{CURRENT_YEAR}/{CURRENT_MONTH}/{title_slug}')
+    content_path = Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/content/{CURRENT_YEAR}/{CURRENT_MONTH}/{title_pinyin}')
     content_path.mkdir(parents=True, exist_ok=True)
 
     # 获取和总结内容
