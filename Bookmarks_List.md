@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-14) [Fcitx 最佳配置实践](2024/11/2024-11-14-fcitx-最佳配置实践.md)
 - (2024-11-13) [拿到多少钱，学历才算没贬值 - 少数派](2024/11/2024-11-13-拿到多少钱，学历才算没贬值---少数派.md)
 - (2024-11-12) [成功的初创公司的两个关键优势，懂传播和会讲故事](2024/11/2024-11-12-成功的初创公司的两个关键优势，懂传播和会讲故事.md)
 - (2024-11-11) [创业者和投资人](2024/11/2024-11-11-创业者和投资人.md)

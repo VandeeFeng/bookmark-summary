@@ -534,5 +534,13 @@
     "url": "https://sspai.com/post/93573",
     "timestamp": 1731475502,
     "summary": "文章通过分析收入数据，指出高学历劳动人群的实际收入远低于预期，难以支撑教育成本。就业市场竞争激烈，学历与收入的直接关系下降。个人收入主要与同龄人比较，消费驱动收入增长，理解市场需求能提升收入。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Fcitx 最佳配置实践",
+    "url": "https://manateelazycat.github.io/2024/11/13/fcitx-best-config/",
+    "timestamp": 1731576588,
+    "summary": "本文详细指导Linux环境下配置Fcitx输入法，包括安装Fcitx组件、解决快速输入漏字问题、定制Fcitx皮肤、设置白霜输入法，以及在Emacs中集成白霜输入法，以全面提升输入体验。"
   }
 ]
