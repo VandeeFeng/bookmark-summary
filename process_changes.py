@@ -297,7 +297,7 @@ def process_bookmark_file():
     # 将标题格式化为文件名
     title_slug = slugify(title)
 
-    title_pinyin = url_to_pinyin(title)
+    title_pinyin = url_to_pinyin(title_slug)
 
     # 创建 YEAR/MONTH/ 目录
     monthly_path = Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_YEAR}/{CURRENT_MONTH}')
