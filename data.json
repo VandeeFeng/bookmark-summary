@@ -574,5 +574,13 @@
     "url": "https://pubs.aip.org/aapt/ajp/article/92/11/827/3317285/On-cat-human-interaction-from-the-viewpoint-of",
     "timestamp": 1731652627,
     "summary": "本文运用经典力学视角，通过方程式模拟猫遇人类时的七种行为模式，包括对呼唤的反应、长时间陪伴偏爱者等。模型解释了猫的随机行为与喘息声，并通过物理现象如外力场与时间随机外力项来说明这些行为，展现跨学科研究在行为学与物理学领域的应用潜力。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "RSSHub 开发实践 - Telegram 频道 RSS 订阅实现与部署方案",
+    "url": "https://www.pseudoyu.com/zh/2024/11/18/rsshub_telegram_channel_integration/",
+    "timestamp": 1731923918,
+    "summary": "本文指导在RSSHub中对接Telegram官方API和MTProxy构建特定频道RSS订阅服务，从API获取与身份一致性方面优化设计，推荐Docker Compose部署，整合终端资源，确保安全便捷的实施，附实例验证和社区互动途径。"
   }
 ]
