@@ -21,7 +21,6 @@ Title: 表演型无私
 URL Source: https://mp.weixin.qq.com/s/XnVlja1xJTQpqiM4DCHT-w
 
 Markdown Content:
-![Image 1](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkrQcKqNLVkrcgsPlW3kW5uAUIkmUnBocdK79M7eP6Yr2pjkt1tw81ce1rUgM28NdPzerBGFhia3w0g/640?wx_fmt=jpeg&from=appmsg)
 
 从读书那时候起，我就不喜欢任何当众求爱，楼下点蜡，淋雨守候一类的事情。当然，我并不认为自己十二生肖属尺子，所以我在很多年里也做过反思，思考是不是把我的个人的性格和偏好当做了所有人的标准？是不是自己由于内心长期受酸葡萄侵蚀而导致个人判断法海化？
 
@@ -48,48 +47,3 @@ Markdown Content:
 不知道过去多久，突然之间，我就觉得沮丧像是周围的暮色一样降临在我身上，一切都没什么意义，“你在自我感动个屁呀？”，然后就骑车转身回家了。
 
 就像是现在，当我把这段往事写下来的瞬间，我的自我因为造作就摧毁了它的所有美好，让三十多年前那个穿着军大衣跨坐在自行车上的少年身影，本可以永久保留在心里的个人秘密，变成了一场网络上的舞台表演，甚至让对方在无知无觉中在地球的另一端莫名其妙地就背负了一笔过时的债务。
-
-题图标题：**《女儿》**
-
-创作者：**和菜头的小肉手**
-
-AI算法提供：**Midjourney V6.1**
-
-Prompt：________Chinese Baby girl design, full body, short black hair, wearing glasses, , cute, tender, Disney and Pixar style, 3D, --ar 3:4________ __\-_\-v 6.1_
-
-**槽边往事****和菜头 出品**
-
-****【微信号】****Bitsea**** 
-
-**个人转载内容至朋友圈和群聊天，无需特别申请版权许可。**
-
-**请你相信我，**
-
-**我所说的每一句话，**
-
-**都是错的**
-
->  **禅定时刻**
-
-![Image 2](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkrQcKqNLVkrcgsPlW3kW5uA84OKdygubMv0CJY712vAagBUMwUOQFNgRPYGknRicbmuzC4oDCCfXmw/640?wx_fmt=jpeg&from=appmsg)
-
-**《花》**
-
-**和菜头的小肉手**
-
-**Midjourney V6.1**
-
->  **南派三叔专区**
-
-![Image 3](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkrQcKqNLVkrcgsPlW3kW5uAvGX56SIvHkiatYFAkf7wRXHy3bAhPEICbJpzl0AMuAGPIE7LyYYZRUA/640?wx_fmt=jpeg&from=appmsg)
-
-南派，这张《**你过来啊****》**送给你。
-
->  **《槽边往事》专营店营业中**
-
-老师在朋友圈发了一张照片，我很喜欢，也给你看看：
-
-![Image 4](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkoHSCj9TMia0iaE5fNzibYjTjH6OMqGrBWH0a1gJXgoLY95uUrBrMplYAdkicdNWOaT4ruvpcsfRObfOQ/640?wx_fmt=jpeg&from=appmsg)
-
-_Guru Rimpoche Padmasambhava Statue, Muktinath, Bhutan_
-
