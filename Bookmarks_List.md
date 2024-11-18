@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-18) [RSSHub 开发实践 #01：Telegram 频道 RSS 订阅实现与部署方案](2024/11/2024-11-18-rsshub-开发实践-#01：telegram-频道-rss-订阅实现与部署方案.md)
 - (2024-11-15) [the equation of cat motion](2024/11/2024-11-15-the-equation-of-cat-motion.md)
 - (2024-11-15) [一个让心智快速成长的好方法](2024/11/2024-11-15-一个让心智快速成长的好方法.md)
 - (2024-11-15) [Why is the Speed of Light So Fast? (Part 1)](2024/11/2024-11-15-why-is-the-speed-of-light-so-fast-(part-1).md)
