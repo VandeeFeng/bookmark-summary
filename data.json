@@ -590,5 +590,13 @@
     "url": "https://mp.weixin.qq.com/s/XnVlja1xJTQpqiM4DCHT-w",
     "timestamp": 1731925192,
     "summary": "文章探讨表演型无私这一现象，认为在现代社会中，人们通过夸张行为展示爱情与谦逊，实则带有自我表现的意图，与内在的真实无私相异。引述禅师观点，强调真正无私不在于外在牺牲，而在于内在的谦逊与真爱。通过个人经历，反思社会对伟大爱情与无私推崇背后的表面化和表演性特点，强调情感表达应在于真诚与深刻。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Exploring the browser rendering process | Little Things",
+    "url": "https://abhisaha.com/blog/exploring-browser-rendering-process/",
+    "timestamp": 1732069655,
+    "summary": "浏览器渲染过程从解析输入网址的DNS、建立安全连接到网页内容解析、构建DOM和CSSOM树，再到页面元素布局和最终显示，涉及多步骤，CSS属性关键影响页面呈现。了解这些机制利于优化网站性能。"
   }
 ]
