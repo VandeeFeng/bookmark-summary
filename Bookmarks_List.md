@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-20) [Inside Elon Musk’s messy breakup with OpenAI](2024/11/2024-11-20-inside-elon-musk’s-messy-breakup-with-openai.md)
 - (2024-11-20) [OpenAI Email Archives (from Musk v. Altman) — LessWrong](2024/11/2024-11-20-openai-email-archives-(from-musk-v.-altman)-—-lesswrong.md)
 - (2024-11-20) [Reactive HTML notebooks](2024/11/2024-11-20-reactive-html-notebooks.md)
 - (2024-11-20) [Exploring the browser rendering process | Little Things](2024/11/2024-11-20-exploring-the-browser-rendering-process-little-things.md)
