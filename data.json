@@ -598,5 +598,13 @@
     "url": "https://abhisaha.com/blog/exploring-browser-rendering-process/",
     "timestamp": 1732069655,
     "summary": "浏览器渲染过程从解析输入网址的DNS、建立安全连接到网页内容解析、构建DOM和CSSOM树，再到页面元素布局和最终显示，涉及多步骤，CSS属性关键影响页面呈现。了解这些机制利于优化网站性能。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Reactive HTML notebooks",
+    "url": "https://maxbo.me/a-html-file-is-all-you-need.html",
+    "timestamp": 1732069795,
+    "summary": "HTML具备作为科学出版平台的潜力，支持数据探索、分析、可视化和文档编排。通过HTML的特性创建交互式笔记，实现动态内容更新、格式化输出和多项语言集成。这使其成为集成动态计算、文档编辑和数据分析的多功能平台，未来可能通过特定库的开发增强其科学出版流程的自动化和用户交互体验。"
   }
 ]

@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-20) [Reactive HTML notebooks](2024/11/2024-11-20-reactive-html-notebooks.md)
 - (2024-11-20) [Exploring the browser rendering process | Little Things](2024/11/2024-11-20-exploring-the-browser-rendering-process-little-things.md)
 - (2024-11-18) [表演型无私](2024/11/2024-11-18-表演型无私.md)
 - (2024-11-18) [RSSHub 开发实践 - Telegram 频道 RSS 订阅实现与部署方案](2024/11/2024-11-18-rsshub-开发实践---telegram-频道-rss-订阅实现与部署方案.md)
