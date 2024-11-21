@@ -622,5 +622,13 @@
     "url": "https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind",
     "timestamp": 1732121716,
     "summary": "本文描述了Elon Musk与OpenAI分手的复杂过程，由初期合作变得恶劣。两人曾致力于为人类利益开发先进AI，但Musk退出OpenAI后，创立xAI并与Jeff Altman发生冲突。Musk起诉指控Altman操纵公司并滥用资源，尽管可能缺乏适当的法律依据。这场法律纠纷揭示了两人合作路径上的分歧和利益冲突，展现了一场涉及AI发展、公司治理及个人关系的激烈较量。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "llms.txt—a proposal to provide information to help LLMs use websites",
+    "url": "https://www.answer.ai/posts/2024-09-03-llmstxt.html?_hsmi=334907283",
+    "timestamp": 1732154713,
+    "summary": "为语言模型优化网站内容，新增`/llms.txt`文件，列出其所需链接和信息，以高效提供背景知识，提升模型与网站互动效率。"
   }
 ]
