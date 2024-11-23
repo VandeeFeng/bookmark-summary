@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-23) [用随机梯度下降来优化人生](2024/11/2024-11-23-用随机梯度下降来优化人生.md)
 - (2024-11-23) [生成结构化的内容（JSON模式）是否会影响 LLM 性能？](2024/11/2024-11-23-生成结构化的内容（json模式）是否会影响-llm-性能？.md)
 - (2024-11-21) [llms.txt—a proposal to provide information to help LLMs use websites](2024/11/2024-11-21-llms.txt—a-proposal-to-provide-information-to-help-llms-use-websites.md)
 - (2024-11-20) [Inside Elon Musk’s messy breakup with OpenAI](2024/11/2024-11-20-inside-elon-musk’s-messy-breakup-with-openai.md)
