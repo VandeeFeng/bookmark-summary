@@ -1,9 +1,9 @@
 ---
-title: Wireguard- Beyond the most basic configuration
+title: Wireguard - Beyond the most basic configuration
 date: 2024-11-26
 extra:
   source: https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/
-  original_title: Wireguard: Beyond the most basic configuration
+  original_title: Wireguard - Beyond the most basic configuration
 ---
 ## Summary
 **摘要**：
