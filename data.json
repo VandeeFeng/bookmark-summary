@@ -662,5 +662,13 @@
     "url": "https://wangyurui.com/posts/cong-ming-ren-jia-xu-ec2ce6e4",
     "timestamp": 1732590587,
     "summary": "文章讲述了贾诩的生平，展现了他在复杂政治局势下利用策略和智慧取得的关键胜利，从解救氐人危机、平定董卓之乱、助力曹操统一北方到处理继承权纷争，全文强调了贾诩的精明决策、适应能力和对人性深刻的洞察。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "How I configure my Git identities",
+    "url": "https://benji.dog/articles/git-config/",
+    "timestamp": 1732590825,
+    "summary": "本文阐述了利用Git的高级配置特性（如`includeIf`、`hasconfig`）和SSH配置，实现根据实际位置和特定URL调整Git身份和SSH密钥，特别针对处理多个GitHub账户和组织代码库配置差异，通过在`.ssh/config`内设置多个SSH实例管理不同平台的仓库访问。"
   }
 ]
