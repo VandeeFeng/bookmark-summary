@@ -670,5 +670,13 @@
     "url": "https://benji.dog/articles/git-config/",
     "timestamp": 1732590825,
     "summary": "本文阐述了利用Git的高级配置特性（如`includeIf`、`hasconfig`）和SSH配置，实现根据实际位置和特定URL调整Git身份和SSH密钥，特别针对处理多个GitHub账户和组织代码库配置差异，通过在`.ssh/config`内设置多个SSH实例管理不同平台的仓库访问。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Wireguard: Beyond the most basic configuration",
+    "url": "https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/",
+    "timestamp": 1732590910,
+    "summary": "本文通过实战案例分享了如何进阶配置 WireGuard，包括替代 OpenVPN、解决 NAT 问题利用 UPnP、配置 IPv6 避免 NAT、通过防火墙优化端口转发，以构建安全、高效的网络连接方案。"
   }
 ]
