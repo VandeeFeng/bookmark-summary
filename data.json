@@ -694,5 +694,13 @@
     "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTAxMDY5Nw==&mid=2657350238&idx=1&sn=f3c698048e2dcdeb50233a44178b9de1&chksm=f1e82bb8c69fa2ae8c18d3908a772880e9e5b22b5eea978ee2459e38ea64e87502468a7cea3f&mpshare=1&scene=1&srcid=06037YPtPw1IeSBA3adnHssw",
     "timestamp": 1732680579,
     "summary": "RSS二十年回顾了其作为信息聚合工具的历史与局限，强调了开放互联网理念，对比了RSS与社交网络的特点，指出RSS在商业层面的不足导致边缘化，特别提到了播客行业对其依赖的独特案例，并探讨了随着Newsletter、Substack和微信公众号等技术的更迭，信息聚合与分发方式的进化与创新。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "A solution to the Onion Problem of J. Kenji López-Alt",
+    "url": "https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c",
+    "timestamp": 1732690196,
+    "summary": "该文探讨了通过数学优化方法减少洋葱切割产生的碎末问题，发现最佳切割深度为洋葱半径的约55.73%，这一创新方法通过连续数学和雅可比矩阵分析，证明了其简化而有效的实用性。"
   }
 ]
