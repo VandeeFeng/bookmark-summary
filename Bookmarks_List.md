@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-27) [RSS二十年](2024/11/2024-11-27-rss二十年.md)
 - (2024-11-27) [America’s Superpower](2024/11/2024-11-27-america’s-superpower.md)
 - (2024-11-26) [Wireguard: Beyond the most basic configuration](2024/11/2024-11-26-wireguard-beyond-the-most-basic-configuration.md)
 - (2024-11-26) [How I configure my Git identities](2024/11/2024-11-26-how-i-configure-my-git-identities.md)
