@@ -678,5 +678,13 @@
     "url": "https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/",
     "timestamp": 1732590910,
     "summary": "本文通过实战案例分享了如何进阶配置 WireGuard，包括替代 OpenVPN、解决 NAT 问题利用 UPnP、配置 IPv6 避免 NAT、通过防火墙优化端口转发，以构建安全、高效的网络连接方案。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "America’s Superpower",
+    "url": "https://collabfund.com/blog/americas-superpower/",
+    "timestamp": 1732679221,
+    "summary": "美国的超级力量体现在“选择性”机制，使公民每四年可改变国家方向，与两党制结合促进国家运行与政策调整。与阿根廷、中国等国家的对比显示，选择性是经济稳定、市场活力与政治健康的关键。选择性确保美国成为强大、民主与繁荣的国家，与全球盟友关系牢固。"
   }
 ]
