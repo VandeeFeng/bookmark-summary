@@ -702,5 +702,13 @@
     "url": "https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c",
     "timestamp": 1732690196,
     "summary": "该文探讨了通过数学优化方法减少洋葱切割产生的碎末问题，发现最佳切割深度为洋葱半径的约55.73%，这一创新方法通过连续数学和雅可比矩阵分析，证明了其简化而有效的实用性。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "The Zero Click Internet",
+    "url": "https://www.techspot.com/article/2908-the-zero-click-internet/",
+    "timestamp": 1732861868,
+    "summary": "互联网正经历自诞生以来的最大变革，由 zeroes 网络引领，内容直接在平台内展示，减少链接点击，改变搜索引擎结果，终结传统数字发布业务与广告生态系统，使 SEO 失效，并对商业环境产生深远影响。这一变迁预示着传统模式的终结与未来网络新生态的诞生，挑战着现有的所有商业模式。"
   }
 ]
