@@ -1,5 +1,5 @@
 ---
-title: HSBC速记
+title: HSBC速记 - 付鹏
 date: 2024-11-30
 extra:
   source: https://web.archive.org/web/20241129010128/https://mp.weixin.qq.com/s/L8hEWoDYsWC_1K-CqTGvvg
@@ -29,19 +29,11 @@ Markdown Content:
 Weixin Official Accounts Platform
 ===============
                                                                     
-
 The Wayback Machine - https://mp.weixin.qq.com/s/L8hEWoDYsWC\_1K-CqTGvvg
-
-              
-
-  
-
-![Image 6: cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/wjpvNR2hCwHUXoRCUvsNOG1jj3W4RFUCkJ6YpibPnib08l63htyh3AICkd84Jkp5Q2icVeYVUUB86YZ14mm48ztAA/0?wx_fmt=jpeg)
 
 HSBC速记
 ======
 
-引用 [与市场共舞](javascript:void(0);)
 
 _2024年11月27日 10:02_
 
@@ -413,36 +405,8 @@ JQK什么意思呢？中国非常奇特，在投资的过程中，只做JQ环节
 
 **主持人：**感谢付鹏先生的精彩分享。稍后的自由交流时间，各位有任何咨询或问题，可以和您的私人财富规划师继续交流。活动的最后再占用大家两分钟的时间，麻烦大家扫描屏幕上方二维码，填写调查问卷，我们很期待能收到您对于本次活动的反馈，以便我们在以后的活动中更好的服务于您。
 
-**###**
+
 
   
 
-预览时标签不可点
-
-![Image 7](https://mp.weixin.qq.com/s/L8hEWoDYsWC_1K-CqTGvvg)Scan to Follow
-
-继续滑动看下一个
-
-轻触阅读原文
-
-![Image 8](http://mmbiz.qpic.cn/mmbiz_png/wjpvNR2hCwGZRpPFQUgOXuDV1iajUJ1LZO2DA3JQGOW4m8loJqs9d24FibjwCRrYyDicItbmLwobAbujkAmvOtVSw/0?wx_fmt=png)
-
-与市场共舞
-
-向上滑动看下一个
-
-[Got It](javascript:;)
-
- 
-
-![Image 9](https://mp.weixin.qq.com/s/L8hEWoDYsWC_1K-CqTGvvg) Scan with Weixin to  
-use this Mini Program
-
-[Cancel](javascript:void(0);) [Allow](javascript:void(0);)
-
-[Cancel](javascript:void(0);) [Allow](javascript:void(0);)
-
-× 分析
-
- : ， .   Video Mini Program Like ，轻点两下取消赞 Wow ，轻点两下取消在看 Share Comment Favorite
 
