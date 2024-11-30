@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-11-30) [How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks?](2024/11/2024-11-30-how-much-memory-do-you-need-in-2024-to-run-1-million-concurrent-tasks.md)
 - (2024-11-30) [The Success and Failure of Ninja - neugierig](2024/11/2024-11-30-the-success-and-failure-of-ninja---neugierig.md)
 - (2024-11-29) [The Zero Click Internet](2024/11/2024-11-29-the-zero-click-internet.md)
 - (2024-11-27) [A solution to the Onion Problem of J. Kenji López-Alt](2024/11/2024-11-27-a-solution-to-the-onion-problem-of-j.-kenji-lópez-alt.md)

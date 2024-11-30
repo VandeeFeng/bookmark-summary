@@ -718,5 +718,13 @@
     "url": "https://neugierig.org/software/blog/2020/05/ninja.html",
     "timestamp": 1732944303,
     "summary": "Ninja构建系统，一个功能简洁、专注于速度的开源项目，自2011年发布后在大型项目如Chrome、Android及Swift中广泛应用，成为作者最成功的项目。Ninja以二部图表示构建结构，路径映射与其他设计优化，实现高效构建。与CMake集成的关键在于Peter Collingbourne的工作，以及针对Windows的精心设计，以满足Google产品需求。项目维护经历揭示了开源工作的复杂性和情感体验。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks?",
+    "url": "https://hez2010.github.io/async-runtimes-benchmarks-2024/",
+    "timestamp": 1732944377,
+    "summary": "该文章对比了多种编程语言（包括静态编译及高级语言）在并发执行大量任务（最高100万任务）时的内存消耗。测试结果显示，Rust与C#（通过NativeAOT）在内存控制方面表现优异，尤其在高并发场景下，C#展现出显著优势。优化方式和语言选择对内存效率有显著影响，静态编译语言在大规模并发任务处理中展现出更好的性能。"
   }
 ]
