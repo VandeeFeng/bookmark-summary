@@ -710,5 +710,13 @@
     "url": "https://www.techspot.com/article/2908-the-zero-click-internet/",
     "timestamp": 1732861868,
     "summary": "互联网正经历自诞生以来的最大变革，由 zeroes 网络引领，内容直接在平台内展示，减少链接点击，改变搜索引擎结果，终结传统数字发布业务与广告生态系统，使 SEO 失效，并对商业环境产生深远影响。这一变迁预示着传统模式的终结与未来网络新生态的诞生，挑战着现有的所有商业模式。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "The Success and Failure of Ninja - neugierig",
+    "url": "https://neugierig.org/software/blog/2020/05/ninja.html",
+    "timestamp": 1732944303,
+    "summary": "Ninja构建系统，一个功能简洁、专注于速度的开源项目，自2011年发布后在大型项目如Chrome、Android及Swift中广泛应用，成为作者最成功的项目。Ninja以二部图表示构建结构，路径映射与其他设计优化，实现高效构建。与CMake集成的关键在于Peter Collingbourne的工作，以及针对Windows的精心设计，以满足Google产品需求。项目维护经历揭示了开源工作的复杂性和情感体验。"
   }
 ]
