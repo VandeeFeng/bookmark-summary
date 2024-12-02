@@ -3,7 +3,7 @@ title: Building an Audience Through Technical Writing- Strategies and Mistakes �
 date: 2024-12-02
 extra:
   source: https://hamel.dev/blog/posts/audience/
-  original_title: Building an Audience Through Technical Writing: Strategies and Mistakes – Hamel’s Blog
+  original_title: Building an Audience Through Technical Writing- Strategies and Mistakes – Hamel’s Blog
 ---
 ## Summary
 ### **摘要**：
