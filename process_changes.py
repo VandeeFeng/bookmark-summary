@@ -199,7 +199,7 @@ title: {yaml_safe_title}
 date: {CURRENT_DATE}
 extra:
   source: {url}
-  original_title: {title}
+  original_title: {yaml_safe_title}
 ---
 ## Summary
 {summary}
