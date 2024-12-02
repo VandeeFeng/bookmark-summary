@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-02) [Building an Audience Through Technical Writing: Strategies and Mistakes – Hamel’s Blog](2024/12/2024-12-02-building-an-audience-through-technical-writing-strategies-and-mistakes-–-hamel’s-blog.md)
 - (2024-11-30) [何加盐｜中文互联网正在加速崩塌](2024/11/2024-11-30-何加盐｜中文互联网正在加速崩塌.md)
 - (2024-11-30) [HSBC速记](2024/11/2024-11-30-hsbc速记.md)
 - (2024-11-30) [一个有意思的 AI 智能体黑客比赛](2024/11/2024-11-30-一个有意思的-ai-智能体黑客比赛.md)
