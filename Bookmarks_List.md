@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-03) ['Brain rot' named Oxford Word of the Year 2024 - Oxford University Press](2024/12/2024-12-03-'brain-rot'-named-oxford-word-of-the-year-2024---oxford-university-press.md)
 - (2024-12-02) [Building an Audience Through Technical Writing: Strategies and Mistakes – Hamel’s Blog](2024/12/2024-12-02-building-an-audience-through-technical-writing-strategies-and-mistakes-–-hamel’s-blog.md)
 - (2024-11-30) [何加盐｜中文互联网正在加速崩塌](2024/11/2024-11-30-何加盐｜中文互联网正在加速崩塌.md)
 - (2024-11-30) [HSBC速记](2024/11/2024-11-30-hsbc速记.md)
