@@ -188,11 +188,17 @@ def build_summary_file(title: str, url: str, summary: str, one_sentence: str) ->
 {summary}
 """
 
-
+def yaml_title(title):
+    # Replace colons and other special YAML characters with a safe alternative
+    safe_title = re.sub(r'[:#*&?|>{}[\]`]', '-', title)
+    # Remove any leading or trailing whitespace
+    safe_title = safe_title.strip()
+    # Optionally replace consecutive hyphens with a single hyphen
+    safe_title = re.sub(r'-{2,}', '-', safe_title)
+    return yaml_safe_title
+    
 def build_index_md(title: str, url: str, summary: str, one_sentence: str, text_content: str) -> str:
     """构建 index.md 文件内容，添加 YAML 头部并包含全文内容。"""
-    # 处理标题中的冒号
-    yaml_safe_title = title.replace(':', '-')
     
     return f"""---
 title: {yaml_safe_title}
