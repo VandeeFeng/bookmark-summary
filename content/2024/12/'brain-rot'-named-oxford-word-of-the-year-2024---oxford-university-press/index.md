@@ -1,9 +1,9 @@
 ---
-title: 'Brain rot' named Oxford Word of the Year 2024 - Oxford University Press
+title: Brain rot named Oxford Word of the Year 2024 - Oxford University Press
 date: 2024-12-03
 extra:
   source: https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/
-  original_title: 'Brain rot' named Oxford Word of the Year 2024 - Oxford University Press
+  original_title: Brain rot named Oxford Word of the Year 2024 - Oxford University Press
 ---
 ## Summary
 **摘要**：
