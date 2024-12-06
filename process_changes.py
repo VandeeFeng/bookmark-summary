@@ -195,10 +195,11 @@ def yaml_title(title):
     safe_title = safe_title.strip()
     # Optionally replace consecutive hyphens with a single hyphen
     safe_title = re.sub(r'-{2,}', '-', safe_title)
-    return yaml_safe_title
+    return safe_title
     
 def build_index_md(title: str, url: str, summary: str, one_sentence: str, text_content: str) -> str:
     """构建 index.md 文件内容，添加 YAML 头部并包含全文内容。"""
+    yaml_safe_title = yaml_title(title)
     
     return f"""---
 title: {yaml_safe_title}
