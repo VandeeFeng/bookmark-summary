@@ -790,5 +790,13 @@
     "url": "https://codethoughts.io/posts/2024-07-31-redirecting-urls-with-cloudflare/",
     "timestamp": 1733464571,
     "summary": "这篇博客文章概述了Christian Kjær如何通过CloudFlare门户顺利迁移博客至新域名，并解决了链接重定向问题。主要步骤包括：更改基域名、调整帖子路径、移除HTML扩展名、创建重定向规则以适应新结构，同时分享了利用CloudFlare动态规则、函数调整路径的方法，强调了在免费计划下实现改进的技术细节，最后建议读者测试并提供反馈以优化过程。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "7 Databases in 7 Weeks for 2025",
+    "url": "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/",
+    "timestamp": 1733632813,
+    "summary": "文章概述了7种数据库技术（PostgreSQL、SQLite、DuckDB、ClickHouse、FoundationDB、TigerBeetle、CockroachDB）的介绍，强调各自特点与适用场景。每种数据库都在稳定性、查询性能、安全性和分布式能力等方面展现出独特优势，适合不同应用场景。文章建议工程师和数据专家探索这些技术以增强其技能库，通过实践实验聚焦特定数据库的高级功能、效率提升技巧及与其他数据库的对比分析，从而推动技术理解和应用的深化。"
   }
 ]
