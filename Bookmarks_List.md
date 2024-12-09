@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-09) [人类的创新有多少可以被 AI 预测](2024/12/2024-12-09-人类的创新有多少可以被-ai-预测.md)
 - (2024-12-09) [游戏人间](2024/12/2024-12-09-游戏人间.md)
 - (2024-12-09) [隐说 No.1 人生的困境](2024/12/2024-12-09-隐说-no.1-人生的困境.md)
 - (2024-12-09) [读罗素：幸福与对自由的贪婪 - 黄峥](2024/12/2024-12-09-读罗素：幸福与对自由的贪婪---黄峥.md)
