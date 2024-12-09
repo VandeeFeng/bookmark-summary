@@ -798,5 +798,13 @@
     "url": "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/",
     "timestamp": 1733632813,
     "summary": "文章概述了7种数据库技术（PostgreSQL、SQLite、DuckDB、ClickHouse、FoundationDB、TigerBeetle、CockroachDB）的介绍，强调各自特点与适用场景。每种数据库都在稳定性、查询性能、安全性和分布式能力等方面展现出独特优势，适合不同应用场景。文章建议工程师和数据专家探索这些技术以增强其技能库，通过实践实验聚焦特定数据库的高级功能、效率提升技巧及与其他数据库的对比分析，从而推动技术理解和应用的深化。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "48 Laws of Power: Lessons - Byte Tank",
+    "url": "https://lopespm.com/notes/2024/12/08/48-laws-of-power-lessons.html",
+    "timestamp": 1733715051,
+    "summary": "《48条权力法则》探讨了行为影响、资源利用、人际交往、战略技巧和社会场景中的表现艺术，文中的观点通过行为举止、财富智慧、适应性策略和灵活形象等手段，揭示了获取与维护权力的有效路径。"
   }
 ]

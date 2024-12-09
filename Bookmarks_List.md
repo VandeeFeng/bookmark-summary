@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-09) [48 Laws of Power: Lessons - Byte Tank](2024/12/2024-12-09-48-laws-of-power-lessons---byte-tank.md)
 - (2024-12-08) [7 Databases in 7 Weeks for 2025](2024/12/2024-12-08-7-databases-in-7-weeks-for-2025.md)
 - (2024-12-06) [Redirecting URLs with CloudFlare](2024/12/2024-12-06-redirecting-urls-with-cloudflare.md)
 - (2024-12-05) [3-2-1 备份原则](2024/12/2024-12-05-3-2-1-备份原则.md)
