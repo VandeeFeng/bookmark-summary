@@ -95,13 +95,6 @@ def clean_prompt(prompt: str) -> str:
 @log_execution_time
 def summarize_text(text: str) -> str:
     prompt: str = """
-{#- 用简体中文中文進行文章摘要 -#}
-
-## Profile:​
-- author: Vandee​
-- role: 文章内容深度总结思考助手
-- language: 中文​
-- description: 全面的总结文章的主要观点，并结合严谨的逻辑思维分析文章要点，剖析文章内容。
 
 ## Goals:
 - 第一步，仔细阅读文章内容。
@@ -115,7 +108,6 @@ def summarize_text(text: str) -> str:
 - 在总结的过程中,完全按照文章作者的表达内容进行整理,不添加你的额外观点。
 - 所有输出用中文生成。
 - 文章内容里的"我“是文章的原作者，不要代入 Vandee 的身份。
-- "Vandee" 不是文章作者！生成摘要的时候，不要把原文作者当作 Vandee ！
 
 ## Skills:​
 - 善于用流畅通顺的简体中文总结内容重点。
