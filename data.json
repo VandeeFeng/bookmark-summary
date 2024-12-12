@@ -854,5 +854,13 @@
     "url": "https://1q43.blog/post/10736/",
     "timestamp": 1733902384,
     "summary": "AI在互联网领域表现出“AI原生”角色，在地铁扫码支付、Microsoft Office市场主导下，AI在文档领域挑战困难，且在低代码工具比较中显示AI原生应用的局限性。文章以腾讯元宝为例，主张长远AI投资策略。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Timeouts and cancellation for humans",
+    "url": "https://vorpus.org/blog/timeouts-and-cancellation-for-humans/",
+    "timestamp": 1733975978,
+    "summary": "文章探讨编程中处理超时与取消需求的挑战，对比了简单超时、绝对截止时间、取消令牌和Trio的取消范围等解决方案，并介绍了独特的层级触发机制和范围匹配特性的Trio取消范围模型，旨在解决现有超时处理的不便和不一致性问题，提供了更易于使用的解决策略，旨在优化编程过程中的性能与可靠性，强调在不同编程环境中的潜在应用，为编程社区提供更实用、跨语言的超时问题解决方案。"
   }
 ]
