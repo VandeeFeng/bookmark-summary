@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-12) [From where I left - antirez](2024/12/2024-12-12-from-where-i-left---antirez.md)
 - (2024-12-12) [我接见了诺奖得主](2024/12/2024-12-12-我接见了诺奖得主.md)
 - (2024-12-12) [Timeouts and cancellation for humans](2024/12/2024-12-12-timeouts-and-cancellation-for-humans.md)
 - (2024-12-11) [不要轻易地走进 AI Native（AI 原生）](2024/12/2024-12-11-不要轻易地走进-ai-native（ai-原生）.md)

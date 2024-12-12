@@ -870,5 +870,13 @@
     "url": "https://frostming.com/2024/meet-with-paul/",
     "timestamp": 1733976785,
     "summary": "一篇中关于个人职业生涯中的重要经历的总结。事件始于一封邀请邮件，内容详细并提及项目PDM，邮件来自著名经济学者。通过邮件地址和网上验证，真实性和信任被确认。见面前通过邮件交流了解对方背景及预想讨论话题。见面内容覆盖Python技术细节、数据安全、Jupyter使用等，并规划未来参与PyCon China的交流活动。此次经验既是一次技术知识的交流，也是个人职业生涯的里程碑，增强了自信及专业发展动力。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "From where I left - antirez",
+    "url": "https://antirez.com/news/144",
+    "timestamp": 1733976871,
+    "summary": "Vandee在女儿生日后回归Redis项目，与Rowan Trollope合作，讨论Redis未来，解决与云供应商的知识产权问题，同时对AI领域表示出浓厚兴趣，推动Redis新功能开发，如向量集setData type，以促进AI密集型工作负载的效率。"
   }
 ]
