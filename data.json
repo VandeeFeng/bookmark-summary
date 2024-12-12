@@ -878,5 +878,13 @@
     "url": "https://antirez.com/news/144",
     "timestamp": 1733976871,
     "summary": "Vandee在女儿生日后回归Redis项目，与Rowan Trollope合作，讨论Redis未来，解决与云供应商的知识产权问题，同时对AI领域表示出浓厚兴趣，推动Redis新功能开发，如向量集setData type，以促进AI密集型工作负载的效率。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "海盗图书馆的关键时期",
+    "url": "https://annas-archive.org/blog/critical-window-chinese.html",
+    "timestamp": 1734018586,
+    "summary": "文章探讨了海盗图书馆（即安娜档案馆）的电子资源保存策略，强调信息密度与存储成本，优先保存高价值内容，并利用法律盲点，关注未来存储技术的进展与成本下降，面对快速增长的馆藏规模及存储挑战，指出关键技术成熟前的关键操作窗口期。"
   }
 ]
