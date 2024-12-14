@@ -16,14 +16,7 @@ extra:
 4. **离线服务器的检测与处理**：文章提到浏览器和CDN在面对离线服务器时能快速处理并实现服务器切换，相比之下，Cloudflare的离线服务器处理机制表现出缺陷。
 5. **改善与批评**：作者对Cloudflare在离线服务器检测和自动选择低位延迟服务器上存在不足之处提出批评，并指出潜在改进的空间，强调检测离线服务器及切换至低延迟服务器的重要性。
 
----
 
-Markdown格式如下：
-- Round Robin DNS的工作原理
-- 浏览器对服务器的选择差异
-- Cloudflare的局限性：未及时检测离线服务器
-- 离线服务器的检测与处理：浏览器和CDN的部分机制更优
-- 改善与批评：对Cloudflare的性能改进提出建议
 ## Full Content
 Title: Understanding Round Robin DNS
 
