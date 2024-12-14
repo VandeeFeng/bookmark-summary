@@ -886,5 +886,13 @@
     "url": "https://annas-archive.org/blog/critical-window-chinese.html",
     "timestamp": 1734018586,
     "summary": "文章探讨了海盗图书馆（即安娜档案馆）的电子资源保存策略，强调信息密度与存储成本，优先保存高价值内容，并利用法律盲点，关注未来存储技术的进展与成本下降，面对快速增长的馆藏规模及存储挑战，指出关键技术成熟前的关键操作窗口期。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Understanding Round Robin DNS",
+    "url": "https://blog.hyperknot.com/p/understanding-round-robin-dns",
+    "timestamp": 1734142812,
+    "summary": "总结了Round Robin DNS的工作原理以及不同浏览器（如Chrome、Safari）和CDN（如Cloudflare）在服务器选择上的差异和表现。文章指出，尽管Safari能更加精确地选择距离用户最近的服务器，但Cloudflare在离线服务器检测和选择上存在局限性，未能及时切换服务器，并提出批评和改进方向，强调了检测离线服务器和切换至低延迟服务器的重要性。"
   }
 ]
