@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-14) [Everything that turned out well in my life followed the same design process](2024/12/2024-12-14-everything-that-turned-out-well-in-my-life-followed-the-same-design-process.md)
 - (2024-12-14) [Linking Directly to Web Page Content](2024/12/2024-12-14-linking-directly-to-web-page-content.md)
 - (2024-12-14) [Understanding Round Robin DNS](2024/12/2024-12-14-understanding-round-robin-dns.md)
 - (2024-12-12) [海盗图书馆的关键时期](2024/12/2024-12-12-海盗图书馆的关键时期.md)
