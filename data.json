@@ -918,5 +918,13 @@
     "url": "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/",
     "timestamp": 1734231833,
     "summary": "熵从蒸机效率到热力学定律的引入，再到信息论与生态学的应用，展示了其从物理科学向社会科学的广度转变。同其哲学考量以及在量子热力学和复杂系统研究中的前沿应用相交织，熵揭示了无序状态与知识界限，反映了科学方法与宇宙观的深化理解。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "A ChatGPT clone in 3000 bytes of C backed by GPT-2",
+    "url": "https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html",
+    "timestamp": 1734407470,
+    "summary": "本文探讨了Nicholas Carlini如何利用AI攻击深度学习模型，通过策略、技术和工具实施，同时反思AI伦理，并提出规避防御机制策略，最终呼吁共同提升系统安全性与AI道德标准。"
   }
 ]
