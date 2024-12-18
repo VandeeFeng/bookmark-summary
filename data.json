@@ -926,5 +926,13 @@
     "url": "https://sailor.li/aocnds.html",
     "timestamp": 1734491601,
     "summary": "### **摘要**\nFuyukai 选择在Nintendo DS平台上使用Rust进行Advent of Code挑战，目标是通过非标准环境提升编程技能，解决活动中的非实践性问题。他详细解析Nintendo DS的硬件，面对ARM处理器的调度和权限问题，专注于ARM9核的编码和ARM7核的I/O功能。通过使用Crossdev编译工具包，Fuyukai完成基础的屏幕展示和引导码运行。回顾整个项目，他预见到未来难在硬件交互和软件开发工具整合上，实现功能拓展与性能优化。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "增益图 HDR 与 HDR",
+    "url": "https://sspai.com/post/94425",
+    "timestamp": 1734523204,
+    "summary": "文章阐述了HDR照片的最新技术和ISO HDR标准的引入，比较了HDR与SDR的区别，解释了HDR的处理方法和ISO增益图HDR的原理，提供了HDR照片的工作流和平台兼容性指南。"
   }
 ]
