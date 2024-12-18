@@ -918,5 +918,13 @@
     "url": "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/",
     "timestamp": 1734231833,
     "summary": "熵从蒸机效率到热力学定律的引入，再到信息论与生态学的应用，展示了其从物理科学向社会科学的广度转变。同其哲学考量以及在量子热力学和复杂系统研究中的前沿应用相交织，熵揭示了无序状态与知识界限，反映了科学方法与宇宙观的深化理解。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Advent of Code on the Nintendo DS",
+    "url": "https://sailor.li/aocnds.html",
+    "timestamp": 1734491601,
+    "summary": "### **摘要**\nFuyukai 选择在Nintendo DS平台上使用Rust进行Advent of Code挑战，目标是通过非标准环境提升编程技能，解决活动中的非实践性问题。他详细解析Nintendo DS的硬件，面对ARM处理器的调度和权限问题，专注于ARM9核的编码和ARM7核的I/O功能。通过使用Crossdev编译工具包，Fuyukai完成基础的屏幕展示和引导码运行。回顾整个项目，他预见到未来难在硬件交互和软件开发工具整合上，实现功能拓展与性能优化。"
   }
 ]
