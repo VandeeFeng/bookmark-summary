@@ -25,7 +25,6 @@ Title: 成熟以后
 URL Source: https://mp.weixin.qq.com/s/QpKlYdE-_eAId88Kzg3PMQ
 
 Markdown Content:
-![Image 11](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkoIic4icdQCeGCdXcLjqJld4p5Q1Zckcdq6Om55IXfPrSRCqKT0ybXTNSZoQphCMdwpE9dWMib445AFg/640?wx_fmt=jpeg&from=appmsg)
 
 我现在算是个成熟的中年人了，究竟有没有成熟，我自己也不知道。头发变白，眼睛变花，这些都有迹可循，而且能够验证，成熟究竟是什么，我到现在都没弄明白。
 
@@ -56,44 +55,4 @@ Markdown Content:
 我想，成熟是不是有点像是鲤鱼跃龙门？一旦跃过龙门，生命就会出现质的转变？与此同时，还存在着神秘的禁制，成功化龙的鲤鱼必须保持沉默，不得泄露龙门的位置，也不得讲解如何跃过。或者，他们一旦跃过龙门之后，就只会说龙语，即便对鲤鱼们做开诚布公的讲解，鲤鱼们也一个字都听不懂。
 
 偶尔我也会忍不住去想：万一我是条鲫鱼呢？成熟对于我而言，也许意味着长出更多的刺，生出比刺更多的想法来？
-
-题图标题：**《中年钢铁侠》**
-
-创作者：**和菜头的小肉手**
-
-AI算法提供：**Midjourney V6.1**
-
-Prompt：_Iron man with a fupa, --ar 3:4 --p  \--v 6.1_
-
-**槽边往事****和菜头 出品**
-
-****【微信号】****Bitsea**** 
-
-**个人转载内容至朋友圈和群聊天，无需特别申请版权许可。**
-
-**请你相信我，**
-
-**我所说的每一句话，**
-
-**都是错的**
-
->  **禅定时刻**
-
-![Image 12](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkoIic4icdQCeGCdXcLjqJld4pU6cGIcicib2ueqJOI3VhBzmxJL1k6ibl2iaw82sFiaxlicoTyOEibB4gvMHCQ/640?wx_fmt=jpeg&from=appmsg)
-
-**《中年蝙蝠侠》**
-
-**和菜头的小肉手**
-
-**Midjourney V6.1**
-
->  **南派三叔专区**
-
-![Image 13](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkoIic4icdQCeGCdXcLjqJld4pAUib2k94ibIca4OSyWvDS5iadIrmaHbUCAFFzvygrN2QqYTMiaSL6e70Hw/640?wx_fmt=jpeg&from=appmsg)
-
-南派，这些《**中年蜘蛛侠****》**送给你。
-
->  **《槽边往事》专营店营业中**
-
-以上几款产品的详细介绍参见：《[新品美食推荐](https://mp.weixin.qq.com/s?__biz=MjM5MjAzODU2MA==&mid=2652801681&idx=1&sn=14620ec952928e23d02fc38dcf3acdeb&scene=21#wechat_redirect)》
 
