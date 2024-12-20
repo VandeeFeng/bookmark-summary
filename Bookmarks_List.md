@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-20) [The Ultimate Guide to Chain of Thoughts (CoT): Part 1](2024/12/2024-12-20-the-ultimate-guide-to-chain-of-thoughts-(cot)-part-1.md)
 - (2024-12-20) [成熟以后](2024/12/2024-12-20-成熟以后.md)
 - (2024-12-20) [Building effective agents](2024/12/2024-12-20-building-effective-agents.md)
 - (2024-12-20) [Alignment faking in large language models](2024/12/2024-12-20-alignment-faking-in-large-language-models.md)

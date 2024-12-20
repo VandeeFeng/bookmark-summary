@@ -982,5 +982,13 @@
     "url": "https://mp.weixin.qq.com/s/QpKlYdE-_eAId88Kzg3PMQ",
     "timestamp": 1734683686,
     "summary": "这篇文章探讨了成熟与天真的辩证关系、代际差异给个体带来的不同生活观念转变、以及成熟状态下内心敏感、波动的复杂心理。作者质疑成熟定义的普适性，反思成熟与内心的真正变化，通过自身经历引出了对自我与社会关系、成熟与生活的全新理解。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "The Ultimate Guide to Chain of Thoughts (CoT): Part 1",
+    "url": "https://learnprompting.org/blog/guide-to-chain-of-thought-part-one",
+    "timestamp": 1734703628,
+    "summary": "本文详解了Chain-of-Thought策略在提升大型语言模型解决复杂问题能力的关键作用，通过标准CoT、零样本CoT等策略版本的实现，增强了模型在数学、逻辑、语言生成等领域的精度和效率。并深入探讨了自一致性、自动化CoT等延伸策略，构建了操作流程图、决策树结构化思考、结构化思考图等，扩展了CoT的多样性和应用边界。尤其强调了编程性思考策略，使模型能与外部解释器交互解决复杂问题。最后，文章强调掌握CoT技巧对AI工程师的重要性，对构建高解析性AI系统的价值。"
   }
 ]
