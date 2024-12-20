@@ -934,5 +934,13 @@
     "url": "https://sspai.com/post/94425",
     "timestamp": 1734523204,
     "summary": "文章阐述了HDR照片的最新技术和ISO HDR标准的引入，比较了HDR与SDR的区别，解释了HDR的处理方法和ISO增益图HDR的原理，提供了HDR照片的工作流和平台兼容性指南。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "基础设施即代码 IaC 初探 - Ansible 与 Terraform",
+    "url": "https://blog.lyc8503.net/post/iac-explore-ansible-and-terraform/",
+    "timestamp": 1734662443,
+    "summary": "文章探索基于基础设施即代码的自动化部署，对比Ansible和Terraform。Ansible灵活高效管理Linux服务器，而Terraform则简化云服务管理，两者优势互补，共促自动化部署与云资源管理的高效性与安全性。"
   }
 ]

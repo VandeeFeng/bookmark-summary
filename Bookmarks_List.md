@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-20) [基础设施即代码 IaC 初探 - Ansible 与 Terraform](2024/12/2024-12-20-基础设施即代码-iac-初探---ansible-与-terraform.md)
 - (2024-12-18) [增益图 HDR 与 HDR](2024/12/2024-12-18-增益图-hdr-与-hdr.md)
 - (2024-12-18) [Advent of Code on the Nintendo DS](2024/12/2024-12-18-advent-of-code-on-the-nintendo-ds.md)
 - (2024-12-15) [What Is Entropy? A Measure of Just How Little We Really Know](2024/12/2024-12-15-what-is-entropy-a-measure-of-just-how-little-we-really-know.md)
