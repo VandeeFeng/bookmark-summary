@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-20) [Is AI progress slowing down?](2024/12/2024-12-20-is-ai-progress-slowing-down.md)
 - (2024-12-20) [How to Remember What You Read](2024/12/2024-12-20-how-to-remember-what-you-read.md)
 - (2024-12-20) [基础设施即代码 IaC 初探 - Ansible 与 Terraform](2024/12/2024-12-20-基础设施即代码-iac-初探---ansible-与-terraform.md)
 - (2024-12-18) [增益图 HDR 与 HDR](2024/12/2024-12-18-增益图-hdr-与-hdr.md)
