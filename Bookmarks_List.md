@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-20) [Building effective agents](2024/12/2024-12-20-building-effective-agents.md)
 - (2024-12-20) [Alignment faking in large language models](2024/12/2024-12-20-alignment-faking-in-large-language-models.md)
 - (2024-12-20) [Is AI progress slowing down?](2024/12/2024-12-20-is-ai-progress-slowing-down.md)
 - (2024-12-20) [How to Remember What You Read](2024/12/2024-12-20-how-to-remember-what-you-read.md)
