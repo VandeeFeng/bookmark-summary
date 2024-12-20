@@ -942,5 +942,13 @@
     "url": "https://blog.lyc8503.net/post/iac-explore-ansible-and-terraform/",
     "timestamp": 1734662443,
     "summary": "文章探索基于基础设施即代码的自动化部署，对比Ansible和Terraform。Ansible灵活高效管理Linux服务器，而Terraform则简化云服务管理，两者优势互补，共促自动化部署与云资源管理的高效性与安全性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "How to Remember What You Read",
+    "url": "https://fs.blog/how-to-remember-what-you-read/",
+    "timestamp": 1734662591,
+    "summary": "本文提出通过主动阅读、批判性思考及有效笔记、应用知识、理解上下文信息等策略提升阅读及记忆能力。鼓励用费曼技巧理解概念，制定阅读计划及个人兴趣匹配的阅读材料，通过反馈及复习强化记忆。"
   }
 ]
