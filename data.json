@@ -998,5 +998,13 @@
     "url": "https://mp.weixin.qq.com/s/BnZo1VIo7NXJqSSVgCu7eQ",
     "timestamp": 1734705055,
     "summary": "主人公经历了从内行到外行的转变，通过天真而直觉的视角，对艺术欣赏有新发现，强调感受而非专业理论，赋予艺术品记录情感与释放心灵的作用，重新定义赞赏在于个人独特体验。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Building an automatically updating live blog in Django",
+    "url": "https://til.simonwillison.net/django/live-blog",
+    "timestamp": 1734753461,
+    "summary": "本文介绍了使用Django框架构建实时博客的全过程，重点采用了`LiveUpdate`模型和AJAX技术实现前端实时更新，设计了便于操作的后台添加功能，并通过Cloudflare实施高效缓存策略优化性能。"
   }
 ]
