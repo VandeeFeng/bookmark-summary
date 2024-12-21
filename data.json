@@ -1006,5 +1006,13 @@
     "url": "https://til.simonwillison.net/django/live-blog",
     "timestamp": 1734753461,
     "summary": "本文介绍了使用Django框架构建实时博客的全过程，重点采用了`LiveUpdate`模型和AJAX技术实现前端实时更新，设计了便于操作的后台添加功能，并通过Cloudflare实施高效缓存策略优化性能。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "ShellSage - Your AI Bash Buddy – Answer.AI",
+    "url": "https://www.answer.ai/posts/2024-12-05-introducing-shell-sage.html",
+    "timestamp": 1734774941,
+    "summary": "ShellSage是Answer.AI开发的工具，旨在简化命令行界面操作，通过与人类协同工作，增强上下文理解，提供AI辅助建议，帮助用户学习正确的系统管理实践，适用于各种技术水平的开发者。"
   }
 ]

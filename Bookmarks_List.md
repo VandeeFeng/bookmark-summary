@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-21) [ShellSage - Your AI Bash Buddy – Answer.AI](2024/12/2024-12-21-shellsage---your-ai-bash-buddy-–-answer.ai.md)
 - (2024-12-21) [Building an automatically updating live blog in Django](2024/12/2024-12-21-building-an-automatically-updating-live-blog-in-django.md)
 - (2024-12-20) [无知的赐福](2024/12/2024-12-20-无知的赐福.md)
 - (2024-12-20) [The Ultimate Guide to Chain of Thoughts (CoT): Part 1](2024/12/2024-12-20-the-ultimate-guide-to-chain-of-thoughts-(cot)-part-1.md)
