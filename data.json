@@ -1054,5 +1054,13 @@
     "url": "https://www.answer.ai/posts/2024-12-19-modernbert.html",
     "timestamp": 1735018702,
     "summary": "ModernBERT是Answer.AI与LightOn合作推出的自编码器模型，速度与精准度超过BERT系列，是目前最先进的模型版本。它包含多项大型语言模型研究改进，沿用BERT架构，优化应用并支持大量代码训练，序列长度可达8192，性能卓越，月下载量超6800万。支持不同硬件优化，采用多样化更丰富的训练数据集，提供有成本效益的初始化策略与快速的预热批量处理。该模型适应长序列应用，如RAG管道和大型代码搜索，设有奖励机制激励社区贡献，并在HuggingFace Hub及arXiv上提供了模型获取、文档与研究资源。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "The Evolution of AI-assisted coding features and developer interaction patterns",
+    "url": "https://sankalp.bearblog.dev/evolution-of-ai-assisted-coding-features-and-developer-interaction-patterns/",
+    "timestamp": 1735037724,
+    "summary": "AI辅助编码从基础代码自动完成发展至动态生成代码及整个代码库，影响开发者行为与效率，需在控制与自动化间权衡。文章探讨不同工具特性，强调高效集成，学习基础并利用AI，预防因停用AI导致的编程中断，促进AI与人类合作的有效性。"
   }
 ]
