@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-24) [Code Riffs-代码即兴演奏](2024/12/2024-12-24-code-riffs-代码即兴演奏.md)
 - (2024-12-24) [AI 技术的停滞，是革命的开始 – 虹线](2024/12/2024-12-24-ai-技术的停滞，是革命的开始-–-虹线.md)
 - (2024-12-23) [隐说 No.2  教育与洗脑](2024/12/2024-12-23-隐说-no.2-教育与洗脑.md)
 - (2024-12-21) [ShellSage - Your AI Bash Buddy – Answer.AI](2024/12/2024-12-21-shellsage---your-ai-bash-buddy-–-answer.ai.md)
