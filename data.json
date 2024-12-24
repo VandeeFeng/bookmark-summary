@@ -1038,5 +1038,13 @@
     "url": "https://blog.fogus.me/2023/01/06/code-riffs/",
     "timestamp": 1735016334,
     "summary": "文章探讨编程中的“Code Riffs”概念，类比音乐界的“riff”，指独立、探索驱动、美观但无直接用处的代码片段。作者通过Clojure代码示例演示，分享个人作品（如Tori Lisp、Evalive、Unfix）并邀请读者分享自己的“Riffs”，促进编程领域的创意交流。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Hello emacs.tv",
+    "url": "https://lmno.lol/alvaro/hello-emacstv",
+    "timestamp": 1735016831,
+    "summary": "本文概述了作者基于 Sacha Chua 的启发，开发并启动了一个名为“emacs.tv”的项目。该项目利用 org feed 创建了一个可视化 Emacs 相关视频的动态索引，支持多种集成方式，旨在共享和检索 Emacs 各类资源。作者分享了项目的基本实现和内部资源亮点，并邀请社区成员贡献内容、优化标签系统以及提供用户反馈，以推动项目进一步发展。同时，文章强调了项目的公共政策，包括隐私和使用条款，确保合规性。"
   }
 ]
