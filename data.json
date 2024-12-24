@@ -1046,5 +1046,13 @@
     "url": "https://lmno.lol/alvaro/hello-emacstv",
     "timestamp": 1735016831,
     "summary": "本文概述了作者基于 Sacha Chua 的启发，开发并启动了一个名为“emacs.tv”的项目。该项目利用 org feed 创建了一个可视化 Emacs 相关视频的动态索引，支持多种集成方式，旨在共享和检索 Emacs 各类资源。作者分享了项目的基本实现和内部资源亮点，并邀请社区成员贡献内容、优化标签系统以及提供用户反馈，以推动项目进一步发展。同时，文章强调了项目的公共政策，包括隐私和使用条款，确保合规性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Finally, a Replacement for BERT: Introducing ModernBERT – Answer.AI",
+    "url": "https://www.answer.ai/posts/2024-12-19-modernbert.html",
+    "timestamp": 1735018702,
+    "summary": "ModernBERT是Answer.AI与LightOn合作推出的自编码器模型，速度与精准度超过BERT系列，是目前最先进的模型版本。它包含多项大型语言模型研究改进，沿用BERT架构，优化应用并支持大量代码训练，序列长度可达8192，性能卓越，月下载量超6800万。支持不同硬件优化，采用多样化更丰富的训练数据集，提供有成本效益的初始化策略与快速的预热批量处理。该模型适应长序列应用，如RAG管道和大型代码搜索，设有奖励机制激励社区贡献，并在HuggingFace Hub及arXiv上提供了模型获取、文档与研究资源。"
   }
 ]
