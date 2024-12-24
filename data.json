@@ -1062,5 +1062,13 @@
     "url": "https://sankalp.bearblog.dev/evolution-of-ai-assisted-coding-features-and-developer-interaction-patterns/",
     "timestamp": 1735037724,
     "summary": "AI辅助编码从基础代码自动完成发展至动态生成代码及整个代码库，影响开发者行为与效率，需在控制与自动化间权衡。文章探讨不同工具特性，强调高效集成，学习基础并利用AI，预防因停用AI导致的编程中断，促进AI与人类合作的有效性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Prompt Engineering",
+    "url": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
+    "timestamp": 1735055972,
+    "summary": "该文《Prompt Engineering》由Lilian Weng撰写，重点介绍了利用prompt引导LLM（大型语言模型）行为以增强性能及模型可操控性，不涉及模型权重更新。文本主要针对自回归语言模型，探讨基本prompt编码技术（如异步学习、少数学习）、示例选择策略（构建代表性多样性示例集，使用基于嵌入的图形构建方向图、不确定性基础的主动学习）以及提示与策略的优化（策略顺序随机化、避免过度依赖特定示例）。同时提及工具如strategizer的应用及未来发展方向，提供资源推荐，如OpenAI的示例库和Prompt Engineering Guide等学习资料。"
   }
 ]
