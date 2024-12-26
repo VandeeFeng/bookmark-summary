@@ -1078,5 +1078,13 @@
     "url": "https://info.deeplearning.ai/top-ai-stories-of-2024-agents-rise-prices-fall-models-shrink-video-takes-off-acquisitions-morph",
     "timestamp": 1735180456,
     "summary": "2024年的AI发展亮点集中在提升应用效能、降低使用成本、小型化高性能模型和视频AI创新，展现自动化、经济性和交互性的融合。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "从 Raycast 到如快：一个程序员的全平台效率启动器解决方案 - 少数派",
+    "url": "https://sspai.com/post/95005",
+    "timestamp": 1735183651,
+    "summary": "该文章记录了作者从使用 Raycast 启动器转向自主开发的跨平台启动器（如快）的体验。如快以模仿 Raycast 的界面设计追求高效操作，强调全键盘支持与快捷键功能，同时优化中文用户界面，增强对鼠标操作的支持。文章指出其改进之处，如简化层级结构、集成AI翻译、支持链接配置与鼠标功能，并提到提供更多便利功能如稍后阅读、词汇学习服务，定位为全免费，未来可能引入有偿服务选项。"
   }
 ]

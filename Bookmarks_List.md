@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-26) [从 Raycast 到如快：一个程序员的全平台效率启动器解决方案 - 少数派](2024/12/2024-12-26-从-raycast-到如快：一个程序员的全平台效率启动器解决方案---少数派.md)
 - (2024-12-26) [Top AI Stories of 2024! Agents Rise, Prices Fall, Models Shrink, Video Takes Off, Acquisitions Morph](2024/12/2024-12-26-top-ai-stories-of-2024!-agents-rise,-prices-fall,-models-shrink,-video-takes-off,-acquisitions-morph.md)
 - (2024-12-24) [Prompt Engineering](2024/12/2024-12-24-prompt-engineering.md)
 - (2024-12-24) [The Evolution of AI-assisted coding features and developer interaction patterns](2024/12/2024-12-24-the-evolution-of-ai-assisted-coding-features-and-developer-interaction-patterns.md)
