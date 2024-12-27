@@ -1102,5 +1102,13 @@
     "url": "https://taxodium.ink/org-publish-blog.html",
     "timestamp": 1735274790,
     "summary": "本文介绍了一种从Hexo、VuePress迁移到使用纯org-mode和Hugo生成器的博客转换过程。讨论了动机、使用技巧、CSS个性化、优化内容至HTML转换、RSS集成、YouTube视频显示，以及问题解决方案。文章还分享了下一步计划和技术细节，如实现自动搜索引擎、持续集成等，旨在提升博客功能和用户体验。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "github-assistant",
+    "url": "https://medium.com/relta/github-assistant-49ae388ad758",
+    "timestamp": 1735275946,
+    "summary": "github-assistant是一个集成Relta、assistant-ui、dlt和LangGraph的GitHub API查询工具，可在10天内构建完成，支持自然语言查询和结构化数据处理。其核心特点是利用Relta的语义层生成准确SQL，优于ChatGPT在某些查询场景，通过程序架构中的多个组件如前端助手、Relta、dlt和后端技术完成部署和数据处理，提供动态可视化图表展示，旨在简化数据开发和操作，实现高效大规模数据查询和分析。"
   }
 ]
