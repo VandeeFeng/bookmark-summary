@@ -1126,5 +1126,13 @@
     "url": "https://mitchellh.com/writing/ghostty-1-0-reflection",
     "timestamp": 1735295938,
     "summary": "Ghostty版本1.0发布，既是对终端未来的反思，也是对Zig语言特性的探索。项目从个人实验出发，逐渐成为具备创新终端特性的尝试，旨在满足不同用户需求，展现Zig语言的友好与贡献潜力。发布后，它成为社区交流的平台，未来将持续优化与扩展，保持其原始属性，为终端开发者社区贡献价值。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Simple (Back) Links in Any File",
+    "url": "https://archive.casouri.cc/note/2020/simple-(back",
+    "timestamp": 1735314952,
+    "summary": "尝试访问的网页地址有误、链接失效或页面已被删除，导致无法正确加载。"
   }
 ]
