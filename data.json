@@ -1094,5 +1094,13 @@
     "url": "https://ramsayleung.github.io/zh/post/2024/%E7%BC%96%E7%A8%8B%E5%8D%81%E5%B9%B4%E7%9A%84%E6%84%9F%E6%82%9F/",
     "timestamp": 1735274462,
     "summary": "十年编程旅程见证了技术栈的迭代与个人技能的全面成长，从多语言到框架，强调自学、持续学习、自我反思在提升能力中的作用。语言学习与英语技能提升促进了国际交流，强调开发过程中的独立思考与产品价值导向，倡导灵活运用技术，构建广泛行业关系以促进职业发展。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "使用 org-publish 发布博客",
+    "url": "https://taxodium.ink/org-publish-blog.html",
+    "timestamp": 1735274790,
+    "summary": "本文介绍了一种从Hexo、VuePress迁移到使用纯org-mode和Hugo生成器的博客转换过程。讨论了动机、使用技巧、CSS个性化、优化内容至HTML转换、RSS集成、YouTube视频显示，以及问题解决方案。文章还分享了下一步计划和技术细节，如实现自动搜索引擎、持续集成等，旨在提升博客功能和用户体验。"
   }
 ]
