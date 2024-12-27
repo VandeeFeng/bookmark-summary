@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-27) [读《经济学通识》](2024/12/2024-12-27-读《经济学通识》.md)
 - (2024-12-27) [github-assistant](2024/12/2024-12-27-github-assistant.md)
 - (2024-12-27) [使用 org-publish 发布博客](2024/12/2024-12-27-使用-org-publish-发布博客.md)
 - (2024-12-27) [编程十年的感悟](2024/12/2024-12-27-编程十年的感悟.md)
