@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-29) [A Simple ELF - The Ivory Tower](2024/12/2024-12-29-a-simple-elf---the-ivory-tower.md)
 - (2024-12-29) [从被动接收到主动参与：我的 AI 辅助学习方法论](2024/12/2024-12-29-从被动接收到主动参与：我的-ai-辅助学习方法论.md)
 - (2024-12-29) [Diary of a CEO Book: Lessons - Byte Tank](2024/12/2024-12-29-diary-of-a-ceo-book-lessons---byte-tank.md)
 - (2024-12-29) [2024: 在夜海中观望浪潮](2024/12/2024-12-29-2024-在夜海中观望浪潮.md)
