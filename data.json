@@ -1134,5 +1134,13 @@
     "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247522148&idx=1&sn=7f065463bc603441a103fa49e77f8d10&poc_token=HPe5cGejZjy2I5WotW2J_N1kDKVeOD4jjroFaZMP",
     "timestamp": 1735440963,
     "summary": "文章探讨中国信息环境变迁带来的挑战，强调自制力与高质量内容生产的影响。面对“脑腐”文化、网络文化参与界限、技术伦理与心理健康问题，文章提出通过个体选择与社会机制优化，共同塑造更健康的信息生态。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Cloudflare R2 的完美搭档：R2 Uploader 使用指南",
+    "url": "https://justgoidea.com/posts/2024-022/",
+    "timestamp": 1735441900,
+    "summary": "本文阐述了利用Cloudflare R2 Uploader工具优化文件上传流程的方法，重点在于提高效率、优化文件组织、运用正则表达式进行路径管理、增强并发处理能力，并通过路由注册器提升API管理的清晰度与可维护性，整体目标是提升开发者生产力与文件上传服务的性能。"
   }
 ]
