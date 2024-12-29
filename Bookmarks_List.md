@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-29) [2024: 在夜海中观望浪潮](2024/12/2024-12-29-2024-在夜海中观望浪潮.md)
 - (2024-12-29) [Cloudflare R2 的完美搭档：R2 Uploader 使用指南](2024/12/2024-12-29-cloudflare-r2-的完美搭档：r2-uploader-使用指南.md)
 - (2024-12-29) [在垃圾的信息环境中，尽量不做一个垃圾人](2024/12/2024-12-29-在垃圾的信息环境中，尽量不做一个垃圾人.md)
 - (2024-12-27) [Ghostty: Reflecting on Reaching 1.0](2024/12/2024-12-27-ghostty-reflecting-on-reaching-1.0.md)
