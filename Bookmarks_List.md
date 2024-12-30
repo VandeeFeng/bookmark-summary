@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2024-12-30) [Snippy: An AI Assistant With Eyes](2024/12/2024-12-30-snippy-an-ai-assistant-with-eyes.md)
 - (2024-12-30) [Writing a C Compiler, Part 1](2024/12/2024-12-30-writing-a-c-compiler,-part-1.md)
 - (2024-12-29) [一小时魔改Cursor变身Devin](2024/12/2024-12-29-一小时魔改cursor变身devin.md)
 - (2024-12-29) [A Simple ELF - The Ivory Tower](2024/12/2024-12-29-a-simple-elf---the-ivory-tower.md)

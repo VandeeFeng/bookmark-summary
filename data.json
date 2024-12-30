@@ -1190,5 +1190,13 @@
     "url": "https://norasandler.com/2017/11/29/Write-a-Compiler.html",
     "timestamp": 1735545466,
     "summary": "本文详细介绍了编写C编译器的教程，旨在深入理解抽象语法树、程序表示与操纵，学习底层计算和汇编代码知识。通过逐步添加C语言特性，从任意整数开始，涵盖加法、条件语句、局部变量和函数调用，使学习者能使用编程语言、解析器和扫描生成器工具实现编译器。最终实现从源代码到可执行文件的转换流程，并通过测试确保正确性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Snippy: An AI Assistant With Eyes",
+    "url": "https://www.timdbg.com/posts/snippy-assistant-with-eyes/",
+    "timestamp": 1735545566,
+    "summary": "这篇文章讲述了AI助手Snippy的开发，它通过屏幕共享与理解屏幕文本应用提高工具使用效率。使用Tauri和CrabGrab实现跨平台功能，用户可选择共享应用，通过交互界面与AI系统沟通，处理和回应屏幕信息，且CrabGrab作为开源技术鼓励社区贡献。"
   }
 ]
