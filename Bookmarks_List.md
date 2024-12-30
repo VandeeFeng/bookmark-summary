@@ -5,7 +5,6 @@ Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签
 
 ## Summarized Bookmarks
 - (2024-12-30) [李继刚：当我们说「提示词」时，到底在说什么？](2024/12/2024-12-30-李继刚：当我们说「提示词」时，到底在说什么？.md)
-- (2024-12-30) [李继刚：当我们说「提示词」时，到底在说什么？](2024/12/2024-12-30-李继刚：当我们说「提示词」时，到底在说什么？.md)
 - (2024-12-30) [Snippy: An AI Assistant With Eyes](2024/12/2024-12-30-snippy-an-ai-assistant-with-eyes.md)
 - (2024-12-30) [Writing a C Compiler, Part 1](2024/12/2024-12-30-writing-a-c-compiler,-part-1.md)
 - (2024-12-29) [一小时魔改Cursor变身Devin](2024/12/2024-12-29-一小时魔改cursor变身devin.md)
