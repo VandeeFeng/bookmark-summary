@@ -2,7 +2,7 @@
 title: 李继刚：当我们说「提示词」时，到底在说什么？
 date: 2024-12-30
 extra:
-  source: //www.geekpark.net/news/344701
+  source: www.geekpark.net/news/344701
   original_title: 李继刚：当我们说「提示词」时，到底在说什么？
 ---
 ## Summary
