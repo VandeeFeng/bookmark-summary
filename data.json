@@ -1222,5 +1222,13 @@
     "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
     "timestamp": 1735713840,
     "summary": "2024年大型语言模型领域发生了显著变化，模型之间竞争加剧导致价格下滑，多媒体处理能力增强，创新快速提升，智能模仿应用广泛，迎来通用人工智能竞争。技术进步同时带来环境影响、模型质量评估与教育、复杂性使用等问题的反思，特别关注跨越国界的数据训练对模型应用的影响。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "LLM Reasoning with Chain of Continuous Thought by Meta AI",
+    "url": "https://aipapersacademy.com/chain-of-continuous-thought/",
+    "timestamp": 1735714328,
+    "summary": "本文探讨Meta AI的COCONUT方法，它允许大型语言模型在连续潜空间中以\"Chain of Continuous Thought\"方式推理，优于传统CoT方法，特别在数学、逻辑推理及规划任务上展现出更高的效率与准确性。连续推理方法显著提升AI在规划密集型任务的性能，为AI发展提供新途径。"
   }
 ]

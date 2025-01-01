@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-01) [LLM Reasoning with Chain of Continuous Thought by Meta AI](2025/01/2025-01-01-llm-reasoning-with-chain-of-continuous-thought-by-meta-ai.md)
 - (2025-01-01) [Things we learned about LLMs in 2024](2025/01/2025-01-01-things-we-learned-about-llms-in-2024.md)
 - (2024-12-30) [李继刚：当我们说「提示词」时，到底在说什么？](2025/12/2024-12-30-李继刚：当我们说「提示词」时，到底在说什么？.md)
 - (2024-12-30) [李继刚：当我们说「提示词」时，到底在说什么？](2025/12/2024-12-30-李继刚：当我们说「提示词」时，到底在说什么？.md)
