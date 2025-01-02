@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-02) [The Mac Malware of 2024](2025/01/2025-01-02-the-mac-malware-of-2024.md)
 - (2025-01-01) [1,000 True Fans](2025/01/2025-01-01-1,000-true-fans.md)
 - (2025-01-01) [Superlinear Returns - 超线性回报](2025/01/2025-01-01-superlinear-returns---超线性回报.md)
 - (2025-01-01) [Xunzi vs. Mengzi – Are People (No) Good? - Ralph Ammer](2025/01/2025-01-01-xunzi-vs.-mengzi-–-are-people-(no)-good---ralph-ammer.md)
