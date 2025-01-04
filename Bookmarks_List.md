@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-04) [I am rich and have no idea what to do with my life](2025/01/2025-01-04-i-am-rich-and-have-no-idea-what-to-do-with-my-life.md)
 - (2025-01-04) [10 Essential Terminal Commands Every Developer Should Know](2025/01/2025-01-04-10-essential-terminal-commands-every-developer-should-know.md)
 - (2025-01-04) [Best Linux Distro of 2024? There Is No Such Thing!](2025/01/2025-01-04-best-linux-distro-of-2024-there-is-no-such-thing!.md)
 - (2025-01-02) [The Mac Malware of 2024](2025/01/2025-01-02-the-mac-malware-of-2024.md)

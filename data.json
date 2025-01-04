@@ -1278,5 +1278,13 @@
     "url": "https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know",
     "timestamp": 1735963957,
     "summary": "本文指南介绍了10个关键的Unix终端命令，涵盖基础文件操作、高级文本处理、权限管理与搜索，旨在提高开发者的生产力。这些命令，包括grep用于搜索、man提供帮助文档功能、cat查看文件内容、chmod管理权限等，每种都具有多用途与高级使用选项，适合不同开发场景。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "I am rich and have no idea what to do with my life",
+    "url": "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/",
+    "timestamp": 1735969717,
+    "summary": "文章讲述了作者在出售公司后面对的迷茫与方向感缺失，通过自然、反思、恋爱与失恋以及克服恐惧的经历，探索自我成长与价值实现，展现了从迷茫到自我发现的过程。"
   }
 ]
