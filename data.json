@@ -1262,5 +1262,13 @@
     "url": "https://objective-see.org/blog/blog_0x7D.html",
     "timestamp": 1735818305,
     "summary": "本文详细分析了2024年MacOS恶意软件趋势，涵盖了不同类型恶意软件的特性、传播方式和持久性机制。报告通过案例研究和工具推荐深入解读了恶意软件，尤其是窃取信息和CloudChat一类恶意软件，强调其危害和防御策略。最后，文章鼓励支持安全研究人员持续贡献。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Best Linux Distro of 2024? There Is No Such Thing!",
+    "url": "https://linuxiac.com/best-linux-distro-of-2024-there-is-no-such-thing/",
+    "timestamp": 1735963767,
+    "summary": "2024年最佳Linux发行版因不同需求各异，无统一答案。文章推荐根据应用场合选择：桌面优选Linux Mint 22、Fedora 41或elementary OS 8；服务器推荐Rocky Linux 9.5或Ubuntu 24.04 LTS；通用选openSUSE Leap 15.6；侧重容器和服务器环境考虑Nitrux 3.8、Fedora 41 Silverblue或openSUSE MicroOS。评价关键为适用性，而非单一“最好”。"
   }
 ]
