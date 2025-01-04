@@ -1286,5 +1286,13 @@
     "url": "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/",
     "timestamp": 1735969717,
     "summary": "文章讲述了作者在出售公司后面对的迷茫与方向感缺失，通过自然、反思、恋爱与失恋以及克服恐惧的经历，探索自我成长与价值实现，展现了从迷茫到自我发现的过程。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "The Problem With LangChain",
+    "url": "https://minimaxir.com/2023/07/langchain-problem/",
+    "timestamp": 1735975071,
+    "summary": "LangChain借助ReAct中的Prompt技巧提升大语言模型的综合能力，因Ch'inputGIT API受欢迎而迅速增长，吸引大量用户和投资，但也暴露了极高的复杂性问题，影响了易用性和性能。作者开发了简单替代方案simpleaichat，并对软件复杂性及其对创新和发展的长期影响提出了警告。"
   }
 ]
