@@ -1270,5 +1270,13 @@
     "url": "https://linuxiac.com/best-linux-distro-of-2024-there-is-no-such-thing/",
     "timestamp": 1735963767,
     "summary": "2024年最佳Linux发行版因不同需求各异，无统一答案。文章推荐根据应用场合选择：桌面优选Linux Mint 22、Fedora 41或elementary OS 8；服务器推荐Rocky Linux 9.5或Ubuntu 24.04 LTS；通用选openSUSE Leap 15.6；侧重容器和服务器环境考虑Nitrux 3.8、Fedora 41 Silverblue或openSUSE MicroOS。评价关键为适用性，而非单一“最好”。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "10 Essential Terminal Commands Every Developer Should Know",
+    "url": "https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know",
+    "timestamp": 1735963957,
+    "summary": "本文指南介绍了10个关键的Unix终端命令，涵盖基础文件操作、高级文本处理、权限管理与搜索，旨在提高开发者的生产力。这些命令，包括grep用于搜索、man提供帮助文档功能、cat查看文件内容、chmod管理权限等，每种都具有多用途与高级使用选项，适合不同开发场景。"
   }
 ]
