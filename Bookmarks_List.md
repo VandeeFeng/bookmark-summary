@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-07) [The day I taught AI to read code like a Senior Developer](2025/01/2025-01-07-the-day-i-taught-ai-to-read-code-like-a-senior-developer.md)
 - (2025-01-07) [互联网，独立和自由](2025/01/2025-01-07-互联网，独立和自由.md)
 - (2025-01-04) [The Problem With LangChain](2025/01/2025-01-04-the-problem-with-langchain.md)
 - (2025-01-04) [I am rich and have no idea what to do with my life](2025/01/2025-01-04-i-am-rich-and-have-no-idea-what-to-do-with-my-life.md)
