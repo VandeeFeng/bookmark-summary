@@ -1318,5 +1318,13 @@
     "url": "https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html",
     "timestamp": 1736228723,
     "summary": "CCL 是一种基于 Category Theory 的键值对配置语言，旨在简化软件配置，通过固定点表示复杂嵌套，解决键冲突。采用递归解析与合并技术，CCL 支持灵活的配置组合与扩展，展现高性能与测试覆盖，作者邀请社区参与优化与集成至 GitHub TUI。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "How I program with LLMs",
+    "url": "https://crawshaw.io/blog/programming-with-llms",
+    "timestamp": 1736328598,
+    "summary": "文章基于作者的一年实践，探讨生成模型（LLMs）在编程辅助中的应用，包括自动补全、复杂环境搜索及对话式编程，强调其效率提升与挑战。未来预期为提高匹配度，发展专门于特定编程环境（如Golang）的平台与工具，优化模型反馈与测试，克服非确定性问题，实现更专业化的编程辅助。"
   }
 ]
