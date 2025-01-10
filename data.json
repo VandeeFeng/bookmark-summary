@@ -1358,5 +1358,13 @@
     "url": "https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623",
     "timestamp": 1736499453,
     "summary": "本文反思了软件在商业模式和人际关系中所扮演的角色，指出其发展伴随的挑战，如企业过度追求利润、产品设计忽视用户反馈、自动化算法影响人际关系、审查系统引发负面影响、身份验证低效问题、医疗保健流程复杂以及工作场所内挑剔文化的蔓延。作者呼吁重视社会影响，防止负面行为和系统性问题。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Contemplative LLMs: Anxiety is all you need?",
+    "url": "https://maharshi.bearblog.dev/contemplative-llms-prompt/",
+    "timestamp": 1736500108,
+    "summary": "本文讨论了设计“Contemplative LLMs”的新提示，旨在引导大型语言模型在提供最终答案前进行深入思考和冥想，通过广泛反思、自然对话结构和逐步解决，模仿人类思考过程。"
   }
 ]
