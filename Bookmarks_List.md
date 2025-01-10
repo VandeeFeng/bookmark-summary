@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-10) [Agents](2025/01/2025-01-10-agents.md)
 - (2025-01-08) [All clocks are 30 seconds late](2025/01/2025-01-08-all-clocks-are-30-seconds-late.md)
 - (2025-01-08) [How I program with LLMs](2025/01/2025-01-08-how-i-program-with-llms.md)
 - (2025-01-07) [The Most Elegant Configuration Language](2025/01/2025-01-07-the-most-elegant-configuration-language.md)
