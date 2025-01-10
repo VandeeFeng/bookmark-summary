@@ -1,13 +1,14 @@
 ---
-title: Contemplative LLMs- Anxiety is all you need-
+title: Contemplative LLMs Anxiety is all you need
 date: 2025-01-10
 extra:
   source: https://maharshi.bearblog.dev/contemplative-llms-prompt/
-  original_title: Contemplative LLMs- Anxiety is all you need-
+  original_title: Contemplative LLMs Anxiety is all you need
 ---
 ## Summary
 **摘要**：
 本文作者Maharshi Pandya 分享了他设计一个名为“Contemplative LLMs”的新提示的想法，旨在使大型语言模型（如Claude sonnet、GPT-4和Deepseek v3等）在给出最终答案前进行“冥想”。此提示引发了社交平台上的广泛讨论。Maharshi Pandya在原文中解释了创作此提示的动机，以及他在思考如何让语言模型更像人类，自然地展开思考过程时的出发点。
+
 **要点总结**：
 1. **重视探索**：提醒模型在得出结论前避免匆忙，持续探索直到通过证据自然得出解决方案，对每个假设持怀疑态度。
 2. **深度反思**：要求模型进行广泛思考（至少10,000个字符），以自然的内部对话形式表达思考，分解复杂想法为简单的步骤，承认不确定性并反复修正思维。
