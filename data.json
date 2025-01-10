@@ -1366,5 +1366,13 @@
     "url": "https://maharshi.bearblog.dev/contemplative-llms-prompt/",
     "timestamp": 1736500108,
     "summary": "本文讨论了设计“Contemplative LLMs”的新提示，旨在引导大型语言模型在提供最终答案前进行深入思考和冥想，通过广泛反思、自然对话结构和逐步解决，模仿人类思考过程。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Collecting replies to tweets using JavaScript",
+    "url": "https://til.simonwillison.net/twitter/collecting-replies",
+    "timestamp": 1736501112,
+    "summary": "为解决Twitter数据存储难题，文章开发了一种使用JavaScript脚本在浏览器端实时抓取AI代理术语相关回复至JSON格式的方法，通过分类并提供给LLM分析，不仅有效处理数据扩展问题，还创新性地整合了大规模语言模型来理解与定义多元概念。"
   }
 ]

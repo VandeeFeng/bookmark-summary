@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-10) [Collecting replies to tweets using JavaScript](2025/01/2025-01-10-collecting-replies-to-tweets-using-javascript.md)
 - (2025-01-10) [Contemplative LLMs: Anxiety is all you need?](2025/01/2025-01-10-contemplative-llms-anxiety-is-all-you-need.md)
 - (2025-01-10) [Software is eating the world](2025/01/2025-01-10-software-is-eating-the-world.md)
 - (2025-01-10) [My Favorite Self-Hosted Apps Launched In 2024](2025/01/2025-01-10-my-favorite-self-hosted-apps-launched-in-2024.md)
