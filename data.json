@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "The 70 problem: Hard truths about AI-assisted coding",
+    "url": "https://addyo.substack.com/p/the-70-problem-hard-truths-about",
+    "timestamp": 1736571642,
+    "summary": "文章探讨AI在编码辅助下工程师生产力与用户体验的差异，发现两种策略（快速启动与逐步迭代）各有优劣。AI初期加速项目构建有效，但维护和优化代码复杂，特别对经验丰富的开发者更有利。70%问题凸显AI产出需进一步修正。未来，AI将通过主动解决问题、增强交互能力等方式促进与人类的协作。为适应AI技术，开发者需提升系统设计、与AI协作、关注安全性能以及用户体验的质量。"
+  }
+]
