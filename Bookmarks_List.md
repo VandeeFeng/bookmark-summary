@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-11) [从数据库到 AI](2025/01/2025-01-11-从数据库到-ai.md)
 - (2025-01-11) [人为什么会制造工具](2025/01/2025-01-11-人为什么会制造工具.md)
 - (2025-01-10) [预测之书：通往未来的门票](2025/01/2025-01-10-预测之书：通往未来的门票.md)
 - (2025-01-10) [Why LSP?](2025/01/2025-01-10-why-lsp.md)
