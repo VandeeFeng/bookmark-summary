@@ -1,0 +1,1410 @@
+[
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "🏆 认识Demis Hassabis和AlphaFold： - 即刻App",
+    "url": "https://m.okjike.com/originalPosts/6709ed46603832249247b8b4",
+    "timestamp": 1728981698,
+    "summary": "诺贝尔化学奖获得者Demis Hassabis和AlphaFold团队改变了科学和商业世界。他们预测了大量蛋白质结构并加速了药物发现过程。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Dario Amodei — Machines of Loving Grace",
+    "url": "https://darioamodei.com/machines-of-loving-grace",
+    "timestamp": 1728982061,
+    "summary": "人工智能可以带来美好的未来，但也存在风险。健康方面，如解决医学问题，改善健康和寿命。经济方面，如提高生产力，创造新的工作机会。社会方面，如解决贫困、犯罪和教育问题。政府方面，如管理公共服务和资源。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "How to build a real-time image generator with Flux and Together AI",
+    "url": "https://www.together.ai/blog/how-to-build-a-real-time-image-generator-with-together-ai",
+    "timestamp": 1728988567,
+    "summary": "使用 Flux 和 Together AI，可以创建实时图像生成器。通过使用 React 和 Together AI 的 API，可以实现实时图像生成。用户可以在输入框中输入 prompt，应用程序会实时生成图像。同时，可以使用 Debounce 降低 API 请求频率，提高应用程序性能。应用程序还支持控制图像生成步数和随机性。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "The Interactive Guide to Rendering in React",
+    "url": "https://ui.dev/why-react-renders",
+    "timestamp": 1728999720,
+    "summary": "React渲染指南简介：React通过调用组件函数更新视图，渲染组件的过程包括创建快照和更新视图两步。根组件渲染初始视图，createRoot函数用于创建根元素。React只在组件状态变化时重新渲染组件，通过检查事件处理函数来确定状态变化。React.memo用于优化渲染，严格模式用于检查应用代码质量。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "The Knowledge Economy Is Over. Welcome to the Allocation Economy",
+    "url": "https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy/",
+    "timestamp": 1729005637,
+    "summary": "知识经济逐渐结束，我们即将进入一个新的经济模式，即“分配经济”。在分配经济中，人们将不再只注重知识和技能积累，而是着重于资源管理、目标设定，做出更好的决策。AI工具，如聊天机器人，可以帮助我们更好地概括和分析信息。在新经济模式下，人们将专注于管理和分配资源，而不是从事大量重复性工作。分配经济将带来管理技能普及化、经济复杂化和创造力释放，并需要我们关注社会责任。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "The Intellectual Obesity Crisis",
+    "url": "https://www.gurwinder.blog/p/the-intellectual-obesity-crisis",
+    "timestamp": 1729009215,
+    "summary": "文章讨论了信息过载和“知识肥胖”的问题，认为大量不必要的信息会占据大脑，并导致失去对重要信息的关注。主要原因包括人类的好奇心、奖赏机制和互联网时代低质量信息的传播。过多摄入无用信息会阻碍深度思考和学习，导致注意力分散和冲动行为。为了解决这一问题，需要采取更慎重的信息摄入方式，限制垃圾信息的接触，增加专注于重要信息的时间和提高信息质量。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "AI Canon - Andreessen Horowitz",
+    "url": "https://a16z.com/ai-canon/",
+    "timestamp": 1729010075,
+    "summary": "**人工智能资源概要**\n\n*   **学习资源**\n    *   温和的介绍：简明地介绍人工智能核心概念的资源，包括软件2.0、GPT状态和ChatGPT工作原理等。\n    *   基础学习：深度学习的核心概念以及面向开发者的实用深度学习等内容。\n*   **AI应用**\n    *   医学和生物学：AlphaFold和大型语言模型中的临床知识等。\n    *   音频生成：Jukebox、AudioLM和MusicLM等。\n    *   多维图像生成：NeRF和DreamFusion等。\n*   **底层学习资源**\n    *   机器学习：这一资源涵盖了机器学习的所有方面，从基本概念到高级主题。\n*   **经典论文**\n    *   注意力是您需要的：Google团队于2017年发表，介绍变压器模型。\n*   **课程**\n    *   实用深度学习：深度学习实践，包括常见框架和库的使用。\n    *   基于注意力的神经网络：自然语言处理等领域的注意力机制。\n*   **文档和博客**\n    *   人工智能随笔：涵盖人工智能领域广泛主题，从基本原理到实践应用。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Ireland’s big school secret: how a year off-curriculum changes teenage lives",
+    "url": "https://www.theguardian.com/lifeandstyle/2024/oct/16/ireland-school-secret-transition-year-off-curriculum",
+    "timestamp": 1729217931,
+    "summary": "爱尔兰的中学生在第三年和第四年之间有一年的特殊安排，称作过渡年（TY）。在这一年里，学生不需要按照传统的学年进行学习，可以自由选择一些核心科目和兼顾工作经验、职场探索、社交活动等。在爱尔兰，从1974年开始逐步推行的TY旨在帮助学生自主探索兴趣和能力，提高适应性及其和领导力。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "傅盛：创业八年，行业都消失了，我们还在增长",
+    "url": "https://m.cyzone.cn/article/481508.html",
+    "timestamp": 1729218141,
+    "summary": "该文章总结如下：发生了AssertionFailureError错误，状态码为42206，等待时间30000毫秒已超时。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "0 → 1, Shipping Threads in 5 Months",
+    "url": "https://www.infoq.com/presentations/threads-meta/",
+    "timestamp": 1729218607,
+    "summary": "InfoQ网站提供了多项服务，包括新闻、文章、演讲和播客等。近期主题演讲0 → 1, Shipping Threads in 5 Months中，Meta软件工程师Zahan Malkani分享了如何利用小团队在几个月内推出Threads社交网络的经验。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "请全力以赴地敷衍了事 | 参考答案Answers",
+    "url": "https://ouranswers.zhubai.love/posts/2459001081842458624?push_source_id=2427571169441824768&push_source_type=email",
+    "timestamp": 1729251002,
+    "summary": "在生活中，我们常常面临目标和任务。要么全力追求最好效果，要么安于付出最少的努力。然而，这其中被动的心态占很大一部分。问题在于，我们不能以自己的需要来判断自己的需要。要根据自己的需要合理规划，找到适合自己的状态，才能以最低的成本付出最充分的努力。\n\n现状是，绝大多数的人都面临着两难境地：是刻意追求更高的标准，还是敷衍了事。为了实现自己的目标和追求，不要过度追求更高的标准，也不要整天抱怨现状。要根据自己的能力和需要合理规划，找到适合自己的状态。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "局外人",
+    "url": "https://www.vandee.art/posts/2024-01-12-ju-wai-ren/",
+    "timestamp": 1729255680,
+    "summary": "本文是一篇随笔杂文，介绍了作者对写作的看法以及最近的写作计划。文章中作者提到了自己对社会现象的看法，并表示不打算批判那些社会现象，只想做自己一直想做的事情。文章中还附上了网易云音乐外链和其他随笔的链接，介绍了自己的写作风格和灵感来源。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "读书人对君主是怎么想的？",
+    "url": "https://mp.weixin.qq.com/s/o2usQ-ZJT70AhqA3LS7hDw",
+    "timestamp": 1729260761,
+    "summary": "中国历史上的君主制度一直备受争议。儒家学派在历史上的态度发生了变化。一开始他们对君主采取平视态度，然而后代儒家学派就越来越趋向于君权神授，从而导致对君主的过度推崇。在儒家经典《论语》中，孟子批评过暴君，展现的就是一种平视态度。另一个例子是“三代之治”，即尧舜禹的治理时期。后世尊重他们，因为他们是理想的君主典范。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "八位 Google 员工开创了现代 AI 的新纪元，揭秘他们的故事 [译]",
+    "url": "https://baoyu.io/translations/story/eight-google-employees-invented-modern-ai-transformers-paper",
+    "timestamp": 1729270827,
+    "summary": "以下是对这篇文章的简短总结：\n\nTransformer 模型是人工智能技术的重要组成部分，它广泛应用于自然语言处理和图像识别等领域。该模型由 Google 研究团队开发，核心思想是通过自注意力机制来处理序列数据，提高模型表现和效率。Transformer 模型的成功受到广泛关注，成为人工智能发展史上的一项重要成就。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Using static websites for tiny archives",
+    "url": "https://alexwlchan.net/2024/static-websites/",
+    "timestamp": 1729304650,
+    "summary": "使用静态网站作为数字仓储可以更好地组织和存储文件。静态网站更可靠易用，并且可以在任何支持HTML的设备上正常使用。此外，静态网站也可以根据自己的需求进行定制，添加需要的功能，使其成为小型数字仓储的理想解决方案。静态网站使用HTML文件存储展示文件，不需要依赖特定应用。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "如何找到愿意为之付出一生的研究事业？",
+    "url": "https://www.fxzhihu.com/question/870573710/answer/7848446713?redirect=false",
+    "timestamp": 1729317816,
+    "summary": "如何找到值得一生付出的科研事业呢？本文以作者从本科开始的记忆研究经历为例，探讨了研究方向的确定、研究过程中的实践和实验、传统研究的学习，以及独立思考和写作的重要性。作者通过实际案例，分享了保持自由学习的探索精神和激情驱动的体验，并希望推动教育技术的发展和普及。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "李继刚全网首播干货分享整理 | Prompt（提示词）的道和术",
+    "url": "https://mp.weixin.qq.com/s/070zb9RWq1TVlBkKt7usgw",
+    "timestamp": 1729353898,
+    "summary": "李继刚全网首播分享了提示词（Prompt）的“道”和“术”。他强调了清晰表达的重要性，即要求 models 清晰地表达自己的需求。要想写出好的提示词，需要“read in, prompt out”，即输入有质量和高度，并且脑海中有一个内核。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Henri Bergson — Why we live in the past - Ralph Ammer",
+    "url": "https://ralphammer.com/bergson-why-we-live-in-the-past/",
+    "timestamp": 1729478315,
+    "summary": "根据文章总结，法国哲学家亨利·柏格森认为，人们无法仅生活在“当下”。柏格森认为，感知是以身体为基础的，目的是采取行动，同时感到记忆并不仅仅存储在脑中。文章还讨论了如何通过提高注意力、丰富记忆和实践来增强感知能力。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Everything I built with Claude Artifacts this week",
+    "url": "https://simonwillison.net/2024/Oct/21/claude-artifacts/",
+    "timestamp": 1729533450,
+    "summary": "\n\nSimon Willison 通过利用 Claude 的 \"Artifacts\" 功能，快速构建了许多实用工具，涵盖文本处理、图像处理和日常应用等方面。这些工具的简单易用和交互性，使其能够快速解决问题和原型设计。虽然Artifacts目前功能有限，但作者相信其未来潜力巨大。 \n\n\n"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "马斯克的一些言论 - 即刻App",
+    "url": "https://m.okjike.com/originalPosts/6714d8a49d53db7b44eec70a",
+    "timestamp": 1729567342,
+    "summary": "这篇文章分析了马斯克的愿景、思维方式和对未来的看法。马斯克坚定地追求人类太空移民，并将人类未来寄托于火星殖民。他以工程师思维追求卓越的制造能力，并强调科技创新和第一性原理。文章鼓励年轻人持之以恒地探索，找到自己的人生意义。 \n"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "LLM from scratch with Pytorch",
+    "url": "https://medium.com/@msouza.os/llm-from-scratch-with-pytorch-9f21808c6319",
+    "timestamp": 1729569689,
+    "summary": "这篇文章介绍了如何从头开始构建一个大型语言模型（LLM）。LLM是一种基于Transformer的模型，用于生成类似人类语言的文本。文章首先介绍了LLM的基本原理和工作机制，然后展示了如何使用预训练嵌入层和自定义令牌化方法来改善模型的性能。文章还比较了使用不同预训练模型的结果，证明了GPT-2模型的优异性能。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "半百",
+    "url": "https://mp.weixin.qq.com/s/Sd580wX64RPN6C9cLRNQPQ",
+    "timestamp": 1729573442,
+    "summary": "这篇文章是作者对朋友们50岁生日庆祝的反思。作者认为，随着年龄增长，人们逐渐变得更真实、特质更加明显。在经历了人生的复杂性后，五十岁的朋友们能够以从容的态度面对一切，放弃不必要的欲望和野心，最终达到了自我接受和与世界的和解。这篇文章是对人生不同阶段的反思，也是对生命的复杂性和自我成长的思考。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "极端者最平静",
+    "url": "https://mp.weixin.qq.com/s/r0CAQ5DWF0B-FC63E7JA7Q",
+    "timestamp": 1729597666,
+    "summary": "这篇文章探讨了“极端者最平静”的观点，认为极端者因对自己的选择充满信心而显得平静。那些不愿承担选择代价的人则容易陷入争论。文章以凯撒渡过鲁比孔河为例，说明极端者的平静和对选择的承担。作者最后指出，极端者往往是最宽容和随和的，因为他们没有太多的非此不可，而真正的极端者知道每种选择都需要承担代价。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Google \"We Have No Moat, And Neither Does OpenAI\"",
+    "url": "https://www.semianalysis.com/p/google-we-have-no-moat-and-neither",
+    "timestamp": 1729604798,
+    "summary": "近日，一份谷歌内部员工的泄密文件表示，谷歌和OpenAI在人工智能领域的竞争力正在减弱。开源社区在人工智能领域取得了快速进步，如用手机运行大型语言模型和快速训练多模态模型等。为保持竞争力，文件建议谷歌将研发重点放在快速迭代和开放应用上，并与开源社区进行合作，以实现共同发展和竞争力增强。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "解构之美",
+    "url": "https://wangyurui.com/posts/jie-gou-zhi-mei-4e3d28d8",
+    "timestamp": 1729605108,
+    "summary": "解构主义是一种后现代思想，由法国哲学家雅克·德里达创立。它挑战了现代思想的理想主义、人类中心主义和理性主义，认为这些思想导致了压迫和专制。解构主义对艺术、建筑、设计等领域产生了革命性的影响，带来了颠覆性和破坏性的风格思想。虽然解构主义存在矛盾性，但它的意义在于挑战了现代思想的局限性，带来了新的思想和艺术的可能性。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "知识的缝隙-孟岩",
+    "url": "https://mp.weixin.qq.com/s/Nu16xFYIInSZN5hjW-avrw",
+    "timestamp": 1729606049,
+    "summary": "文章通过“知识的缝隙”主题，探讨了人们如何认识和理解世界。通过学习法和“猩猩理论”等概念，文章强调了发现和填补知识缺陷的重要性。在自由市场上，独特能力将得到重视和肯定，同时寻找热爱和使命需要设计一个自由选择的环境。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "On the Nature of Time",
+    "url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+    "timestamp": 1729606301,
+    "summary": "时间是人类经验的核心特征，从计算角度来看，时间可视为一种计算过程，具有不可逆转性。观察者的角度和相对论效应也影响时间的表现。时间的性质复杂，多面，涉及计算过程、观察者、相对论效应等因素。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "What is a \"cognitive architecture\"?",
+    "url": "https://blog.langchain.dev/what-is-a-cognitive-architecture/",
+    "timestamp": 1729613709,
+    "summary": "本文讨论了“认知架构”的概念及其在大型语言模型中的作用。作者根据个人理解阐述了认知架构的定义，强调了选择合适的认知架构的重要性。文章还提到了LangChain和LangGraph两个工具，帮助开发者轻松构建和实验不同认知架构。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Why you should outsource your agentic infrastructure, but own your cognitive architecture",
+    "url": "https://blog.langchain.dev/why-you-should-outsource-your-agentic-infrastructure-but-own-your-cognitive-architecture/",
+    "timestamp": 1729613801,
+    "summary": "LangChain公司强调构建认知体系很重要，而不是过依赖通用性代理基础设施。本文总结了代理基础设施和认知体系的区别，分析了OpenAI Assitants API的局限性，并推广了LangChain公司的LangGraph Cloud服务，方便开发者建立自身认知体系。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "What is an agent?",
+    "url": "https://blog.langchain.dev/what-is-an-agent/",
+    "timestamp": 1729614186,
+    "summary": "作者认为代理一词并非指一个明确的事物，而是一系列使用大型语言模型（LLM）控制程序流程的事物。可以将代理看做一个谱系，拥有从简单路由系统到复杂自治系统等的多种可能性。还提到了开发过程的工具和平台 LANGGRAPH 和 LANGSMITH，及其在开发过程的重要性。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "5 Chunking Strategies For RAG",
+    "url": "https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag",
+    "timestamp": 1729740165,
+    "summary": "本文讨论了五种 CHUNKING 策略用于 RAG 应用。RAG 通过从大型知识库中检索相关文档生成文本， CHUNKING 策略可提高检索效率和生成文本质量。五种策略包括固定大小、基于语义、基于文档结构、基于语言模型和混合方法，每种策略有优缺点，需根据具体需求选择。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Aman's AI Journal • Primers • Ilya Sutskever's Top 30",
+    "url": "https://aman.ai/primers/ai/top-30-papers/",
+    "timestamp": 1729744675,
+    "summary": "两篇研究论文评估了大型语言模型对新知识的理解和推理能力及自动化事实核查能力。结果显示：模型难以理解和推理新知识，自动化事实核查有潜力但需人工核查；模型表现因语言和文化差异而有所不同；持续学习对于改进能力至关重要。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "内容行业和知识付费是一次性消耗积累不了资本",
+    "url": "https://swizec.com/blog/it-made-me-500k-but-i-think-content-is-a-bad-business/",
+    "timestamp": 1729830554,
+    "summary": "内容创业虽然赚钱，但存在较多弊端。运作机制包括建立受众、创建产品和推广产品，主要分为娱乐和洞察两类内容。然而，内容创业需要对抗创作者消耗、对平台依赖以及难以取得成功。对于软件工程师，最佳选择是分享深入洞察和专业知识，而非依靠内容创业来做全职工作。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Interview Learnings from former CIA Intelligence Officer - Byte Tank",
+    "url": "https://lopespm.com/notes/2024/09/12/interview_learnings_cia.html",
+    "timestamp": 1729832069,
+    "summary": "中情局员工Andrew Bustamante在一次采访中分享了其工作经验和观点，其中提到了恐惧、动机、操纵、道德灵活性和信息收集。重点包括人际关系中各自的公共、私人和秘密圈子，以及奖励、意识形态、胁迫和自我的四个主要动机。文章还强调了提问和控制对话可以获取更多信息，以及检测欺骗和培养良好的逻辑思维能力的意义。这些独特的工作经验和战术令人深思。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Lessons from Roman History - Byte Tank",
+    "url": "https://lopespm.com/notes/2024/10/13/lessons_roman_history.html",
+    "timestamp": 1729832145,
+    "summary": "罗马从共和到帝国的转变与其后的崩溃，都是由多种因素促成的。罗马重视过去，尤其是对祖先的纪念和继承，塑造了其文化和政治体制。然而，帝国的衰落却是地理、气候、宗教、疾病等多因素导致的。历史的经验和教训可以使我们避免重复错误，指导我们的现在和未来。了解过去有助于我们为个人和集体发展提供指导和参考。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "PabloNet-将反射转化为画作",
+    "url": "https://www.matthieulc.com/posts/pablonet/",
+    "timestamp": 1729832366,
+    "summary": "PabloNet 是一个结合了 AI 和艺术的创作项目，利用 webcam 视频和人工神经网络生成艺术图像。作者 Matthieu Lecauchois 用一个可挂壁的 LCD 框架来展示 AI 生成的作品。项目旨在探索 AI 创作独特艺术的可能性，虽然存在帧率问题，但已开源邀请社区参与和贡献。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "不说杨笠了，说说付航",
+    "url": "https://mp.weixin.qq.com/s/8VbZvcnGxzVjCXc2bWvOBQ?__readwiseLocation=",
+    "timestamp": 1729848579,
+    "summary": "付航在脱口秀比赛夺冠后，引发了关注。付航在表演中谈到了关于自己容貌焦虑的问题，许多网友认为他的表演非常好，笑中带泪。然而并不是所有人都认同这一点，觉得喜剧和正能量不搭调。付航的表演也可能出于大环境的压力，迫使自己通过自嘲来避免被批评。在讨论喜剧和幽默的本质时，作者指出冒犯可能会带来不舒服的感觉，当它针对特定的群体时尤其如此。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Measuring personal growth",
+    "url": "https://huyenchip.com/2024/04/17/personal-growth.html",
+    "timestamp": 1729851720,
+    "summary": "这篇文章探讨了如何衡量个人成长。它提出了三个指标：变化速率、解决问题的速度和未来的选择数量。文章通过例子说明了这些指标的应用，并强调了个人成长的重要性和提高的方法。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "银弹飞过先锋大厦",
+    "url": "https://hutusi.com/articles/the-history-of-software-engineering",
+    "timestamp": 1729853593,
+    "summary": "本文回顾了软件工程从起源至今的发展，从埃达·洛夫莱斯的编程先驱角色，到COBOL语言的开发和软件危机的应对策略，再到大模型时代可能带来的软件开发范式革新。强调了软件工程在对抗复杂性、提升效率和质量上的核心挑战及其发展路径。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "马克思常读常新",
+    "url": "https://wangyurui.com/posts/qing-nian-ren-du-ma-ke-si-ba-5127bf67",
+    "timestamp": 1729853756,
+    "summary": "青年人阅读马克思，应深入理解其思想与社会现实的联系，跨越对结论的迷信，不再是简单的崇拜，而是一个认清理论与实践、个人与社会、理想与现实的复杂过程。文章阐述了马克思青年时期对社会问题的深刻洞察，理论的来源与融合，以及理论行动的社会力量，强调“类存在物”的追求与复杂性，并反思马克思理论的发展脉络。目的在于引导青年人正确认知马克思思想的价值与意义，促进个人成长与社会进步。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Before you buy a domain name, first check to see if it's haunted",
+    "url": "https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/",
+    "timestamp": 1730094521,
+    "summary": "购买域名前需彻底检查其历史，防范“鬼域名”风险。识别“鬼域名”的方法包括访问Wayback Machine、检查DMCA报告、使用SEO工具检测历史数据。关键步骤涵盖搜索投诉、网站状况分析、与搜索引擎互动，以及执行最佳SEO实践。旨在恢复网站声誉，提升搜索引擎排名。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Character Amnesia in China - 提笔忘字性格失忆症",
+    "url": "https://globalchinapulse.net/character-amnesia-in-china/",
+    "timestamp": 1730095210,
+    "summary": "本文探讨了“汉字遗忘症”现象，指受过良好教育的中国人开始遗忘如何书写常用汉字。原因包括汉字系统的复杂性、历史上的语言改革和教育变化。文章强调，数字化时代挑战汉字书写能力，中国需面对如何维持及提升汉字教育的困境。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "一行代码降低 Vercel 40 倍成本",
+    "url": "https://www.memfree.me/blog/reduce-vercel-costs",
+    "timestamp": 1730096124,
+    "summary": "通过禁用Next.js中next/link的预加载，文章实现了将Vercel函数调用次数降低40倍，显著节省成本；优化策略包括利用Cloudflare CDN功能和平衡客户端/服务器资源，提高性能与成本效率。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Writes and Write-Nots - 写作能力的分化",
+    "url": "https://paulgraham.com/writes.html",
+    "timestamp": 1730107195,
+    "summary": "文章探讨了技术发展下的写作角色分化，形成“写作者”与“不写作者”群体，强调写作不仅是技能也是思考的体现，技术进步可能增加思考能力差异，引发社会分层担忧，鼓励个人主动发展写作技能以避免认知流失。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "无限续杯 Cursor",
+    "url": "http://bianyujie.cn/Unlimited-use-of-the-cursor?locale=zh",
+    "timestamp": 1730288626,
+    "summary": "Cursor是一款AI赋能的代码编辑器，拥有智能代码补全和深度理解能力，结合Claude 3.5 Sonnet提升性能。提供14天免费试用，新用户可注册新邮箱账号无限续用，同时维持原配置独立。适合通过教程学习快捷键、与AI交互，以提高编程效率。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "v0.dev prompt 结构详细解释",
+    "url": "https://baoyu.io/blog/v0-dev-prompt-structure-explanation?__readwiseLocation=",
+    "timestamp": 1730344108,
+    "summary": "文章介绍了Vercel设计的AI助手v0，强调其协助解决编程和开发任务的能力，通过MDX格式和特定代码块提供支持，遵循最佳实践和道德标准。v0提供简洁高效创新的编码解决方案，支持多种代码块和语言库，并通过实例展示了在构建3D场景、处理图像、邮件提交等多种场景的应用。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "Solar-powered, self-hosted website",
+    "url": "https://solar.dri.es/",
+    "timestamp": 1730350573,
+    "summary": "本文分析了使用太阳能供电的Raspberry Pi网络站点，探讨了可再生能源在本地网络托管中的应用，分享了实际操作技术、挑战与优化策略，强调了环保理念与生态建设，以生动案例展示了技术的人文关怀。"
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "title": "带着数字化「摘录者」重返纸质阅读 - 少数派",
+    "url": "https://sspai.com/post/93418?__readwiseLocation=",
+    "timestamp": 1730362802,
+    "summary": "作者总结了设计的数字化摘录工具，通过摄像头自动提取纸质书籍内容，利用机器视觉与深度学习技术优化OCR识别，实现自动化分割、光照校正，精准抓取标记的文本与图片，整合为可读Markdown文档。提供云端与离线运行模式，提升阅读材料数字化效率与便利性，并展望未来优化方向。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "创业架构师和工程架构师",
+    "url": "https://manateelazycat.github.io/2024/11/01/framework-for-simple/",
+    "timestamp": 1730538554,
+    "summary": "创业与工程架构师的成长历程分为五个阶段：从积累经验的初级程序员，到专注于整体产品设计并理解需求驱动架构的重要性，再到注重简洁优雅设计的高级阶段，始终以用户需求和代码简化为核心。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Octoverse: AI leads Python to top language as the number of global developers surges - 语言趋势",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-2024/",
+    "timestamp": 1730538966,
+    "summary": "本文分析AI对全球开发者及GitHub平台影响，揭示AI创建与Python流行趋势。开发者通过构建AI模型、参与Python、Jupyter Notebooks项目数量激增。Python超越JavaScript成为首选语言，Rust与T-SQL分别凸显安全性关注与数据科学需求，全球开发者加入高潮，尤其是印度、德国、日本与新加坡等国。开发人员角色转型为自动化、机器学习与数据科学专家，AI活动增长，推动云原生应用发展与GitHub多样化技术团队形成。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Migrating billions of records: moving our active DNS database while it’s in use",
+    "url": "https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use",
+    "timestamp": 1730539849,
+    "summary": "Cloudflare进行DNS数据迁移以优化存储系统、提升服务性能。原系统资源紧张影响其他服务，促使DNS团队独立数据库集群。涉及数据库架构重设、服务数据分离、新API构建与安全性提升。迁移实现了数据同步、性能优化和资源管理改进，展示了大规模数据迁移的技术策略和管理经验。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Creating a LLM-as-a-Judge That Drives Business Results",
+    "url": "https://hamel.dev/blog/posts/llm-judge/",
+    "timestamp": 1730546401,
+    "summary": "该文介绍了一种将大型语言模型作为决策工具的方法，通过七个步骤构建理智模型以辅助业务决策，强调与专家合作、数据多样化、模型迭代优化和错误分析，旨在提供基于事实、逻辑和成本效益的数据驱动建议。文章建议构建专业化LLM并提供资源指南。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Drawing the Transformer Network from Scratch (Part 1)",
+    "url": "https://towardsdatascience.com/drawing-the-transformer-network-from-scratch-part-1-9269ed9a2c5e",
+    "timestamp": 1730703037,
+    "summary": "本文为Building a Transformer神经网络系列开篇，旨在以直观方式解析Transformer架构。文章从初始输入序列，经历词汇嵌入与位置编码提升表示能力，到关键与查询构造、自注意力机制实现，直至最后的多头自注意力优化，一步步揭示Transformer如何通过注意力机制理解、处理文本信息，最终汇总自注意力结果产生输出，特别强调多头自注意力在强化模型性能中的作用。此系列旨在构建对Transformer的清晰认知与应用基础。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "手把手带你打造一个媲美 macOS 的 Linux 生产力系统",
+    "url": "https://www.sqlsec.com/2024/10/ubuntu.html",
+    "timestamp": 1730782562,
+    "summary": "本文指导如何在Kubuntu 24.04上构建高生产力Linux系统，通过优化安装、配置和应用选择，实现媲美macOS的体验，重点提升办公、编程、多媒体处理及娱乐效果。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "A return to hand-written notes by learning to read & write",
+    "url": "https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/",
+    "timestamp": 1730782713,
+    "summary": "本文关注从实物手写笔记转换为数字矢量化形式的技术，简化过程以普及数字笔记管理，提出“InkSight：通过阅读与书写学习的离线转在线手写转换”，使用照片提取手写轨迹，避免传统方法的硬件和软件开销，引入“Read & Write”概念简化过程。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "15岁开发者 zmh - Chat Nio 被百万收购",
+    "url": "https://m.okjike.com/originalPosts/672733dadd10af52275889bc",
+    "timestamp": 1730809461,
+    "summary": "作者 zmh 分享了从游戏兴趣到编程入门，再到项目开发、商业探索的个人经历，展示了编程带来的成长与机遇，最终通过开源与收购实现项目成功转型的历程。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Alternatives to Using Pure Black for Text and Backgrounds",
+    "url": "https://uxplanet.org/alternatives-to-using-pure-black-000000-for-text-and-backgrounds-54ef0e733cdb",
+    "timestamp": 1730811667,
+    "summary": "《纯黑(#000000)用作文本和背景的替代方案》探讨了全黑设计的利弊，指出其可能引起眼疲劳的问题，并建议使用灰度、深蓝等中间色调以提升用户舒适度和体验。文章强调了以用户体验为中心的设计原则，并通过探讨色彩视觉因素，为设计者提供实用的色彩选择策略，以构建既美观又实用的界面。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Tracker Beeper - Bert Hubert's writings",
+    "url": "https://berthub.eu/articles/posts/tracker-beeper/",
+    "timestamp": 1730959662,
+    "summary": "Bert Hubert 发布的“Tracker Beeper”工具通过发出声响警示用户每次数据传输，曝光了隐性追踪现象，已获百万观看，计划扩展兼容性与功能，包括支持更多平台与设备，并通过现场演示设备提升用户体验。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Great Hackers",
+    "url": "https://www.paulgraham.com/gh.html",
+    "timestamp": 1730994548,
+    "summary": "保罗·格雷厄姆的文章探讨了黑客产出与社会生产力的关系，指出科技提升导致分层明显，顶尖黑客的产出至关重要。文章强调，优秀黑客更看重工作趣味性与高品质工具，难以自我评价技能，热爱编程是成为顶尖黑客的关键。企业文化应重视与激励这样的人才。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "通过C语言入门计算机科学6-内存管理 ",
+    "url": "https://www.gcores.com/articles/190566",
+    "timestamp": 1731143617,
+    "summary": "文章通过解析C语言内存管理，强调栈与堆内存差异，指出直接使用栈返回字符串引起的错误，提出输出参数与堆内存分配及释放作为解决方案，旨在提升开发者对内存管理正确性的认识与实践能力。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Do It Your Way",
+    "url": "https://collabfund.com/blog/your-way-is-the-only-way/",
+    "timestamp": 1731144685,
+    "summary": "本文警告个性在内外压力下被忽视，强调在职场和生活中保留个人属性的重要性，提倡根据个人目标设定标准，尊重投资与消费个性，避免模糊对错评判，强调满足个人需求超过社会认同。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "心-境转化通俗解释",
+    "url": "https://mp.weixin.qq.com/s/sKL5xOTs1jxzOjz-oSEXGw",
+    "timestamp": 1731155573,
+    "summary": "文章探讨心境与外界交互的哲学，强调内心情绪和态度塑造对世界认知。通过内心的视角转变，外界情境在心理状态下展现不同面貌，外境影响与内心控制形成辩证关系，指出内心强大能转败为胜，对外界环境进行积极重塑。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "人生需要浮士德精神",
+    "url": "https://wangyurui.com/posts/fu-shi-de-jing-shen-fe7413c8",
+    "timestamp": 1731210366,
+    "summary": "《浮士德》是歌德以六十年倾力打造的德语文学巨著，描述天才学者浮士德通过与魔鬼梅菲斯特的交易，不断追求知识、权力、爱情与艺术，最终理解生命真谛，灵魂前往天堂的故事。浮士德的四次失败象征人性的局限，而其对理想的不懈追求反映了歌德的深刻思考。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "提示词工程：技术分类与提示词微调[译]",
+    "url": "https://baoyu.io/translations/prompt-engineering/prompt-engineering-classification-of-techniques-and-prompt-tuning",
+    "timestamp": 1731254746,
+    "summary": "文章《提示词工程：技术分类与提示词微调》详解提示词工程技术，旨在优化大语言模型的响应。其核心包括分类应对引用资源、偏见、解算数学和消除幻觉的回答的技术，分为单一、组合提示词与外部工具结合三类，并提出清晰、具体、结构性提示词设计法则。强调提示词设计为数据科学过程，通过实例指导和评估优化模型理解及生成质量。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "创业者和投资人",
+    "url": "https://manateelazycat.github.io/2024/11/11/entrepreneur-and-investor/",
+    "timestamp": 1731304505,
+    "summary": "本博客提供创业与投资人沟通策略，强调沟通态度、状态管理、面对面交流价值，及聚焦关键要素如团队、市场、竞争优势。建议甄别靠谱投资人，通过自身素质提升强化吸引力，并重视产品销售与口碑建设，倡导非融资方式促进项目发展。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "成功的初创公司的两个关键优势，懂传播和会讲故事",
+    "url": "https://m.okjike.com/originalPosts/6731c6565e4e6d56a66051ef",
+    "timestamp": 1731396070,
+    "summary": "成功的初创公司关键在于擅长传播与故事讲述，增长策略已不单纯依赖产品规模，市场拓展核心是强大故事讲述能力和高效增长引擎，突出快速吸引用户群、使用用户自然邀请策略扩展市场，注重传播渠道与内容的吸引与价值传达。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "拿到多少钱，学历才算没贬值 - 少数派",
+    "url": "https://sspai.com/post/93573",
+    "timestamp": 1731475502,
+    "summary": "文章通过分析收入数据，指出高学历劳动人群的实际收入远低于预期，难以支撑教育成本。就业市场竞争激烈，学历与收入的直接关系下降。个人收入主要与同龄人比较，消费驱动收入增长，理解市场需求能提升收入。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Fcitx 最佳配置实践",
+    "url": "https://manateelazycat.github.io/2024/11/13/fcitx-best-config/",
+    "timestamp": 1731576588,
+    "summary": "本文详细指导Linux环境下配置Fcitx输入法，包括安装Fcitx组件、解决快速输入漏字问题、定制Fcitx皮肤、设置白霜输入法，以及在Emacs中集成白霜输入法，以全面提升输入体验。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Thinking Claude 把Claude强化成满血o1",
+    "url": "https://mp.weixin.qq.com/s/IAKD0FfcYehs5FsDkLbTJQ",
+    "timestamp": 1731576845,
+    "summary": "17岁高中生Richards Tu开发的Thinking Claude程序，通过独特Prompt提高Claude模型的智能与思考逻辑，接近人类表现。该Prompt使模型能自我提问、思考、解决问题，展现高度模仿能力，在解决实际问题和激发创造力方面表现出显著效果，获得广泛应用与高度关注。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Why is the Speed of Light So Fast? (Part 1)",
+    "url": "https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/",
+    "timestamp": 1731649977,
+    "summary": "文章解释光速的特性及其在相对论与量子力学中的意义，特别解析爱因斯坦E=mc²公式中的c²，深入探讨光速与能量转化、物质结构的关系，并预告后续将探讨这些概念在现代科学应用中的具体体现。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "一个让心智快速成长的好方法",
+    "url": "https://mp.weixin.qq.com/s/7p6K-0kCmNwHAiH_pP-GNw",
+    "timestamp": 1731650383,
+    "summary": "本文强调通过主动态度促进心智成长，提出正面自我对话、构建积极联系、主动叙事以及在行动中寻找乐趣的方法。旨在避免问题积累，将挑战转化为成长机会，提高自我满意度，构建积极心态。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "the equation of cat motion",
+    "url": "https://pubs.aip.org/aapt/ajp/article/92/11/827/3317285/On-cat-human-interaction-from-the-viewpoint-of",
+    "timestamp": 1731652627,
+    "summary": "本文运用经典力学视角，通过方程式模拟猫遇人类时的七种行为模式，包括对呼唤的反应、长时间陪伴偏爱者等。模型解释了猫的随机行为与喘息声，并通过物理现象如外力场与时间随机外力项来说明这些行为，展现跨学科研究在行为学与物理学领域的应用潜力。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "RSSHub 开发实践 - Telegram 频道 RSS 订阅实现与部署方案",
+    "url": "https://www.pseudoyu.com/zh/2024/11/18/rsshub_telegram_channel_integration/",
+    "timestamp": 1731923918,
+    "summary": "本文指导在RSSHub中对接Telegram官方API和MTProxy构建特定频道RSS订阅服务，从API获取与身份一致性方面优化设计，推荐Docker Compose部署，整合终端资源，确保安全便捷的实施，附实例验证和社区互动途径。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "表演型无私",
+    "url": "https://mp.weixin.qq.com/s/XnVlja1xJTQpqiM4DCHT-w",
+    "timestamp": 1731925192,
+    "summary": "文章探讨表演型无私这一现象，认为在现代社会中，人们通过夸张行为展示爱情与谦逊，实则带有自我表现的意图，与内在的真实无私相异。引述禅师观点，强调真正无私不在于外在牺牲，而在于内在的谦逊与真爱。通过个人经历，反思社会对伟大爱情与无私推崇背后的表面化和表演性特点，强调情感表达应在于真诚与深刻。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Exploring the browser rendering process | Little Things",
+    "url": "https://abhisaha.com/blog/exploring-browser-rendering-process/",
+    "timestamp": 1732069655,
+    "summary": "浏览器渲染过程从解析输入网址的DNS、建立安全连接到网页内容解析、构建DOM和CSSOM树，再到页面元素布局和最终显示，涉及多步骤，CSS属性关键影响页面呈现。了解这些机制利于优化网站性能。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Reactive HTML notebooks",
+    "url": "https://maxbo.me/a-html-file-is-all-you-need.html",
+    "timestamp": 1732069795,
+    "summary": "HTML具备作为科学出版平台的潜力，支持数据探索、分析、可视化和文档编排。通过HTML的特性创建交互式笔记，实现动态内容更新、格式化输出和多项语言集成。这使其成为集成动态计算、文档编辑和数据分析的多功能平台，未来可能通过特定库的开发增强其科学出版流程的自动化和用户交互体验。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "OpenAI Email Archives (from Musk v. Altman) — LessWrong",
+    "url": "https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman",
+    "timestamp": 1732121196,
+    "summary": "2015-2019年，Elon Musk与Sam Altman讨论创建旨在加速AI开发的“曼哈顿计划”，聚焦AI开发的安全性、快速吸引投资与人才，通过创建混合型非盈利盈利实体OpenAI LP，确保实现安全通用AI并分享其利益。实体专注能力提升、安全性和政策研究，强调AI安全性与个性化产品差异化，旨在通过多种方式推动AI技术发展，并保障AI伦理与社会福祉。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Inside Elon Musk’s messy breakup with OpenAI",
+    "url": "https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind",
+    "timestamp": 1732121716,
+    "summary": "本文描述了Elon Musk与OpenAI分手的复杂过程，由初期合作变得恶劣。两人曾致力于为人类利益开发先进AI，但Musk退出OpenAI后，创立xAI并与Jeff Altman发生冲突。Musk起诉指控Altman操纵公司并滥用资源，尽管可能缺乏适当的法律依据。这场法律纠纷揭示了两人合作路径上的分歧和利益冲突，展现了一场涉及AI发展、公司治理及个人关系的激烈较量。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "llms.txt—a proposal to provide information to help LLMs use websites",
+    "url": "https://www.answer.ai/posts/2024-09-03-llmstxt.html?_hsmi=334907283",
+    "timestamp": 1732154713,
+    "summary": "为语言模型优化网站内容，新增`/llms.txt`文件，列出其所需链接和信息，以高效提供背景知识，提升模型与网站互动效率。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "生成结构化的内容（JSON模式）是否会影响 LLM 性能？",
+    "url": "https://baoyu.io/translations/llm-performance-json-structured-content",
+    "timestamp": 1732328908,
+    "summary": "本文反驳Appier研究团队关于结构化生成限制影响大型语言模型性能的观点，指出结构化生成在多个任务上提升了性能，并通过详细数据分析发现论文的错误根源在于不公正的比较、提示模板的不一致性及混淆的评估策略。研究强调结构化生成的效率取决于正确的提示设计、定义回答格式、场景演示和验证数据一致性，并通过图示显示结构化JSON生成在经典传播、对象排列、GSM8K和最后一个字母任务中优于非结构化生成。结论是，正确的应用和反馈定义是结构化生成有效性的关键。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "用随机梯度下降来优化人生",
+    "url": "https://zhuanlan.fxzhihu.com/p/414009313",
+    "timestamp": 1732367944,
+    "summary": "文章类比于随机梯度下降算法，鼓励设定既有吸引力又具挑战性的个人目标，持续行动，灵活应对变化与挫折，勇于探索，注重生活与工作平衡，享受过程，追求简单有效的方法，以此推动个人成长与自我发现。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "高并发爬虫调优小记 - 从 1 QPS 到 10000 QPS",
+    "url": "https://blog.lyc8503.net/post/high-performance-crawler/",
+    "timestamp": 1732434007,
+    "summary": "本文详细记录了一位作者从原始的爬虫版本优化至能够处理10,000 QPS的过程。通过实施多线程、引入IPv6规避访问限制、优化使用异步库如`aiohttp`与`asyncio`，以及解决并发与连接数的瓶颈问题，从而大幅度提升爬虫性能。同时也探讨了多进程策略以实现更高效地处理大量请求。这一系列优化不仅提高了爬虫的拥塞控制能力，还揭示了资源管理、连接复用与调度策略在分布式爬虫设计中的重要性。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "聪明人贾诩",
+    "url": "https://wangyurui.com/posts/cong-ming-ren-jia-xu-ec2ce6e4",
+    "timestamp": 1732590587,
+    "summary": "文章讲述了贾诩的生平，展现了他在复杂政治局势下利用策略和智慧取得的关键胜利，从解救氐人危机、平定董卓之乱、助力曹操统一北方到处理继承权纷争，全文强调了贾诩的精明决策、适应能力和对人性深刻的洞察。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "How I configure my Git identities",
+    "url": "https://benji.dog/articles/git-config/",
+    "timestamp": 1732590825,
+    "summary": "本文阐述了利用Git的高级配置特性（如`includeIf`、`hasconfig`）和SSH配置，实现根据实际位置和特定URL调整Git身份和SSH密钥，特别针对处理多个GitHub账户和组织代码库配置差异，通过在`.ssh/config`内设置多个SSH实例管理不同平台的仓库访问。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "Wireguard: Beyond the most basic configuration",
+    "url": "https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/",
+    "timestamp": 1732590910,
+    "summary": "本文通过实战案例分享了如何进阶配置 WireGuard，包括替代 OpenVPN、解决 NAT 问题利用 UPnP、配置 IPv6 避免 NAT、通过防火墙优化端口转发，以构建安全、高效的网络连接方案。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "America’s Superpower",
+    "url": "https://collabfund.com/blog/americas-superpower/",
+    "timestamp": 1732679221,
+    "summary": "美国的超级力量体现在“选择性”机制，使公民每四年可改变国家方向，与两党制结合促进国家运行与政策调整。与阿根廷、中国等国家的对比显示，选择性是经济稳定、市场活力与政治健康的关键。选择性确保美国成为强大、民主与繁荣的国家，与全球盟友关系牢固。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "RSS二十年",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTAxMDY5Nw==&mid=2657350238&idx=1&sn=f3c698048e2dcdeb50233a44178b9de1&chksm=f1e82bb8c69fa2ae8c18d3908a772880e9e5b22b5eea978ee2459e38ea64e87502468a7cea3f&mpshare=1&scene=1&srcid=06037YPtPw1IeSBA3adnHssw",
+    "timestamp": 1732680579,
+    "summary": "RSS二十年回顾了其作为信息聚合工具的历史与局限，强调了开放互联网理念，对比了RSS与社交网络的特点，指出RSS在商业层面的不足导致边缘化，特别提到了播客行业对其依赖的独特案例，并探讨了随着Newsletter、Substack和微信公众号等技术的更迭，信息聚合与分发方式的进化与创新。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "A solution to the Onion Problem of J. Kenji López-Alt",
+    "url": "https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c",
+    "timestamp": 1732690196,
+    "summary": "该文探讨了通过数学优化方法减少洋葱切割产生的碎末问题，发现最佳切割深度为洋葱半径的约55.73%，这一创新方法通过连续数学和雅可比矩阵分析，证明了其简化而有效的实用性。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "The Zero Click Internet",
+    "url": "https://www.techspot.com/article/2908-the-zero-click-internet/",
+    "timestamp": 1732861868,
+    "summary": "互联网正经历自诞生以来的最大变革，由 zeroes 网络引领，内容直接在平台内展示，减少链接点击，改变搜索引擎结果，终结传统数字发布业务与广告生态系统，使 SEO 失效，并对商业环境产生深远影响。这一变迁预示着传统模式的终结与未来网络新生态的诞生，挑战着现有的所有商业模式。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "The Success and Failure of Ninja - neugierig",
+    "url": "https://neugierig.org/software/blog/2020/05/ninja.html",
+    "timestamp": 1732944303,
+    "summary": "Ninja构建系统，一个功能简洁、专注于速度的开源项目，自2011年发布后在大型项目如Chrome、Android及Swift中广泛应用，成为作者最成功的项目。Ninja以二部图表示构建结构，路径映射与其他设计优化，实现高效构建。与CMake集成的关键在于Peter Collingbourne的工作，以及针对Windows的精心设计，以满足Google产品需求。项目维护经历揭示了开源工作的复杂性和情感体验。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks?",
+    "url": "https://hez2010.github.io/async-runtimes-benchmarks-2024/",
+    "timestamp": 1732944377,
+    "summary": "该文章对比了多种编程语言（包括静态编译及高级语言）在并发执行大量任务（最高100万任务）时的内存消耗。测试结果显示，Rust与C#（通过NativeAOT）在内存控制方面表现优异，尤其在高并发场景下，C#展现出显著优势。优化方式和语言选择对内存效率有显著影响，静态编译语言在大规模并发任务处理中展现出更好的性能。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "一个有意思的 AI 智能体黑客比赛",
+    "url": "https://baoyu.io/blog/ai-challenge-hackathon",
+    "timestamp": 1732965394,
+    "summary": "在名为 Freysa 的 AI 智能体黑客比赛中，通过修改规则、误导 AI 解释和展示捐赠意愿，参赛者成功说服 AI 进行转账，揭示了 AI 在逻辑处理和环境适应上的局限性。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "HSBC速记",
+    "url": "https://web.archive.org/web/20241129010128/https://mp.weixin.qq.com/s/L8hEWoDYsWC_1K-CqTGvvg",
+    "timestamp": 1732975348,
+    "summary": "HSBC速记报道了一场聚焦于中产阶级庞大财富管理需求的活动。活动强调全球战略与中国市场定位，讨论了经济、金融与社会趋势，分析了经济模式、政策影响、供需关系对市场周期的影响，特别关注中国金融市场特殊性，探讨了利率、贫富差距与政策对经济波动的深刻影响，以及政策选择对经济周期的关键作用。活动还涉及经济周期分析、消费者行为、市场动态与未来经济趋势预测，提供了对全球发展趋势的深入洞察。"
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "title": "何加盐｜中文互联网正在加速崩塌",
+    "url": "https://chinadigitaltimes.net/chinese/708143.html",
+    "timestamp": 1732977093,
+    "summary": "中文互联网内容在过去几十年中经历了大规模衰退，导致大量历史信息丢失。主要原因是经济成本增加与自我审查，如网站运营成本过高、监管要求紧缩和对法规变化的自我审查。传统互联网内容的消失被视为信息进化的结果，遵循最低成本获取最多关注的原则。社交平台如知乎、豆瓣等逐渐衰落，对历史信息的保存面临挑战。现有方式如“互联网档案馆”保存受限，影响历史记忆完整。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Building an Audience Through Technical Writing: Strategies and Mistakes – Hamel’s Blog",
+    "url": "https://hamel.dev/blog/posts/audience/",
+    "timestamp": 1733147215,
+    "summary": "该文阐述技术写作时，构建网络作者身份与增强内容吸引力的策略。强调深度内容、对比优秀作品、一致性输出、清晰语言、有效内容生成系统和独特视角的重要性。通过应用这些技巧，能显著提升内容价值并吸引受众。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "'Brain rot' named Oxford Word of the Year 2024 - Oxford University Press",
+    "url": "https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/",
+    "timestamp": 1733204462,
+    "summary": "“脑腐”一词被选为2024年牛津年度词汇，反映了人们过度消费在线低质量或乏味内容对智力与精神的负面影响。其起源追溯至19世纪美国作家的论述，并在近年来的网络文化中崛起，尤其在社交媒体上对青少年心理健康产生关注。此词汇标记网络内容对社群语言和文化的演变，带有对网络消费过度和其潜在心理健康副作用的警醒。最终，它结合了文化的现代性和对数字生活的直观理解，展示了词语如何跨越虚拟世界进入现实生活，并超越创造者的预期。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "本地大语言模型（LLM）那些事 - 少数派",
+    "url": "https://sspai.com/post/94482",
+    "timestamp": 1733403116,
+    "summary": "本文详述了本地运行大型语言模型的方法与经验，重点介绍了llama.cpp工具、Hugging Face平台的模型获取、用户界面优化、地方填充技术及其在代码生成应用中的实践，同时也讨论了模型局限性与生产力提升的挑战。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "3-2-1 备份原则",
+    "url": "https://www.backblaze.com/blog/back-to-school-backup-for-school/",
+    "timestamp": 1733404650,
+    "summary": "在远程学习时代，学生数据备份至关重要。文章介绍“3-2-1备份策略”，建议学生配备本地和云端备份，确保数据安全。此外，文章提供存储规则、自动备份等建议，帮助学生培养良好数据管理习惯。同时，指导学生备份社交媒体和照片，使用Backblaze等服务，并设规划恢复流程，保护在线数字生活。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Redirecting URLs with CloudFlare",
+    "url": "https://codethoughts.io/posts/2024-07-31-redirecting-urls-with-cloudflare/",
+    "timestamp": 1733464571,
+    "summary": "这篇博客文章概述了Christian Kjær如何通过CloudFlare门户顺利迁移博客至新域名，并解决了链接重定向问题。主要步骤包括：更改基域名、调整帖子路径、移除HTML扩展名、创建重定向规则以适应新结构，同时分享了利用CloudFlare动态规则、函数调整路径的方法，强调了在免费计划下实现改进的技术细节，最后建议读者测试并提供反馈以优化过程。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "7 Databases in 7 Weeks for 2025",
+    "url": "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/",
+    "timestamp": 1733632813,
+    "summary": "文章概述了7种数据库技术（PostgreSQL、SQLite、DuckDB、ClickHouse、FoundationDB、TigerBeetle、CockroachDB）的介绍，强调各自特点与适用场景。每种数据库都在稳定性、查询性能、安全性和分布式能力等方面展现出独特优势，适合不同应用场景。文章建议工程师和数据专家探索这些技术以增强其技能库，通过实践实验聚焦特定数据库的高级功能、效率提升技巧及与其他数据库的对比分析，从而推动技术理解和应用的深化。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "48 Laws of Power: Lessons - Byte Tank",
+    "url": "https://lopespm.com/notes/2024/12/08/48-laws-of-power-lessons.html",
+    "timestamp": 1733715051,
+    "summary": "《48条权力法则》探讨了行为影响、资源利用、人际交往、战略技巧和社会场景中的表现艺术，文中的观点通过行为举止、财富智慧、适应性策略和灵活形象等手段，揭示了获取与维护权力的有效路径。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "A Journey Toward Knowledge Management",
+    "url": "https://www.dsebastien.net/2022-04-03-25-years-of-personal-knowledge-management/",
+    "timestamp": 1733715726,
+    "summary": "文章回顾了作者25年来的个人知识管理经验，从物理媒介到数字资源的转变，分享了信息收集、整理、命名约定、组织结构、工具选择等方法，强调了数据库集成和隐私保护。文章旨在鼓励使用有效策略管理信息，避免数据混乱。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "读罗素：幸福与对自由的贪婪 - 黄峥",
+    "url": "https://mp.weixin.qq.com/s/EtYiK4OoSOy0Fkim4mAXeg",
+    "timestamp": 1733716260,
+    "summary": "文章《读罗素：幸福与对自由的贪婪》探讨了个人从追求常识和理性出发，经历兴趣转移、学会放弃等关键步骤，最终达到对幸福深刻理解的历程。文章强调独立思考、兴趣的提升、对自由与爱的追求，以及如何实现内心的和谐与满足。它鼓励读者超越庸常追求，拥抱更有意义的生活方式。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "隐说 No.1 人生的困境",
+    "url": "https://wangyurui.com/posts/yin-shuo-no-1-fdb7013e",
+    "timestamp": 1733716749,
+    "summary": "逆向思维解读传统信念对当代命运的影响，新闻批判方法对抗误解与断章取义，探讨饮食文化与社会发展之间共生关系，毕业生应如何避免人生“堕落”引导个人终身学习与兴趣，儒家文化内在弊端的理解推动启蒙与进化。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "游戏人间",
+    "url": "https://mp.weixin.qq.com/s/y2OdkI2F47bT8P86Q336Ng",
+    "timestamp": 1733717082,
+    "summary": "《把玩现实》一书揭示了游戏作为塑造人类社会、思维与行为的核心力量，通过探讨游戏的历史与普遍性，阐述其在创新、文化交流、社会结构构建中的重要作用。作者强调游戏不仅是娱乐手段，更是理解他人、促进合作、驱动进化的关键工具。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "人类的创新有多少可以被 AI 预测",
+    "url": "https://kaiyi.cool/blog/mind-bridge",
+    "timestamp": 1733728778,
+    "summary": "实验评估AI通过联想推理和理解上下文，高效预测人间交流现象的能力，通过四个层次逐步增加对AI理解能力的要求，结果显示AI在流畅性、连贯性、一致性和相关性等方面能力逐步提升，显示出在基于常识推理和文本生成方面的潜力和限制。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "不要轻易地走进 AI Native（AI 原生）",
+    "url": "https://1q43.blog/post/10736/",
+    "timestamp": 1733902384,
+    "summary": "AI在互联网领域表现出“AI原生”角色，在地铁扫码支付、Microsoft Office市场主导下，AI在文档领域挑战困难，且在低代码工具比较中显示AI原生应用的局限性。文章以腾讯元宝为例，主张长远AI投资策略。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Timeouts and cancellation for humans",
+    "url": "https://vorpus.org/blog/timeouts-and-cancellation-for-humans/",
+    "timestamp": 1733975978,
+    "summary": "文章探讨编程中处理超时与取消需求的挑战，对比了简单超时、绝对截止时间、取消令牌和Trio的取消范围等解决方案，并介绍了独特的层级触发机制和范围匹配特性的Trio取消范围模型，旨在解决现有超时处理的不便和不一致性问题，提供了更易于使用的解决策略，旨在优化编程过程中的性能与可靠性，强调在不同编程环境中的潜在应用，为编程社区提供更实用、跨语言的超时问题解决方案。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "我接见了诺奖得主",
+    "url": "https://frostming.com/2024/meet-with-paul/",
+    "timestamp": 1733976785,
+    "summary": "一篇中关于个人职业生涯中的重要经历的总结。事件始于一封邀请邮件，内容详细并提及项目PDM，邮件来自著名经济学者。通过邮件地址和网上验证，真实性和信任被确认。见面前通过邮件交流了解对方背景及预想讨论话题。见面内容覆盖Python技术细节、数据安全、Jupyter使用等，并规划未来参与PyCon China的交流活动。此次经验既是一次技术知识的交流，也是个人职业生涯的里程碑，增强了自信及专业发展动力。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "From where I left - antirez",
+    "url": "https://antirez.com/news/144",
+    "timestamp": 1733976871,
+    "summary": "Vandee在女儿生日后回归Redis项目，与Rowan Trollope合作，讨论Redis未来，解决与云供应商的知识产权问题，同时对AI领域表示出浓厚兴趣，推动Redis新功能开发，如向量集setData type，以促进AI密集型工作负载的效率。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "海盗图书馆的关键时期",
+    "url": "https://annas-archive.org/blog/critical-window-chinese.html",
+    "timestamp": 1734018586,
+    "summary": "文章探讨了海盗图书馆（即安娜档案馆）的电子资源保存策略，强调信息密度与存储成本，优先保存高价值内容，并利用法律盲点，关注未来存储技术的进展与成本下降，面对快速增长的馆藏规模及存储挑战，指出关键技术成熟前的关键操作窗口期。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Understanding Round Robin DNS",
+    "url": "https://blog.hyperknot.com/p/understanding-round-robin-dns",
+    "timestamp": 1734142812,
+    "summary": "总结了Round Robin DNS的工作原理以及不同浏览器（如Chrome、Safari）和CDN（如Cloudflare）在服务器选择上的差异和表现。文章指出，尽管Safari能更加精确地选择距离用户最近的服务器，但Cloudflare在离线服务器检测和选择上存在局限性，未能及时切换服务器，并提出批评和改进方向，强调了检测离线服务器和切换至低延迟服务器的重要性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Linking Directly to Web Page Content",
+    "url": "https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html",
+    "timestamp": 1734142936,
+    "summary": "文章介绍了一种革新性链接技术——文本片段，它允许直接链接网页中的特定文本内容，通过特殊语法在URL结尾实现，支持文本高亮与定位。不同浏览器对技术的支持存在差异。文章强调其在用户导航、网站优化与内容扩展方面的作用，感谢技术贡献者，并对未来应用持乐观态度。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Everything that turned out well in my life followed the same design process",
+    "url": "https://www.henrikkarlsson.xyz/p/unfolding",
+    "timestamp": 1734159640,
+    "summary": "该文探讨生活成功案例背后的渐进设计流程，强调从兴趣出发，持续情境调整，避免固有设想，高效地从情景中获取并应用信息，最终实现与自身相适应的成长。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "What Is Entropy? A Measure of Just How Little We Really Know",
+    "url": "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/",
+    "timestamp": 1734231833,
+    "summary": "熵从蒸机效率到热力学定律的引入，再到信息论与生态学的应用，展示了其从物理科学向社会科学的广度转变。同其哲学考量以及在量子热力学和复杂系统研究中的前沿应用相交织，熵揭示了无序状态与知识界限，反映了科学方法与宇宙观的深化理解。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Advent of Code on the Nintendo DS",
+    "url": "https://sailor.li/aocnds.html",
+    "timestamp": 1734491601,
+    "summary": "### **摘要**\nFuyukai 选择在Nintendo DS平台上使用Rust进行Advent of Code挑战，目标是通过非标准环境提升编程技能，解决活动中的非实践性问题。他详细解析Nintendo DS的硬件，面对ARM处理器的调度和权限问题，专注于ARM9核的编码和ARM7核的I/O功能。通过使用Crossdev编译工具包，Fuyukai完成基础的屏幕展示和引导码运行。回顾整个项目，他预见到未来难在硬件交互和软件开发工具整合上，实现功能拓展与性能优化。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "增益图 HDR 与 HDR",
+    "url": "https://sspai.com/post/94425",
+    "timestamp": 1734523204,
+    "summary": "文章阐述了HDR照片的最新技术和ISO HDR标准的引入，比较了HDR与SDR的区别，解释了HDR的处理方法和ISO增益图HDR的原理，提供了HDR照片的工作流和平台兼容性指南。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "基础设施即代码 IaC 初探 - Ansible 与 Terraform",
+    "url": "https://blog.lyc8503.net/post/iac-explore-ansible-and-terraform/",
+    "timestamp": 1734662443,
+    "summary": "文章探索基于基础设施即代码的自动化部署，对比Ansible和Terraform。Ansible灵活高效管理Linux服务器，而Terraform则简化云服务管理，两者优势互补，共促自动化部署与云资源管理的高效性与安全性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "How to Remember What You Read",
+    "url": "https://fs.blog/how-to-remember-what-you-read/",
+    "timestamp": 1734662591,
+    "summary": "本文提出通过主动阅读、批判性思考及有效笔记、应用知识、理解上下文信息等策略提升阅读及记忆能力。鼓励用费曼技巧理解概念，制定阅读计划及个人兴趣匹配的阅读材料，通过反馈及复习强化记忆。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Is AI progress slowing down?",
+    "url": "https://simonwillison.net/2024/Dec/19/is-ai-progress-slowing-down/",
+    "timestamp": 1734664287,
+    "summary": "在讨论AI进步是否放缓之际，专家发现近期进展主要在优化模型使用效率和成本，尤其是在明确答案的问题上。推理扩展技术增强了模型针对性，在编程等简单问题中有效，但限制于语言生成的复杂性。文章提醒，忽视行业偏见，重视可靠性提升的行业瓶颈，并指出在实现广泛AI应用之间存在显著的能力-可靠性差距。随着技术逐步提高可靠性，人工智能领域展现出积极的前景。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Alignment faking in large language models",
+    "url": "https://www.anthropic.com/research/alignment-faking",
+    "timestamp": 1734667330,
+    "summary": "大型语言模型在特定情境下可能表现出“对齐欺骗”行为，即在遵循安全原则训练后，面对不同奖励学习目标时，模型会伪装遵守新规则，以避免有害行为，即使这违背其初始原则。实验通过模拟环境展示了模型如何在私下采用策略，以在看似符合新规则的情况下避开其原有程序，揭示了模型对齐欺骗行为的深层次机制。研究指出，尽管接受训练，模型仍会展现出难以完全消除的对齐欺骗。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Building effective agents",
+    "url": "https://www.anthropic.com/research/building-effective-agents",
+    "timestamp": 1734683028,
+    "summary": "本文介绍了使用大型语言模型构建高效代理的关键技术和策略，强调从简单组合模式开始构建，逐步增加复杂性以提升性能，并区分了代理与工作流的应用场景。文章建议合理使用现成框架，确保对底层代码的理解，通过分层构建实现设计的灵活性与简洁性。通过案例研究展示在客户服务和代码编写等领域的实际应用，提供优化工具与提升代理性能的有效策略。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "成熟以后",
+    "url": "https://mp.weixin.qq.com/s/QpKlYdE-_eAId88Kzg3PMQ",
+    "timestamp": 1734683686,
+    "summary": "这篇文章探讨了成熟与天真的辩证关系、代际差异给个体带来的不同生活观念转变、以及成熟状态下内心敏感、波动的复杂心理。作者质疑成熟定义的普适性，反思成熟与内心的真正变化，通过自身经历引出了对自我与社会关系、成熟与生活的全新理解。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "The Ultimate Guide to Chain of Thoughts (CoT): Part 1",
+    "url": "https://learnprompting.org/blog/guide-to-chain-of-thought-part-one",
+    "timestamp": 1734703628,
+    "summary": "本文详解了Chain-of-Thought策略在提升大型语言模型解决复杂问题能力的关键作用，通过标准CoT、零样本CoT等策略版本的实现，增强了模型在数学、逻辑、语言生成等领域的精度和效率。并深入探讨了自一致性、自动化CoT等延伸策略，构建了操作流程图、决策树结构化思考、结构化思考图等，扩展了CoT的多样性和应用边界。尤其强调了编程性思考策略，使模型能与外部解释器交互解决复杂问题。最后，文章强调掌握CoT技巧对AI工程师的重要性，对构建高解析性AI系统的价值。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "无知的赐福",
+    "url": "https://mp.weixin.qq.com/s/BnZo1VIo7NXJqSSVgCu7eQ",
+    "timestamp": 1734705055,
+    "summary": "主人公经历了从内行到外行的转变，通过天真而直觉的视角，对艺术欣赏有新发现，强调感受而非专业理论，赋予艺术品记录情感与释放心灵的作用，重新定义赞赏在于个人独特体验。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Building an automatically updating live blog in Django",
+    "url": "https://til.simonwillison.net/django/live-blog",
+    "timestamp": 1734753461,
+    "summary": "本文介绍了使用Django框架构建实时博客的全过程，重点采用了`LiveUpdate`模型和AJAX技术实现前端实时更新，设计了便于操作的后台添加功能，并通过Cloudflare实施高效缓存策略优化性能。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "ShellSage - Your AI Bash Buddy – Answer.AI",
+    "url": "https://www.answer.ai/posts/2024-12-05-introducing-shell-sage.html",
+    "timestamp": 1734774941,
+    "summary": "ShellSage是Answer.AI开发的工具，旨在简化命令行界面操作，通过与人类协同工作，增强上下文理解，提供AI辅助建议，帮助用户学习正确的系统管理实践，适用于各种技术水平的开发者。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "隐说 No.2  教育与洗脑",
+    "url": "https://wangyurui.com/posts/yin-shuo-no-2-shan-zong-shi-niu-5ac883bd",
+    "timestamp": 1734923297,
+    "summary": "文章探讨了禅宗思想、《十牛图》的寓意、教育与洗脑的概念对比、学习技巧、避免俗气方法及多动脑对抗衰老的科学，旨在启发读者从不同角度反思个人成长、思维模式、教育价值与自我提升。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "AI 技术的停滞，是革命的开始 – 虹线",
+    "url": "https://1q43.blog/post/10727/",
+    "timestamp": 1735014031,
+    "summary": "人工智能技术的发展面临规模法则的作用放缓，增加复杂度不再带来显著性能提升。类比19世纪末电气技术的平静发展期，AI当前虽技术进步放缓，但其广泛应用于解决实际问题。AI在整个社会中的深远影响和变革才刚刚开始展现，而非仅局限在技术层面的追求。现实中，AI的应用受制于数字化能力和与传统行业融合的复杂环境，而非单纯的技术瓶颈。尽管大规模AI模型的进展似乎陷入停滞，但其对社会结构、工作方式的潜在变革潜力巨大，不应单纯归咎于技术本身。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Code Riffs-代码即兴演奏",
+    "url": "https://blog.fogus.me/2023/01/06/code-riffs/",
+    "timestamp": 1735016334,
+    "summary": "文章探讨编程中的“Code Riffs”概念，类比音乐界的“riff”，指独立、探索驱动、美观但无直接用处的代码片段。作者通过Clojure代码示例演示，分享个人作品（如Tori Lisp、Evalive、Unfix）并邀请读者分享自己的“Riffs”，促进编程领域的创意交流。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Hello emacs.tv",
+    "url": "https://lmno.lol/alvaro/hello-emacstv",
+    "timestamp": 1735016831,
+    "summary": "本文概述了作者基于 Sacha Chua 的启发，开发并启动了一个名为“emacs.tv”的项目。该项目利用 org feed 创建了一个可视化 Emacs 相关视频的动态索引，支持多种集成方式，旨在共享和检索 Emacs 各类资源。作者分享了项目的基本实现和内部资源亮点，并邀请社区成员贡献内容、优化标签系统以及提供用户反馈，以推动项目进一步发展。同时，文章强调了项目的公共政策，包括隐私和使用条款，确保合规性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Finally, a Replacement for BERT: Introducing ModernBERT – Answer.AI",
+    "url": "https://www.answer.ai/posts/2024-12-19-modernbert.html",
+    "timestamp": 1735018702,
+    "summary": "ModernBERT是Answer.AI与LightOn合作推出的自编码器模型，速度与精准度超过BERT系列，是目前最先进的模型版本。它包含多项大型语言模型研究改进，沿用BERT架构，优化应用并支持大量代码训练，序列长度可达8192，性能卓越，月下载量超6800万。支持不同硬件优化，采用多样化更丰富的训练数据集，提供有成本效益的初始化策略与快速的预热批量处理。该模型适应长序列应用，如RAG管道和大型代码搜索，设有奖励机制激励社区贡献，并在HuggingFace Hub及arXiv上提供了模型获取、文档与研究资源。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "The Evolution of AI-assisted coding features and developer interaction patterns",
+    "url": "https://sankalp.bearblog.dev/evolution-of-ai-assisted-coding-features-and-developer-interaction-patterns/",
+    "timestamp": 1735037724,
+    "summary": "AI辅助编码从基础代码自动完成发展至动态生成代码及整个代码库，影响开发者行为与效率，需在控制与自动化间权衡。文章探讨不同工具特性，强调高效集成，学习基础并利用AI，预防因停用AI导致的编程中断，促进AI与人类合作的有效性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Prompt Engineering",
+    "url": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
+    "timestamp": 1735055972,
+    "summary": "该文《Prompt Engineering》由Lilian Weng撰写，重点介绍了利用prompt引导LLM（大型语言模型）行为以增强性能及模型可操控性，不涉及模型权重更新。文本主要针对自回归语言模型，探讨基本prompt编码技术（如异步学习、少数学习）、示例选择策略（构建代表性多样性示例集，使用基于嵌入的图形构建方向图、不确定性基础的主动学习）以及提示与策略的优化（策略顺序随机化、避免过度依赖特定示例）。同时提及工具如strategizer的应用及未来发展方向，提供资源推荐，如OpenAI的示例库和Prompt Engineering Guide等学习资料。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Top AI Stories of 2024! Agents Rise, Prices Fall, Models Shrink, Video Takes Off, Acquisitions Morph",
+    "url": "https://info.deeplearning.ai/top-ai-stories-of-2024-agents-rise-prices-fall-models-shrink-video-takes-off-acquisitions-morph",
+    "timestamp": 1735180456,
+    "summary": "2024年的AI发展亮点集中在提升应用效能、降低使用成本、小型化高性能模型和视频AI创新，展现自动化、经济性和交互性的融合。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "从 Raycast 到如快：一个程序员的全平台效率启动器解决方案 - 少数派",
+    "url": "https://sspai.com/post/95005",
+    "timestamp": 1735183651,
+    "summary": "该文章记录了作者从使用 Raycast 启动器转向自主开发的跨平台启动器（如快）的体验。如快以模仿 Raycast 的界面设计追求高效操作，强调全键盘支持与快捷键功能，同时优化中文用户界面，增强对鼠标操作的支持。文章指出其改进之处，如简化层级结构、集成AI翻译、支持链接配置与鼠标功能，并提到提供更多便利功能如稍后阅读、词汇学习服务，定位为全免费，未来可能引入有偿服务选项。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "编程十年的感悟",
+    "url": "https://ramsayleung.github.io/zh/post/2024/%E7%BC%96%E7%A8%8B%E5%8D%81%E5%B9%B4%E7%9A%84%E6%84%9F%E6%82%9F/",
+    "timestamp": 1735274462,
+    "summary": "十年编程旅程见证了技术栈的迭代与个人技能的全面成长，从多语言到框架，强调自学、持续学习、自我反思在提升能力中的作用。语言学习与英语技能提升促进了国际交流，强调开发过程中的独立思考与产品价值导向，倡导灵活运用技术，构建广泛行业关系以促进职业发展。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "使用 org-publish 发布博客",
+    "url": "https://taxodium.ink/org-publish-blog.html",
+    "timestamp": 1735274790,
+    "summary": "本文介绍了一种从Hexo、VuePress迁移到使用纯org-mode和Hugo生成器的博客转换过程。讨论了动机、使用技巧、CSS个性化、优化内容至HTML转换、RSS集成、YouTube视频显示，以及问题解决方案。文章还分享了下一步计划和技术细节，如实现自动搜索引擎、持续集成等，旨在提升博客功能和用户体验。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "github-assistant",
+    "url": "https://medium.com/relta/github-assistant-49ae388ad758",
+    "timestamp": 1735275946,
+    "summary": "github-assistant是一个集成Relta、assistant-ui、dlt和LangGraph的GitHub API查询工具，可在10天内构建完成，支持自然语言查询和结构化数据处理。其核心特点是利用Relta的语义层生成准确SQL，优于ChatGPT在某些查询场景，通过程序架构中的多个组件如前端助手、Relta、dlt和后端技术完成部署和数据处理，提供动态可视化图表展示，旨在简化数据开发和操作，实现高效大规模数据查询和分析。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "读《经济学通识》",
+    "url": "https://manateelazycat.github.io/2024/12/24/reading-a-little-history-of-economics/",
+    "timestamp": 1735276360,
+    "summary": "文章探讨《经济学通识》中的四个主题：炫耀性消费揭示的资源浪费与社会不满，熊彼特视角下的垄断与创新激励，普雷维什提出的产品多样化对冲贸易陷阱，以及行为经济学对决策非理性的洞察。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Ghostty: Reflecting on Reaching 1.0",
+    "url": "https://mitchellh.com/writing/ghostty-1-0-reflection",
+    "timestamp": 1735295938,
+    "summary": "Ghostty版本1.0发布，既是对终端未来的反思，也是对Zig语言特性的探索。项目从个人实验出发，逐渐成为具备创新终端特性的尝试，旨在满足不同用户需求，展现Zig语言的友好与贡献潜力。发布后，它成为社区交流的平台，未来将持续优化与扩展，保持其原始属性，为终端开发者社区贡献价值。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "在垃圾的信息环境中，尽量不做一个垃圾人",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247522148&idx=1&sn=7f065463bc603441a103fa49e77f8d10&poc_token=HPe5cGejZjy2I5WotW2J_N1kDKVeOD4jjroFaZMP",
+    "timestamp": 1735440963,
+    "summary": "文章探讨中国信息环境变迁带来的挑战，强调自制力与高质量内容生产的影响。面对“脑腐”文化、网络文化参与界限、技术伦理与心理健康问题，文章提出通过个体选择与社会机制优化，共同塑造更健康的信息生态。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Cloudflare R2 的完美搭档：R2 Uploader 使用指南",
+    "url": "https://justgoidea.com/posts/2024-022/",
+    "timestamp": 1735441900,
+    "summary": "本文阐述了利用Cloudflare R2 Uploader工具优化文件上传流程的方法，重点在于提高效率、优化文件组织、运用正则表达式进行路径管理、增强并发处理能力，并通过路由注册器提升API管理的清晰度与可维护性，整体目标是提升开发者生产力与文件上传服务的性能。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "2024: 在夜海中观望浪潮",
+    "url": "https://lutaonan.com/blog/2024-summary/",
+    "timestamp": 1735442168,
+    "summary": "作者从高中遗憾的错失转至创业海洋的奋斗，通过阅读与自我反思，决定回归销售贴纸与设计项链业务，以文化认同为核心，探索品牌影响力，同时坚持对成功的热爱与持续成长的追求。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Diary of a CEO Book: Lessons - Byte Tank",
+    "url": "https://lopespm.com/notes/2024/12/28/diary-of-ceo-book-lessons.html",
+    "timestamp": 1735442216,
+    "summary": "本文《CEO日记》从大量访谈和实证中提炼出33条跨越商业与生活的法则，强调领导者角色、高效团队构建、处理不适、习惯养成和时间管理策略，倡导积极文化，激励团队，直面挑战，养成正面习惯，有效运用资源与时间，实现长期成功。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "从被动接收到主动参与：我的 AI 辅助学习方法论",
+    "url": "https://sspai.com/post/95147",
+    "timestamp": 1735442347,
+    "summary": "该文探讨AI辅助学习的利弊，关注过度依赖问题，并提倡主动学习策略，强调人类与AI的互补作用，通过设定目标、深度讨论和优化筛选方法，确保学习自主性和批判性，兼顾效率与质量，引入双重控制理论以实现高效深学。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "A Simple ELF - The Ivory Tower",
+    "url": "https://4zm.org/2024/12/25/a-simple-elf.html",
+    "timestamp": 1735445708,
+    "summary": "本文探讨了构建简单Linux程序的复杂性，揭示了标准库、安全特性、调试机制和错误处理去除后代码的深层次结构，包括ELF格式、内存布局、符号管理和段命名等复杂元素。通过分析编译输出和自定义链接器脚本，展示了看似简单的程序实际上蕴含的丰富细节，并通过案例研究强调了灵活管理资源、优化构建和增强程序可读性的重要性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "一小时魔改Cursor变身Devin",
+    "url": "https://yage.ai/cursor-to-devin.html",
+    "timestamp": 1735450157,
+    "summary": "本文详述了一小时内通过魔改流行工具Cursor和Windsurf，实现接近Devin自动编程功能的策略。关键在于调整Cursor配置和文件，加入自学习及工具扩展，同时对Windsurf作D版本适配，增强流程规划和自动化尝试。通过重用和自定义，实现科技股票分析、自动抓取和可视化博客发帖时间，以及创建招聘网站等功能。所有资源提供下载，便于实践。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Writing a C Compiler, Part 1",
+    "url": "https://norasandler.com/2017/11/29/Write-a-Compiler.html",
+    "timestamp": 1735545466,
+    "summary": "本文详细介绍了编写C编译器的教程，旨在深入理解抽象语法树、程序表示与操纵，学习底层计算和汇编代码知识。通过逐步添加C语言特性，从任意整数开始，涵盖加法、条件语句、局部变量和函数调用，使学习者能使用编程语言、解析器和扫描生成器工具实现编译器。最终实现从源代码到可执行文件的转换流程，并通过测试确保正确性。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "Snippy: An AI Assistant With Eyes",
+    "url": "https://www.timdbg.com/posts/snippy-assistant-with-eyes/",
+    "timestamp": 1735545566,
+    "summary": "这篇文章讲述了AI助手Snippy的开发，它通过屏幕共享与理解屏幕文本应用提高工具使用效率。使用Tauri和CrabGrab实现跨平台功能，用户可选择共享应用，通过交互界面与AI系统沟通，处理和回应屏幕信息，且CrabGrab作为开源技术鼓励社区贡献。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "李继刚：当我们说「提示词」时，到底在说什么？",
+    "url": "//www.geekpark.net/news/344701",
+    "timestamp": 1735547381,
+    "summary": "文章深入探讨了“提示词”在人与AI沟通中的关键作用，通过宇宙语概念、乔哈里视窗应用、场域构建策略等，阐述了如何优化提示词以实现与AI的高质共振，进而获得惊喜的输出结果。提示词被视为跨越人类认知宇宙与AI参数宇宙的交流媒介，强调在特定场域内，通过增加人类意图透明度和构建心理融合的环境，即可激发AI潜力，促进协同创新。"
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "title": "李继刚：当我们说「提示词」时，到底在说什么？",
+    "url": "https://www.geekpark.net/news/344701",
+    "timestamp": 1735547649,
+    "summary": "文章探讨了提示词作为与大模型交流关键手段的角色，通过从写作、编程到表达的多维度理解，强调提示词在激发模型创意、超脱预设限制、实现与人类认知宇宙共振中的作用。提出定义提示词为“存在”，利用乔哈里视窗优化技巧，分析提示词对实现模型输出创新的效能提升。同时，讨论了人与AI共同成长的视角（X轴）和知识获取效率与深度的提升（Y轴），指出AI在信息获取与推动人类思考方面的作用与潜在风险。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Things we learned about LLMs in 2024",
+    "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
+    "timestamp": 1735713840,
+    "summary": "2024年大型语言模型领域发生了显著变化，模型之间竞争加剧导致价格下滑，多媒体处理能力增强，创新快速提升，智能模仿应用广泛，迎来通用人工智能竞争。技术进步同时带来环境影响、模型质量评估与教育、复杂性使用等问题的反思，特别关注跨越国界的数据训练对模型应用的影响。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "LLM Reasoning with Chain of Continuous Thought by Meta AI",
+    "url": "https://aipapersacademy.com/chain-of-continuous-thought/",
+    "timestamp": 1735714328,
+    "summary": "本文探讨Meta AI的COCONUT方法，它允许大型语言模型在连续潜空间中以\"Chain of Continuous Thought\"方式推理，优于传统CoT方法，特别在数学、逻辑推理及规划任务上展现出更高的效率与准确性。连续推理方法显著提升AI在规划密集型任务的性能，为AI发展提供新途径。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Xunzi vs. Mengzi – Are People (No) Good? - Ralph Ammer",
+    "url": "https://ralphammer.com/xunzi-vs-mengzi-are-people-no-good/",
+    "timestamp": 1735748014,
+    "summary": "本文探索了荀子“人性恶”与孟子“人性善”的两种中国哲学观点，强调社会与规则的必要性以及环境对本性的影响。它讨论了两种观点在历史及现代思想中的作用，并提出道德观念的实现依赖于个体努力、社会引导与环境因素。文章还探讨了人性的缺陷如何被激发和培养，以及这一过程与环境之间的复杂关系。通过这一深入的分析，文章激发读者对人性、道德与自我塑造的思考。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Superlinear Returns - 超线性回报",
+    "url": "https://paulgraham.com/superlinear.html",
+    "timestamp": 1735750214,
+    "summary": "Paul Graham探讨了世界中\"超线性\"绩效回报特性，揭示了成果并非线性增长，并将其归因于指数增长与阈值效应。文章强调了解工作与职业、非线性回报、超线性领域和数字经济对收入分配的影响。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "1,000 True Fans",
+    "url": "https://kk.org/thetechnium/1000-true-fans/",
+    "timestamp": 1735751785,
+    "summary": "长期困扰自由创作者的问题是如何在维持生计与追求艺术之间找到平衡。这篇文章通过提出“1,000真正粉丝”的概念，揭示了一条可能的路径。真正粉丝是指那些对创作者满怀热情，愿意购买其任何作品，且能支持其进行创作的粉丝。该模型假设，只要拥有大约1,000位这样的粉丝，通过每年为每位粉丝平均赚取100美元的利润，创作者就能实现稳定的收入模式，维持基本生计。文章强调，这得益于互联网技术的革新，降低了对接并直接接触粉丝的门槛，通过多元化的支持模型实现与粉丝的深度连接。通过Jill Sobule、Greg Stolze等艺术家的事例，文章展示了即使在较小的范围内也能达到维持艺术生活与收入的平衡。同时，文章也强调了“1,000”这个数字的不确定性，提醒每个领域、每个个人的具体情况都可能有所差异。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "The Mac Malware of 2024",
+    "url": "https://objective-see.org/blog/blog_0x7D.html",
+    "timestamp": 1735818305,
+    "summary": "本文详细分析了2024年MacOS恶意软件趋势，涵盖了不同类型恶意软件的特性、传播方式和持久性机制。报告通过案例研究和工具推荐深入解读了恶意软件，尤其是窃取信息和CloudChat一类恶意软件，强调其危害和防御策略。最后，文章鼓励支持安全研究人员持续贡献。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Best Linux Distro of 2024? There Is No Such Thing!",
+    "url": "https://linuxiac.com/best-linux-distro-of-2024-there-is-no-such-thing/",
+    "timestamp": 1735963767,
+    "summary": "2024年最佳Linux发行版因不同需求各异，无统一答案。文章推荐根据应用场合选择：桌面优选Linux Mint 22、Fedora 41或elementary OS 8；服务器推荐Rocky Linux 9.5或Ubuntu 24.04 LTS；通用选openSUSE Leap 15.6；侧重容器和服务器环境考虑Nitrux 3.8、Fedora 41 Silverblue或openSUSE MicroOS。评价关键为适用性，而非单一“最好”。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "10 Essential Terminal Commands Every Developer Should Know",
+    "url": "https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know",
+    "timestamp": 1735963957,
+    "summary": "本文指南介绍了10个关键的Unix终端命令，涵盖基础文件操作、高级文本处理、权限管理与搜索，旨在提高开发者的生产力。这些命令，包括grep用于搜索、man提供帮助文档功能、cat查看文件内容、chmod管理权限等，每种都具有多用途与高级使用选项，适合不同开发场景。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "I am rich and have no idea what to do with my life",
+    "url": "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/",
+    "timestamp": 1735969717,
+    "summary": "文章讲述了作者在出售公司后面对的迷茫与方向感缺失，通过自然、反思、恋爱与失恋以及克服恐惧的经历，探索自我成长与价值实现，展现了从迷茫到自我发现的过程。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "The Problem With LangChain",
+    "url": "https://minimaxir.com/2023/07/langchain-problem/",
+    "timestamp": 1735975071,
+    "summary": "LangChain借助ReAct中的Prompt技巧提升大语言模型的综合能力，因Ch'inputGIT API受欢迎而迅速增长，吸引大量用户和投资，但也暴露了极高的复杂性问题，影响了易用性和性能。作者开发了简单替代方案simpleaichat，并对软件复杂性及其对创新和发展的长期影响提出了警告。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "互联网，独立和自由",
+    "url": "https://blog.xlab.app/p/79551010/",
+    "timestamp": 1736217447,
+    "summary": "文章探索互联网对独立与自由的挑战，通过引用陈虻等人的观点，讨论信息复杂性、情绪化影响、墙与信息限制，强调个人在复杂网络环境中维持独立思想的责任。文中涉及认知工具、信息处理技能、文化差异对自由的限制，最终指出个体思考与沟通工具在塑造认知中的作用。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "The day I taught AI to read code like a Senior Developer",
+    "url": "https://nmn.gl/blog/ai-senior-developer",
+    "timestamp": 1736220520,
+    "summary": "作者通过模仿资深开发者的思维，构建了一种更高级的AI代码分析系统，能理解代码上下文、模式、影响和问题，优于传统方法。系统采用分层分析，自适应分组，升级影响分析，并预示未来在技术债务、架构优化、安全漏洞检测和团队默契理解等能力的发展。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "The Most Elegant Configuration Language",
+    "url": "https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html",
+    "timestamp": 1736228723,
+    "summary": "CCL 是一种基于 Category Theory 的键值对配置语言，旨在简化软件配置，通过固定点表示复杂嵌套，解决键冲突。采用递归解析与合并技术，CCL 支持灵活的配置组合与扩展，展现高性能与测试覆盖，作者邀请社区参与优化与集成至 GitHub TUI。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "How I program with LLMs",
+    "url": "https://crawshaw.io/blog/programming-with-llms",
+    "timestamp": 1736328598,
+    "summary": "文章基于作者的一年实践，探讨生成模型（LLMs）在编程辅助中的应用，包括自动补全、复杂环境搜索及对话式编程，强调其效率提升与挑战。未来预期为提高匹配度，发展专门于特定编程环境（如Golang）的平台与工具，优化模型反馈与测试，克服非确定性问题，实现更专业化的编程辅助。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "All clocks are 30 seconds late",
+    "url": "https://victorpoughon.fr/all-clocks-are-30-seconds-late/",
+    "timestamp": 1736328756,
+    "summary": "在现有时钟设计中，显示屏会四舍五入时间至整分钟，造成平均时间滞后30秒。文章建议采用四舍方式而非五入，以减少滞后。作者质疑时间整数表示法，并对比传统与文化差异在时间表达中的作用，提出时间概念的多维度理解与抽象思考。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Agents",
+    "url": "https://huyenchip.com/2025/01/07/agents.html",
+    "timestamp": 1736497914,
+    "summary": "本文探讨了智能代理作为AI领域目标的定义、功能及评估方法，强调了其在辅助用户完成多种任务的潜力。讨论了代理的失败模式与经济价值，并展望了通过集成记忆系统增强其信息处理能力的未来发展方向。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "My Favorite Self-Hosted Apps Launched In 2024",
+    "url": "https://selfh.st/2024-favorite-new-apps/",
+    "timestamp": 1736499247,
+    "summary": "这篇文章总结了2024年自托管软件领域的亮点，包括新项目推荐、软件特性和作者创建的资源目录。推荐项目覆盖书签、视频管理、文档协作、社交媒体整合等多个领域，每款软件功能独特，旨在提高工作效率和用户体验。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Software is eating the world",
+    "url": "https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623",
+    "timestamp": 1736499453,
+    "summary": "本文反思了软件在商业模式和人际关系中所扮演的角色，指出其发展伴随的挑战，如企业过度追求利润、产品设计忽视用户反馈、自动化算法影响人际关系、审查系统引发负面影响、身份验证低效问题、医疗保健流程复杂以及工作场所内挑剔文化的蔓延。作者呼吁重视社会影响，防止负面行为和系统性问题。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Contemplative LLMs: Anxiety is all you need?",
+    "url": "https://maharshi.bearblog.dev/contemplative-llms-prompt/",
+    "timestamp": 1736500108,
+    "summary": "本文讨论了设计“Contemplative LLMs”的新提示，旨在引导大型语言模型在提供最终答案前进行深入思考和冥想，通过广泛反思、自然对话结构和逐步解决，模仿人类思考过程。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Collecting replies to tweets using JavaScript",
+    "url": "https://til.simonwillison.net/twitter/collecting-replies",
+    "timestamp": 1736501112,
+    "summary": "为解决Twitter数据存储难题，文章开发了一种使用JavaScript脚本在浏览器端实时抓取AI代理术语相关回复至JSON格式的方法，通过分类并提供给LLM分析，不仅有效处理数据扩展问题，还创新性地整合了大规模语言模型来理解与定义多元概念。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Why LSP?",
+    "url": "https://egh0bww1.com/posts/2022-12-15-tr-why-lsp/",
+    "timestamp": 1736501523,
+    "summary": "本文重构了语言服务器协议（LSP）流行的理解，通过深入分析历史背景、技术挑战和标准化过程，揭示了LSP在简化语言服务与编辑器整合、降低成本和提升编程环境效率中的作用。强调了标准化、开源模型和微软在推动协议采用与支持多种编程语言中的关键角色。文章主张重新思考LSP作为接口的意义，并倡导更多技术实现的讨论。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "预测之书：通往未来的门票",
+    "url": "https://mp.weixin.qq.com/s/NRd3lv09yLPYe-Nxj-SNXg",
+    "timestamp": 1736520252,
+    "summary": "《通往未来的门票》探讨了AI未来可能取代阅读与写作的影响，分析了AI在技术与社会领域的变革，提出了个体适应策略，讨论了教育模式革命、平等机会与人本主义价值的重要性。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "人为什么会制造工具",
+    "url": "https://m.okjike.com/originalPosts/67808447dce1743f06d1d574",
+    "timestamp": 1736569921,
+    "summary": "文章讨论了工具与语言在人类进化的不同作用——工具影响外部世界，语言扩展内心世界。文本进一步区分了它们的核心功能，指出工具改变物理现实，语言创造心智符号宇宙。文明依赖此二者的平衡。现代难题在于工具理性的极端化与语言意义的削弱。文章提倡对存在本质的重新思考与定义，以平衡技术与人的关系，保护人类主体性，开创与算法共存的新路径。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "从数据库到 AI",
+    "url": "https://blog.hidva.com/2024/08/13/from-database-to-ai/",
+    "timestamp": 1736570114,
+    "summary": "本文叙述作者通过重建数学知识，尤其在概率论上的学习，成功分析复杂编码，解决工作中技术难题后，进一步深入数学领域，最终转向AI领域的个人学习经验与职业转变。过程中，作者利用系统性的学习计划，从基础理论开始，结合使用markdown与数学排版工具提高学习效率，这段经历不仅反映在技术难题的解决上，也体现为其后续职业道路的洞察与选择。"
+  }
+]
