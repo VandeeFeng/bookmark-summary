@@ -1406,5 +1406,13 @@
     "url": "https://blog.hidva.com/2024/08/13/from-database-to-ai/",
     "timestamp": 1736570114,
     "summary": "本文叙述作者通过重建数学知识，尤其在概率论上的学习，成功分析复杂编码，解决工作中技术难题后，进一步深入数学领域，最终转向AI领域的个人学习经验与职业转变。过程中，作者利用系统性的学习计划，从基础理论开始，结合使用markdown与数学排版工具提高学习效率，这段经历不仅反映在技术难题的解决上，也体现为其后续职业道路的洞察与选择。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "The 70% problem: Hard truths about AI-assisted coding",
+    "url": "https://addyo.substack.com/p/the-70-problem-hard-truths-about",
+    "timestamp": 1736570764,
+    "summary": "AI加速开发面临“70%问题”，即生成大量可用代码后，后续优化、验证和维护变得困难。开发团队分为“启程者”和“迭代者”，AI辅助能快速生成和维护代码，但导致质量问题。AI未来应用于跨模态操作，提升工程协作效率。AI工具应是辅助而非替代，强调维护工程标准、系统设计等，用户至上，创造高品质软件产品。"
   }
 ]
