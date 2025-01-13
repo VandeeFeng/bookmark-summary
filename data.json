@@ -14,5 +14,13 @@
     "url": "https://blog.djhaskin.com/blog/why-i-chose-common-lisp/",
     "timestamp": 1736738254,
     "summary": "在面临Clojure启动慢、跨平台兼容性不足及实现快速原生执行文件的挑战后，Dan选择转向Common Lisp。Common Lisp提供简洁的启动工具链、多操作系统的兼容性、优秀的多线程支持、扩展到C的互操作性，以及SBCL实现的高性能，成功满足了Dan对快速启动、强大性能和高效率的需求。在探索过程中，Dan通过学习CLtLv2工具、HyperSpec文档和HyperSpec社区，最终开发了CLI工具degasolv，体验到了在Common Lisp生态系统中的丰富功能和令人满足的技术环境。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "AI founders will learn The Bitter Lesson",
+    "url": "https://lukaspetersson.github.io/blog/2025/bitter-vertical/",
+    "timestamp": 1736738457,
+    "summary": "AI历史上，通用性方法最终胜出。当前AI应用领域初创企业在设计产品时重复犯过往错误，过于依赖领域知识和复杂架构。未来，更好AI模型将直接解决规模化问题，减少对复杂软件架构的依赖，转向通用模型和更高效能。通用方法是AI发展的关键趋势，提升其效率操作自主性和平衡具体性。"
   }
 ]
