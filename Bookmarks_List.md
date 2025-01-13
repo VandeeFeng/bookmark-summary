@@ -4,4 +4,5 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-13) [Why I Chose Common Lisp](2025/01/2025-01-13-why-i-chose-common-lisp.md)
 - (2025-01-11) [The 70 problem: Hard truths about AI-assisted coding](2025/01/2025-01-11-the-70-problem-hard-truths-about-ai-assisted-coding.md)
