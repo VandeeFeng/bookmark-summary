@@ -46,5 +46,13 @@
     "url": "https://www.latent.space/p/2025-papers",
     "timestamp": 1737003774,
     "summary": "本文为AI工程师精选2025年必读论文，聚焦LLMs、评估、提示技术，视觉、语音与图像/视频扩散等，旨在提升技能与知识。覆盖GPT系列、Claude 3、Gemini 1、开源模型、Ctppt家族、视觉语言模型、视觉应用的系统升级与技术创新等领域，突出易实践与理解的论文，展现AI领域的竞争与多样性。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "AI Founder's Bitter Lesson. Chapter 2 - No Power",
+    "url": "https://lukaspetersson.github.io/blog/2025/power-vertical/",
+    "timestamp": 1737009440,
+    "summary": "随着AI技术进步，全面通用的产品将主导市场，替代性能偏高的垂直化产品。低转换成本、高易用性的远程助手产品更具竞争力。垂直解决方案难维持优势，除非找到独特且不可替代资源，如专有数据或专属技术作为差异化策略。AI开发者应着重研究并获得这些关键优势，确保企业竞争优势。"
   }
 ]

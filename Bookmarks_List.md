@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-16) [AI Founder's Bitter Lesson. Chapter 2 - No Power](2025/01/2025-01-16-ai-founder's-bitter-lesson.-chapter-2---no-power.md)
 - (2025-01-16) [The 2025 AI Engineering Reading List](2025/01/2025-01-16-the-2025-ai-engineering-reading-list.md)
 - (2025-01-16) [靠认可活着](2025/01/2025-01-16-靠认可活着.md)
 - (2025-01-14) [Turing Machines](2025/01/2025-01-14-turing-machines.md)
