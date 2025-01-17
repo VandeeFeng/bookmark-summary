@@ -54,5 +54,13 @@
     "url": "https://lukaspetersson.github.io/blog/2025/power-vertical/",
     "timestamp": 1737009440,
     "summary": "随着AI技术进步，全面通用的产品将主导市场，替代性能偏高的垂直化产品。低转换成本、高易用性的远程助手产品更具竞争力。垂直解决方案难维持优势，除非找到独特且不可替代资源，如专有数据或专属技术作为差异化策略。AI开发者应着重研究并获得这些关键优势，确保企业竞争优势。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "AI Agents Are Here. What Now",
+    "url": "https://huggingface.co/blog/ethics-soc-7",
+    "timestamp": 1737088755,
+    "summary": "本文探讨AI代理概念及其社会影响，强调考虑风险与道德挑战。通过分析AI代理提供的价值和潜在风险，呼吁避免完全自主开发，推荐多种发展方向以促进透明性、开源参与及关注公众利益。"
   }
 ]
