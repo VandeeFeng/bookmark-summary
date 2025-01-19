@@ -62,5 +62,13 @@
     "url": "https://huggingface.co/blog/ethics-soc-7",
     "timestamp": 1737088755,
     "summary": "本文探讨AI代理概念及其社会影响，强调考虑风险与道德挑战。通过分析AI代理提供的价值和潜在风险，呼吁避免完全自主开发，推荐多种发展方向以促进透明性、开源参与及关注公众利益。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "About blogrolls",
+    "url": "https://opml.org/blogroll.opml",
+    "timestamp": 1737309891,
+    "summary": "本文档汇总了OPML领域的关键资源与链接，分为门户、示例与开发者资源三大类别。适用于OPML开发者与用户，链接涵盖基本规格、实例应用与开发者工具。"
   }
 ]
