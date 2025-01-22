@@ -78,5 +78,13 @@
     "url": "https://1byte.io/articles/the-blind-watchmaker/",
     "timestamp": 1737373620,
     "summary": "本书《The Blind Watchmaker》通过自然选择和进化论视角，深度探讨了自然界复杂性的解释，挑战了造物主存在的传统论点，引发了关于宗教与教育、科学与文化关系的深思。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "rebase 清爽的 Git 提交记录",
+    "url": "https://sspai.com/post/95404",
+    "timestamp": 1737519021,
+    "summary": "文章提供Git版本管理实践建议，强调“原子化提交”、使用Git Rebase合并琐碎提交、灵活调整提交顺序、适时运用`commit--amend`策略及在项目初期明智管理提交，旨在使Git提交记录更清晰规范，便于追踪进度、解决问题和代码维护。"
   }
 ]

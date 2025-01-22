@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-22) [rebase 清爽的 Git 提交记录](2025/01/2025-01-22-rebase-清爽的-git-提交记录.md)
 - (2025-01-20) [荐书：The Blind Watchmaker](2025/01/2025-01-20-荐书：the-blind-watchmaker.md)
 - (2025-01-19) [About blogrolls](2025/01/2025-01-19-about-blogrolls.md)
 - (2025-01-17) [AI Agents Are Here. What Now](2025/01/2025-01-17-ai-agents-are-here.-what-now.md)
