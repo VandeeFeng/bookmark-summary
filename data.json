@@ -86,5 +86,13 @@
     "url": "https://sspai.com/post/95404",
     "timestamp": 1737519021,
     "summary": "文章提供Git版本管理实践建议，强调“原子化提交”、使用Git Rebase合并琐碎提交、灵活调整提交顺序、适时运用`commit--amend`策略及在项目初期明智管理提交，旨在使Git提交记录更清晰规范，便于追踪进度、解决问题和代码维护。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Build a Tiny Certificate Authority For Your Homelab",
+    "url": "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/",
+    "timestamp": 1737521424,
+    "summary": "本文详述了在家庭实验室构建小型CA的流程，使用Raspberry Pi和YubiKey，通过安装Go、`ykman`和开源工具`step-ca`、`step`，实现了安全的TLS证书签发环境。系统自动化处理设备检测和证书管理，并加强防火墙和SSH安全，同时提供证书自动更新指引，确保内部网络通信安全。"
   }
 ]
