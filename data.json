@@ -94,5 +94,13 @@
     "url": "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/",
     "timestamp": 1737521424,
     "summary": "本文详述了在家庭实验室构建小型CA的流程，使用Raspberry Pi和YubiKey，通过安装Go、`ykman`和开源工具`step-ca`、`step`，实现了安全的TLS证书签发环境。系统自动化处理设备检测和证书管理，并加强防火墙和SSH安全，同时提供证书自动更新指引，确保内部网络通信安全。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "如何评价 Kimi 发布的多模态推理模型 k1.5",
+    "url": "https://www.fxzhihu.com/question/10114790245/answer/84028353434",
+    "timestamp": 1737649026,
+    "summary": "Kimi团队发布多模态推理模型k1.5，重点优化长文本输入输出与强化学习应用，通过观看视频和学习文稿获取灵感，采用ICRL方法让模型自行思考和校正，面对长文本奖赏难题，通过模型自反思生成。强调模型能力与长期发展，目标是创造复杂问题情境，增强模型适应多种答案处理能力。"
   }
 ]
