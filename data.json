@@ -94,13 +94,5 @@
     "url": "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/",
     "timestamp": 1737521424,
     "summary": "本文详述了在家庭实验室构建小型CA的流程，使用Raspberry Pi和YubiKey，通过安装Go、`ykman`和开源工具`step-ca`、`step`，实现了安全的TLS证书签发环境。系统自动化处理设备检测和证书管理，并加强防火墙和SSH安全，同时提供证书自动更新指引，确保内部网络通信安全。"
-  },
-  {
-    "year": "2025",
-    "month": "01",
-    "title": "Reverse Engineering My #1 Hacker News Article",
-    "url": "https://danielwirtz/blog/successful-hacker-news-article",
-    "timestamp": 1737648610,
-    "summary": "本文旨在借助资深技术作家的经验，分享撰写引人入胜黑客新闻文章的实用技巧，强调读者导向的写作策略，包括故事叙述、观点支持与内容易读性。因无法直接访问原文，暂无法深入探讨具体技巧和案例分析，但强调了以读者为中心的写作原则对成功的关键作用，未来期待有详细内容进行深入解读。"
   }
 ]
