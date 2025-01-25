@@ -4,7 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
-- (2025-01-23) [Reverse Engineering My Hacker News Article](2025/01/2025-01-23-reverse-engineering-my-hacker-news-article.md)
+- (2025-01-25) [gRPC vs REST: Understanding gRPC, OpenAPI and REST](2025/01/2025-01-25-grpc-vs-rest-understanding-grpc,-openapi-and-rest.md)
 - (2025-01-23) [如何评价 Kimi 发布的多模态推理模型 k1.5](2025/01/2025-01-23-如何评价-kimi-发布的多模态推理模型-k1.5.md)
 - (2025-01-22) [Build a Tiny Certificate Authority For Your Homelab](2025/01/2025-01-22-build-a-tiny-certificate-authority-for-your-homelab.md)
 - (2025-01-22) [rebase 清爽的 Git 提交记录](2025/01/2025-01-22-rebase-清爽的-git-提交记录.md)

@@ -102,5 +102,13 @@
     "url": "https://www.fxzhihu.com/question/10114790245/answer/84028353434",
     "timestamp": 1737649026,
     "summary": "Kimi团队发布多模态推理模型k1.5，重点优化长文本输入输出与强化学习应用，通过观看视频和学习文稿获取灵感，采用ICRL方法让模型自行思考和校正，面对长文本奖赏难题，通过模型自反思生成。强调模型能力与长期发展，目标是创造复杂问题情境，增强模型适应多种答案处理能力。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "gRPC vs REST: Understanding gRPC, OpenAPI and REST",
+    "url": "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them",
+    "timestamp": 1737774151,
+    "summary": "文章比较分析了REST、gRPC和OpenAPI三种API设计模型的特性和适用场景，帮助开发者根据项目需求选择最佳方案。"
   }
 ]
