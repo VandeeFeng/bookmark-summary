@@ -110,5 +110,13 @@
     "url": "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them",
     "timestamp": 1737774151,
     "summary": "文章比较分析了REST、gRPC和OpenAPI三种API设计模型的特性和适用场景，帮助开发者根据项目需求选择最佳方案。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "The 7 Most Influential Papers in Computer Science History",
+    "url": "https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/",
+    "timestamp": 1737774333,
+    "summary": "本文梳理计算机科学历史上的七大巅峰论文，包括图灵、香农、科德、库克、Cerf & Kahn、伯纳斯-李与Brin & Page的杰作，指出它们对现代技术基石的贡献极大，并强调了几乎被列入的伟大论文如麦卡锡、Dijkstra、Lamport与Brooks的研究，特别是21世纪初伯纳斯-李对网络的革新与Brin & Page对搜索引擎的革命性突破，共同奠定了信息时代的基础。"
   }
 ]
