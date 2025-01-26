@@ -126,5 +126,13 @@
     "url": "https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/",
     "timestamp": 1737892481,
     "summary": "这篇文章介绍了Chain-of-Agents(CoA)框架，一种新型多代理协作模式，用于优化大型语言模型在长上下文任务中的表现。通过逐层协作和信息聚合，CoA显著提高了问答、总结和代码完成等任务的效率与准确性，超过其他基线模型如RAG、多代理模型及输入截断模型，且成本效益高，适用于多种长度任务。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "simplerl-reason",
+    "url": "https://hkust-nlp.notion.site/simplerl-reason",
+    "timestamp": 1737895484,
+    "summary": "博客文章介绍了一项利用强化学习提升7B模型数学推理能力的研究。仅用8000个数学问题示例，该模型在复杂推理测试中取得显著性能提升，优于未经过强化学习的基线模型，且与大模型在小数据集上的表现相当。研究使用PPO算法，避免复杂组件，实验揭示了模型的自反性学习模式和逐步深化的学习过程。研究代码开源，为AI推理领域的强化学习研究提供参考。"
   }
 ]

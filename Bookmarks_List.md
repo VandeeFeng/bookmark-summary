@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-26) [simplerl-reason](2025/01/2025-01-26-simplerl-reason.md)
 - (2025-01-26) [Chain of Agents: Large language models collaborating on long-context tasks](2025/01/2025-01-26-chain-of-agents-large-language-models-collaborating-on-long-context-tasks.md)
 - (2025-01-25) [The 7 Most Influential Papers in Computer Science History](2025/01/2025-01-25-the-7-most-influential-papers-in-computer-science-history.md)
 - (2025-01-25) [gRPC vs REST: Understanding gRPC, OpenAPI and REST](2025/01/2025-01-25-grpc-vs-rest-understanding-grpc,-openapi-and-rest.md)
