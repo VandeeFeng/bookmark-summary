@@ -118,5 +118,13 @@
     "url": "https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/",
     "timestamp": 1737774333,
     "summary": "本文梳理计算机科学历史上的七大巅峰论文，包括图灵、香农、科德、库克、Cerf & Kahn、伯纳斯-李与Brin & Page的杰作，指出它们对现代技术基石的贡献极大，并强调了几乎被列入的伟大论文如麦卡锡、Dijkstra、Lamport与Brooks的研究，特别是21世纪初伯纳斯-李对网络的革新与Brin & Page对搜索引擎的革命性突破，共同奠定了信息时代的基础。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Chain of Agents: Large language models collaborating on long-context tasks",
+    "url": "https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/",
+    "timestamp": 1737892481,
+    "summary": "这篇文章介绍了Chain-of-Agents(CoA)框架，一种新型多代理协作模式，用于优化大型语言模型在长上下文任务中的表现。通过逐层协作和信息聚合，CoA显著提高了问答、总结和代码完成等任务的效率与准确性，超过其他基线模型如RAG、多代理模型及输入截断模型，且成本效益高，适用于多种长度任务。"
   }
 ]
