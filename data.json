@@ -142,5 +142,13 @@
     "url": "https://timkellogg.me/blog/2025/01/25/r1",
     "timestamp": 1738030623,
     "summary": "OpenAI和DeepSeek发布的R1、o1及o3模型展示了AI推理能力的提升及成本效率的优化，降低了AI开发门槛。推理模型的兴起是AI流程中的关键，揭示了未来模型发展趋势。低成本小型模型如R1，有效实现了复杂的推理任务，促进了更加依赖简单、高效奖励学习机制的AI发展。随着规模化成本降低和技术创新，AI发展的预测仍保持乐观。全球在AI领域的竞争与合作呈现多样化策略，政治干预与国际合作影响技术格局，全球模型的开源化加速了创新和资源扩散。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "The Illustrated DeepSeek-R1",
+    "url": "https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1",
+    "timestamp": 1738031816,
+    "summary": "本文介绍DeepSeek-R1作为最新AI成就，其创新点在于开放权重的模型结构、小型版本与训练方法分享。着重分析构建流程，亮点包括数据合成策略、强化学习优化应用与模型架构解析，为AI技术发展提供深入洞察。"
   }
 ]
