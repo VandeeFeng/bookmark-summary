@@ -166,5 +166,13 @@
     "url": "https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1",
     "timestamp": 1738055439,
     "summary": "DeepSeek AI 在中国发布了基于强化学习的顶级推理语言模型 R1，通过 RL 软件许可证提供给企业及研究人员，包含了直接 RL-only 模型和监督微调版本，旨在加速推理模型训练和应用。R1 的开放权重模型 R1-Zero 和 R1 精调版本，显示了强化学习在提升模型性能中的潜力。与 OpenAI o1 模型比较，R1 提供了经济优势，预示着推理模型市场价格的提升。强化学习技术应用于改善模型整体性能，使其在多奖模型训练中具备更高有用性、无害性和推理能力。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Run DeepSeek-R1 Dynamic 1.58-bit",
+    "url": "https://unsloth.ai/blog/deepseekr1-dynamic",
+    "timestamp": 1738075260,
+    "summary": "本文《Run DeepSeek R1 Dynamic 1.58-bit》报道了Daniel & Michael如何将DeepSeek-R1模型大小压缩至131GB，同时保持高性能。通过动态量化，达到快速推理，每秒处理140个令牌，适合GPU（如2xH100 80GB）。提供了不同大小（131GB-212GB）的量化版本，支持多种应用。通过评估Flappy Bird游戏，验证了性价比，并提供了从安装到部署的详细指南。"
   }
 ]
