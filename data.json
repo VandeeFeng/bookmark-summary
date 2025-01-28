@@ -158,5 +158,13 @@
     "url": "https://readwise.io/reader/shared/01jjnc4z3zwm9d0kzjp1ecrpxm/",
     "timestamp": 1738032162,
     "summary": "深度学习计算需求高，但计算是未来智能的基础。数据创造与强化学习概念等同。试错学习比模仿学习更强大，驱动深度学习创新，如AlphaGo。生成模型策略通过试错学习产生。在资源限制下，创新数据与算法应用显效。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs",
+    "url": "https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1",
+    "timestamp": 1738055439,
+    "summary": "DeepSeek AI 在中国发布了基于强化学习的顶级推理语言模型 R1，通过 RL 软件许可证提供给企业及研究人员，包含了直接 RL-only 模型和监督微调版本，旨在加速推理模型训练和应用。R1 的开放权重模型 R1-Zero 和 R1 精调版本，显示了强化学习在提升模型性能中的潜力。与 OpenAI o1 模型比较，R1 提供了经济优势，预示着推理模型市场价格的提升。强化学习技术应用于改善模型整体性能，使其在多奖模型训练中具备更高有用性、无害性和推理能力。"
   }
 ]

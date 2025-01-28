@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-28) [DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](2025/01/2025-01-28-deepseek-r1's-recipe-to-replicate-o1-and-the-future-of-reasoning-lms.md)
 - (2025-01-28) [Andrej Karpathy's thoughts about deepseek-R1](2025/01/2025-01-28-andrej-karpathy's-thoughts-about-deepseek-r1.md)
 - (2025-01-28) [The Illustrated DeepSeek-R1](2025/01/2025-01-28-the-illustrated-deepseek-r1.md)
 - (2025-01-28) [Explainer: What's R1 & Everything Else?](2025/01/2025-01-28-explainer-what's-r1-&-everything-else.md)
