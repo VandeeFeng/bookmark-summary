@@ -150,5 +150,13 @@
     "url": "https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1",
     "timestamp": 1738031816,
     "summary": "本文介绍DeepSeek-R1作为最新AI成就，其创新点在于开放权重的模型结构、小型版本与训练方法分享。着重分析构建流程，亮点包括数据合成策略、强化学习优化应用与模型架构解析，为AI技术发展提供深入洞察。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Andrej Karpathy's thoughts about deepseek-R1",
+    "url": "https://readwise.io/reader/shared/01jjnc4z3zwm9d0kzjp1ecrpxm/",
+    "timestamp": 1738032162,
+    "summary": "深度学习计算需求高，但计算是未来智能的基础。数据创造与强化学习概念等同。试错学习比模仿学习更强大，驱动深度学习创新，如AlphaGo。生成模型策略通过试错学习产生。在资源限制下，创新数据与算法应用显效。"
   }
 ]
