@@ -182,5 +182,13 @@
     "url": "https://jimmyhmiller.github.io/discovery-coding",
     "timestamp": 1738147981,
     "summary": "发现式编码是通过编写代码来理解问题的编程实践，与预先计划形成对比，旨在通过实践学习来理解系统工作方式和需求，而不是依赖现成解决方案。它不应被视为负面实践，而是提供了一种探索式学习和理解的途径。编程界应接受和理解这种多样性的开发思想，认识到每种方法都有其价值，不应简单归类为好坏。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Primers • DeepSeek R1",
+    "url": "https://aman.ai/primers/ai/deepseek-R1/",
+    "timestamp": 1738151419,
+    "summary": "DeepSeek R1 是一个开源逻辑推理强的语言模型，借鉴闭源技术并采用奖励增强学习框架。使用 GRPO 优化训练，MLA 减少计算量，自然涌现出推理行为。通过多头化、量化等技术提高效率且保持卓越性能。"
   }
 ]
