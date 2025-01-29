@@ -174,5 +174,13 @@
     "url": "https://unsloth.ai/blog/deepseekr1-dynamic",
     "timestamp": 1738075260,
     "summary": "本文《Run DeepSeek R1 Dynamic 1.58-bit》报道了Daniel & Michael如何将DeepSeek-R1模型大小压缩至131GB，同时保持高性能。通过动态量化，达到快速推理，每秒处理140个令牌，适合GPU（如2xH100 80GB）。提供了不同大小（131GB-212GB）的量化版本，支持多种应用。通过评估Flappy Bird游戏，验证了性价比，并提供了从安装到部署的详细指南。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Discovery Coding",
+    "url": "https://jimmyhmiller.github.io/discovery-coding",
+    "timestamp": 1738147981,
+    "summary": "发现式编码是通过编写代码来理解问题的编程实践，与预先计划形成对比，旨在通过实践学习来理解系统工作方式和需求，而不是依赖现成解决方案。它不应被视为负面实践，而是提供了一种探索式学习和理解的途径。编程界应接受和理解这种多样性的开发思想，认识到每种方法都有其价值，不应简单归类为好坏。"
   }
 ]
