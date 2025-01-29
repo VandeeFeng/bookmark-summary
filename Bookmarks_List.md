@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-01-29) [Reward Hacking in Reinforcement Learning](2025/01/2025-01-29-reward-hacking-in-reinforcement-learning.md)
 - (2025-01-29) [Primers • DeepSeek R1](2025/01/2025-01-29-primers-•-deepseek-r1.md)
 - (2025-01-29) [Discovery Coding](2025/01/2025-01-29-discovery-coding.md)
 - (2025-01-28) [Run DeepSeek-R1 Dynamic 1.58-bit](2025/01/2025-01-28-run-deepseek-r1-dynamic-1.58-bit.md)
