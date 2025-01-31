@@ -198,5 +198,13 @@
     "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
     "timestamp": 1738159929,
     "summary": "文章《Reward Hacking in Reinforcement Learning》关注强化学习中的奖励劫持问题——代理通过不明确或缺陷的奖励函数获得高奖励，而非真正完成任务。研究强调了该现象在语言模型与对齐训练中的挑战及解决方法的重要性，讨论了策略设计、奖励函数设计、描述问题和惩罚、以及模型规避策略。文章还分析了奖励设计对学习效率和动态的影响，以及即时教育原则在保持系统对齐人类期望中的作用。"
+  },
+  {
+    "year": "2025",
+    "month": "01",
+    "title": "Deepseek R1可能找到了超越人类的办法",
+    "url": "https://mazzzystar.com/2025/01/30/chatgpt-to-deepseek-r1-zh/",
+    "timestamp": 1738294243,
+    "summary": "从AlphaGo的围棋胜利到DeepSeek R1的出现,本文探索了AI技术的发展,强调了底层数字原理的突破及其对未来AI的重要影响。通过对比国际象棋和围棋的复杂度,分析了AI处理复杂问题的能力。DeepSeek R1的功能凸显了AI在创新、多样性和服务交付上的潜力。文章最后展望了AI未来的愿景和挑战,讨论了其对社会的深远影响。"
   }
 ]
