@@ -222,5 +222,13 @@
     "url": "https://mp.weixin.qq.com/s/sYwXeXMusKrP_IEAvju2JA",
     "timestamp": 1738424017,
     "summary": "作者排斥AI写作,偏好独立创作以保持个人风格和风格一致性,享受创作乐趣与成就感。尽管AI成果优秀,但不匹配其风格。通过与AI创作对比,发现创新点,推动自我提升。在创作过程注重个人心态与节奏,而非单纯追求效率。运营的栏目《槽边往事》展示了作者利用AI算法进行创作的手法多样化。"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Open-R1: Update 1",
+    "url": "https://huggingface.co/blog/open-r1/update-1",
+    "timestamp": 1738599491,
+    "summary": "文章概要:Hugging Face团队分享了成功复刻DeepSeek R1项目的进展,强调了复刻过程的挑战与学习。文章涉及到长回答的特性对效率的影响、复刻中对训练数据来源的观察、社区的活跃参与,包括微型实验和多模式模型的构建。最后,展示了未来发展的计划,包括优化管道和增加社区参与。"
   }
 ]
