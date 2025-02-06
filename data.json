@@ -254,5 +254,13 @@
     "url": "https://www.thetimes.com/life-style/celebrity/article/bill-gates-interview-new-book-memoir-wh766b9bs",
     "timestamp": 1738811614,
     "summary": "比尔·盖茨自传《源代码:我的起点》回顾了与肯特的友谊、微软创立历程,表达了对疫苗、AI等科技的乐观,同时警醒于社交网络风险及科技界的自我审视,致力于社会问题的改善,而非追求长寿科技。"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Understanding Reasoning LLMs",
+    "url": "https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html",
+    "timestamp": 1738821530,
+    "summary": "该文探讨利用增强大型预训练模型构建推理模型以解决复杂任务,并提出四种方法改进模型推理能力,强调在限定资源下通过\"旅程学习\"等技术高效构建推理模型。主要应用于解决难题、高级数学及编程挑战,显示即使在成本有限条件下也能显著提升推理能力。"
   }
 ]
