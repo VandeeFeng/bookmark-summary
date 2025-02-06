@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-02-06) [正则表达式的真正实力](2025/02/2025-02-06-正则表达式的真正实力.md)
 - (2025-02-04) [读《英伟达之心》](2025/02/2025-02-04-读《英伟达之心》.md)
 - (2025-02-03) [Open-R1: Update 1](2025/02/2025-02-03-open-r1-update-1.md)
 - (2025-02-01) [为什么我不用 AI 写文章](2025/02/2025-02-01-为什么我不用-ai-写文章.md)
