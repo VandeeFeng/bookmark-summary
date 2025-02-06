@@ -246,5 +246,13 @@
     "url": "https://sspai.com/post/96034",
     "timestamp": 1738810084,
     "summary": "文章讨论了正则表达式的实际适用范围与理论预设之间的差异,特别指出它们不仅限于匹配正则语言,还能解决更复杂的问题如解析 HTML 和构造 NP 完全问题的数学模型。引用西奥多·谢伦伯格的理论,文章探讨了正则表达式处理复杂匹配任务的潜在能力,并强调了在不同场景中灵活运用策略的重要性。"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Bill Gates: Trump, Musk and how my neurodiversity made me",
+    "url": "https://www.thetimes.com/life-style/celebrity/article/bill-gates-interview-new-book-memoir-wh766b9bs",
+    "timestamp": 1738811614,
+    "summary": "比尔·盖茨自传《源代码:我的起点》回顾了与肯特的友谊、微软创立历程,表达了对疫苗、AI等科技的乐观,同时警醒于社交网络风险及科技界的自我审视,致力于社会问题的改善,而非追求长寿科技。"
   }
 ]
