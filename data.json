@@ -270,5 +270,13 @@
     "url": "https://ejmastnak.com/tutorials/arch/about/",
     "timestamp": 1738902430,
     "summary": "该文面向刚装好的Minimal Arch Linux用户,提供快速构建高效工作环境的指南。从基础操作如Caps Lock通用化、网络连接、显示系统,到图形支持、视觉效果的提升,以及通过多种互动方式支持和反馈机制鼓励参与社区,帮助新手高效熟悉系统。"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "S1: The $6 R1 Competitor?",
+    "url": "https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/",
+    "timestamp": 1738907886,
+    "summary": "本文探讨了在低预算下通过削减数据集优化推理模型的技术,实现在Qwen2.5-32B-Instruct模型基础上提升性能,重点是提出“Budget forcing”策略,鼓励模型自我反思以提高数学、科学等领域应用(如填字游戏)的解答质量。整套方法成本仅为$6,通过1000个精选样本即可达到具有竞争力的精度。"
   }
 ]
