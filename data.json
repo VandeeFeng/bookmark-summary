@@ -278,5 +278,13 @@
     "url": "https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/",
     "timestamp": 1738907886,
     "summary": "本文探讨了在低预算下通过削减数据集优化推理模型的技术,实现在Qwen2.5-32B-Instruct模型基础上提升性能,重点是提出“Budget forcing”策略,鼓励模型自我反思以提高数学、科学等领域应用(如填字游戏)的解答质量。整套方法成本仅为$6,通过1000个精选样本即可达到具有竞争力的精度。"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "思维链摘要系统提示词",
+    "url": "https://baoyu.io/blog/chain-of-thought-summary-system",
+    "timestamp": 1738911851,
+    "summary": "AI通过“chain-of-thought”生成易于理解的用户任务总结,考虑情感与逻辑,保持与原文一致,使用日常口语与礼貌措辞,专注任务相关、排除无关信息,并确保安全、引用法律依据,遵循一致的写作规则。"
   }
 ]
