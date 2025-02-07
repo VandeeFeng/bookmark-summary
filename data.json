@@ -262,5 +262,13 @@
     "url": "https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html",
     "timestamp": 1738821530,
     "summary": "该文探讨利用增强大型预训练模型构建推理模型以解决复杂任务,并提出四种方法改进模型推理能力,强调在限定资源下通过\"旅程学习\"等技术高效构建推理模型。主要应用于解决难题、高级数学及编程挑战,显示即使在成本有限条件下也能显著提升推理能力。"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Arch Linux Post-Installation Configuration",
+    "url": "https://ejmastnak.com/tutorials/arch/about/",
+    "timestamp": 1738902430,
+    "summary": "该文面向刚装好的Minimal Arch Linux用户,提供快速构建高效工作环境的指南。从基础操作如Caps Lock通用化、网络连接、显示系统,到图形支持、视觉效果的提升,以及通过多种互动方式支持和反馈机制鼓励参与社区,帮助新手高效熟悉系统。"
   }
 ]
