@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-02-09) [人工智能普及后哪些职业的边际价值反而会上升？](2025/02/2025-02-09-人工智能普及后哪些职业的边际价值反而会上升？.md)
 - (2025-02-07) [思维链摘要系统提示词](2025/02/2025-02-07-思维链摘要系统提示词.md)
 - (2025-02-07) [S1: The $6 R1 Competitor?](2025/02/2025-02-07-s1-the-$6-r1-competitor.md)
 - (2025-02-07) [Arch Linux Post-Installation Configuration](2025/02/2025-02-07-arch-linux-post-installation-configuration.md)
