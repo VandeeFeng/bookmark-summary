@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-02-10) [Three Observations](2025/02/2025-02-10-three-observations.md)
 - (2025-02-10) [Why Blog If Nobody Reads It?](2025/02/2025-02-10-why-blog-if-nobody-reads-it.md)
 - (2025-02-09) [人工智能普及后哪些职业的边际价值反而会上升？](2025/02/2025-02-09-人工智能普及后哪些职业的边际价值反而会上升？.md)
 - (2025-02-07) [思维链摘要系统提示词](2025/02/2025-02-07-思维链摘要系统提示词.md)
