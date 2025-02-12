@@ -310,5 +310,13 @@
     "url": "https://blog.samaltman.com/three-observations",
     "timestamp": 1739157111,
     "summary": "文章探讨了人工智能(AI)与通用人工智能(AGI)的发展及其对社会经济的潜力影响,强调了AI的线性智能增长带来的超级指数级经济效益。指出AI成本的下降促进了更多应用,并讨论了其对社会结构、个体影响力的影响,以及在技术革新背景下的决策、适应性技能的重要性。文章还关注了AI伦理,建议确保人的社会接纳度与技术控制权平衡,并呼吁全球资源的平衡发展以实现更广泛的社会福祉。"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Undergraduate Upends a 40-Year-Old Data Science Conjecture",
+    "url": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/",
+    "timestamp": 1739350962,
+    "summary": "《小指针》论文启发下,年轻计算机科学新秀克拉皮文在哈希表结构上创新,发现“快速定位”哈希表,显著优化数据查找和插入效率,挑战40年数据科学假设,证明在理论上的最佳状态,揭示了数据存储方式的新可能。"
   }
 ]
