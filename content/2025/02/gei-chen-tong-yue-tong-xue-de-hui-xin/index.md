@@ -26,7 +26,6 @@ Title: 给陈桐玥同学的回信
 URL Source: https://mp.weixin.qq.com/s/-okny0WEYNSNtroxtZgKlw
 
 Markdown Content:
-![Image 11](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkpHLZLcA6ibHgWicZj1d4INu8J6qvQic0JlibCU6WYr9TgYhuzPKuaRWFiauIth7mPicjDzm2W1aOouw3TQ/640?wx_fmt=jpeg&from=appmsg)
 
 昨天收到脱不花转来的一封信，来自正在念初三的陈同学，信中就我的一篇文章提出了几个问题。脱不花希望我能公开回复一下，对小朋友来说也许是一种鼓励。以下，就是陈同学来信---
 
@@ -119,44 +118,3 @@ Markdown Content:
 又及：
 
 我作为职业作家，不建议你以职业作家作为理想职业。写作可以作为一种业余爱好，但最好不要变成全职。你总需要一门安身立命的手艺，才有经历、底气和余暇去创作。这可能是 AI 理解不了的事情---因为去做和写作无关的事，所以一个人最终才能写作。你看，我就是专职卖菜，兼职写作。  
-
-题图标题：**《和菜头回信》**
-
-创作者：**和菜头的小肉手**
-
-AI算法提供：**Midjourney V6.1**
-
-Prompt：___a fat old bald chinese old man with black glasses writting a letter on his desk in a room with sunshine, --sref 4211913962 --ar 16:9 --p g3u15ol --s 1000_ \--v 6.1__
-
- **\--v槽边往事****和菜头 出品**
-
-****【微信号】****Bitsea**** 
-
-**个人转载内容至朋友圈和群聊天，无需特别申请版权许可。**
-
-**请你相信我，**
-
-**我所说的每一句话，**
-
-**都是错的**
-
->  **禅定时刻**
-
-![Image 12](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkpHLZLcA6ibHgWicZj1d4INu8FAk0iaKF5rpJjooibLwEickLBHWeXGhicmEtYUbHPpbiaX245oBrB0Q8OdQ/640?wx_fmt=jpeg&from=appmsg)
-
-**《赛博牛马**》****
-
-**和菜头的小肉手**
-
-**Midjourney V6.1**
-
->  **南派三叔专区**
-
-![Image 13](https://mmbiz.qpic.cn/mmbiz_jpg/Ia6gU9JNtkpHLZLcA6ibHgWicZj1d4INu8UBxqoXRKzQTEVOAKICAMdxb2RhRdhoe6nm8J7M6xFPlkwpKefSy3dw/640?wx_fmt=jpeg&from=appmsg)
-
-南派，这张《**睡前故事**》送给你。
-
->  **《槽边往事》专营店营业中**
-
-**脱不花，红包拿来！**
-
