@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-02-13) [Roaming RAG – RAG without the Vector Database](2025/02/2025-02-13-roaming-rag-–-rag-without-the-vector-database.md)
 - (2025-02-13) [Smuggling arbitrary data through an emoji](2025/02/2025-02-13-smuggling-arbitrary-data-through-an-emoji.md)
 - (2025-02-12) [给陈桐玥同学的回信](2025/02/2025-02-12-给陈桐玥同学的回信.md)
 - (2025-02-12) [Undergraduate Upends a 40-Year-Old Data Science Conjecture](2025/02/2025-02-12-undergraduate-upends-a-40-year-old-data-science-conjecture.md)

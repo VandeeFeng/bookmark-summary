@@ -334,5 +334,13 @@
     "url": "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/",
     "timestamp": 1739427023,
     "summary": "本文介绍了一种利用 Unicode 变体选择器在文本中隐藏数据的新方法。通过将字节转换为变体选择器序列附加到字符后,即可实现数据隐藏,且肉眼不可见。文章提供了 Rust 代码示例,展示了编码和解码过程,并讨论了该技术的潜在滥用风险,如绕过内容审查和文本水印。最后,探讨了大型语言模型对此类隐藏数据的处理能力,发现模型本身解码意愿较低,但结合代码解释器后某些模型可以解码。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Roaming RAG – RAG without the Vector Database",
+    "url": "http://arcturus-labs.com/blog/2024/11/21/roaming-rag--rag-without-the-vector-database/",
+    "timestamp": 1739457167,
+    "summary": "漫游RAG是一种无需向量数据库的RAG方法,它利用LLM自身浏览结构化的文档,像阅读目录一样查找信息。适用于技术文档、产品手册等。实现上,文档被解析成带有ID的章节并加入摘要,LLM通过`expand_section`工具展开所需部分,逐步找到答案。其优点是无需检索设施、提供丰富上下文,但仅适用于结构化文档且计算成本可能较高。\n"
   }
 ]
