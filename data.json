@@ -326,5 +326,13 @@
     "url": "https://mp.weixin.qq.com/s/-okny0WEYNSNtroxtZgKlw",
     "timestamp": 1739352169,
     "summary": "作者回复初三学生关于AI对写作影响的提问,认为AI与人类的关系是多样的,不必过度担忧AI全面替代人类。真正的问题是人与人之间的问题及知识产权保护,应关注如何规范人类行为。保持独立思考和提问勇气至关重要,且写作可作为爱好,但需有安身立命的手艺。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Smuggling arbitrary data through an emoji",
+    "url": "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/",
+    "timestamp": 1739427023,
+    "summary": "本文介绍了一种利用 Unicode 变体选择器在文本中隐藏数据的新方法。通过将字节转换为变体选择器序列附加到字符后,即可实现数据隐藏,且肉眼不可见。文章提供了 Rust 代码示例,展示了编码和解码过程,并讨论了该技术的潜在滥用风险,如绕过内容审查和文本水印。最后,探讨了大型语言模型对此类隐藏数据的处理能力,发现模型本身解码意愿较低,但结合代码解释器后某些模型可以解码。\n"
   }
 ]
