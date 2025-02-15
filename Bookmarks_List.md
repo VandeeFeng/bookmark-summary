@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-02-15) [当孤独成为生命的影子，我们在荒诞中寻找意义](2025/02/2025-02-15-当孤独成为生命的影子，我们在荒诞中寻找意义.md)
 - (2025-02-15) [隐说 No.5 言语本身就是隐性权利](2025/02/2025-02-15-隐说-no.5-言语本身就是隐性权利.md)
 - (2025-02-15) [给袁祺茵同学的回信](2025/02/2025-02-15-给袁祺茵同学的回信.md)
 - (2025-02-13) [Roaming RAG – RAG without the Vector Database](2025/02/2025-02-13-roaming-rag-–-rag-without-the-vector-database.md)
