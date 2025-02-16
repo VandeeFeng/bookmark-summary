@@ -366,5 +366,13 @@
     "url": "https://wangyurui.com/posts/gu-du-shi-sheng-ming-yong-yuan-de-ying-zi-b6e1ba6d",
     "timestamp": 1739637806,
     "summary": "《百年孤独》以马孔多和布恩迪亚家族的兴衰，深刻揭示了人类的孤独命运。小说剖析了无爱带来的情感疏离和存在本身的虚无感，马孔多的毁灭象征着文明的缺失。在现代社会，人们需直面存在的虚无，通过精神创造，如写作、艺术、爱情等，在无意义的世界中寻找自我价值，对抗孤独，为自身赋予意义。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "A year of uv: pros, cons, and should you migrate",
+    "url": "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should",
+    "timestamp": 1739677703,
+    "summary": "作者试用`uv`一年后强烈推荐。`uv`与Python引导过程独立，统一了跨平台安装方式，兼容现有工具，具备强大的依赖解析和项目管理功能。它创建了快速、健壮的原语，开启了新的使用场景，例如无需安装直接运行Jupyter。尽管在遗留项目和企业环境中有局限，作者仍建议优先尝试，因其迁移成本低，价值高。总体来说，`uv`极大地提升了Python项目管理的效率与体验。\n"
   }
 ]
