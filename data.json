@@ -382,5 +382,13 @@
     "url": "https://baoyu.io/translations/cursor-editing-1000-tokens-per-second",
     "timestamp": 1739695775,
     "summary": "为解决现有模型代码编辑难题，研究者提出Fast Apply模型，利用规划与应用两阶段大幅提升速度和精度。该模型采用自研推测式编辑技术，加速达9倍，重写全文件策略优于Diff模型。通过合成数据及模型训练技巧，在Llama 3上微调，最终得到高性能Fast Apply模型，实现约1000 tokens/s的编辑速度。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "汝心之固",
+    "url": "https://mp.weixin.qq.com/s/JWVB_ODg5aA1zboeD7TtVw",
+    "timestamp": 1739845963,
+    "summary": "作者认为成年人根深蒂固的观念难以改变，如同大学教育加速定型。相比之下，儿童心态开放，更易接受新事物。成年人的改变需发自内心，并借助天时地利人和，减少外界干扰。作者已放弃说服他人，转为尊重个体选择。虽改变难，但自我重塑仍有可能，关键在于个人意愿和自我反思。\n"
   }
 ]
