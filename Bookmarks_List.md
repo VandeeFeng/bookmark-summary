@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-02-19) [Being a High-Leverage Generalist](2025/02/2025-02-19-being-a-high-leverage-generalist.md)
 - (2025-02-18) [汝心之固](2025/02/2025-02-18-汝心之固.md)
 - (2025-02-16) [Cursor: 以每秒 1000 个 Token 的速度编辑文件](2025/02/2025-02-16-cursor-以每秒-1000-个-token-的速度编辑文件.md)
 - (2025-02-16) [A year of uv: pros, cons, and should you migrate](2025/02/2025-02-16-a-year-of-uv-pros,-cons,-and-should-you-migrate.md)
