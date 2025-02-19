@@ -3,8 +3,6 @@ Title: Blog - Being a High-Leverage Generalist
 URL Source: https://char.blog/generalist
 
 Markdown Content:
-Blog - Being a High-Leverage Generalist - char.blog
-=============== 
 
 Jan 12, 2025
 
