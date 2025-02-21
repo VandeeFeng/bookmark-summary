@@ -422,5 +422,13 @@
     "url": "https://kk.org/thetechnium/50-years-of-travel-tips/",
     "timestamp": 1740106621,
     "summary": "作者分享了50年旅行经验，强调参与式探索而非纯粹放松，鼓励围绕个人兴趣规划行程，深入体验当地文化。实用技巧包括体验当地家庭生活、勇于尝试街头美食、结伴不抱怨的旅伴。推荐“激光进出，蜿蜒返回”法优化行程，轻装上阵，减少交通时间，深度游览少数地区。作者鼓励大胆计划，拥抱未知，享受旅行中的意外和惊喜。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "AI is Stifling Tech Adoption",
+    "url": "https://vale.rocks/posts/ai-is-stifling-tech-adoption",
+    "timestamp": 1740145128,
+    "summary": "AI模型由于训练数据截止和系统提示，存在技术偏见，影响了开发者对新技术的采纳，固化了React和Tailwind等现有技术栈。实测表明，不同AI模型的技术偏好各异，但普遍倾向于支持旧技术。这种偏见可能阻碍技术创新。作者建议AI公司应更透明地披露模型中的技术偏见，帮助开发者做出更明智的技术选择。\n"
   }
 ]
