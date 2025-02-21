@@ -406,5 +406,13 @@
     "url": "https://interconnected.org/home/2025/02/19/reflections",
     "timestamp": 1739980452,
     "summary": "作者回顾了博客Interconnected的25年发展史，从最初的社交分享到与搜索引擎共生，再到疫情期间作为个人思想交流的“公共笔记本”。他强调独立博客在平台化网络中的价值，认为它可以积累个人思想，摆脱算法束缚，吸引同好。作者鼓励读者开设自己的博客，构建更健康的互联网生态。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "A mental model for Linux file, hard and soft links",
+    "url": "https://bhoot.dev/2024/on-linux-file-and-links/",
+    "timestamp": 1740105992,
+    "summary": "Linux中，文件由路径名、inode和数据块构成。硬链接是指向同一inode的不同路径名，删除任何一个不影响其他链接或实际数据，只有当所有硬链接都被删除，文件才会被删除。软链接是一种包含目标文件路径名的特殊文件，拥有独立的inode和数据块。删除目标文件会导致软链接失效。复制软链接会复制目标文件，移动软链接仅改变链接路径。\n"
   }
 ]
