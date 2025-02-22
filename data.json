@@ -430,5 +430,13 @@
     "url": "https://vale.rocks/posts/ai-is-stifling-tech-adoption",
     "timestamp": 1740145128,
     "summary": "AI模型由于训练数据截止和系统提示，存在技术偏见，影响了开发者对新技术的采纳，固化了React和Tailwind等现有技术栈。实测表明，不同AI模型的技术偏好各异，但普遍倾向于支持旧技术。这种偏见可能阻碍技术创新。作者建议AI公司应更透明地披露模型中的技术偏见，帮助开发者做出更明智的技术选择。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "You can’t build a moat with AI (redux)",
+    "url": "https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux",
+    "timestamp": 1740191499,
+    "summary": "在AI时代，仅靠Prompt工程和最新模型无法建立持久的竞争优势。真正的护城河在于优化用户体验，将AI深度集成到用户的工作流程中，使其成为不可或缺的一部分。同时，利用数据驱动产品优化，深入理解用户需求。AI是一种通用工具，关键在于如何有效利用它来满足用户需求并解决实际问题，而非仅仅依赖技术本身。\n"
   }
 ]
