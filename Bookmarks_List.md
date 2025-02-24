@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-02-24) [But good sir, what is electricity?](2025/02/2025-02-24-but-good-sir,-what-is-electricity.md)
 - (2025-02-22) [My LLM codegen workflow atm](2025/02/2025-02-22-my-llm-codegen-workflow-atm.md)
 - (2025-02-22) [You can’t build a moat with AI (redux)](2025/02/2025-02-22-you-can’t-build-a-moat-with-ai-(redux).md)
 - (2025-02-21) [AI is Stifling Tech Adoption](2025/02/2025-02-21-ai-is-stifling-tech-adoption.md)
