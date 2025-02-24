@@ -446,13 +446,5 @@
     "url": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/",
     "timestamp": 1740191759,
     "summary": "本文总结了作者使用LLM进行代码生成的经验，强调了规划步骤和测试的重要性。对于新项目，先用LLM完善需求，再生成详细计划和任务清单，逐步执行代码生成。对于现有项目，则提取代码上下文，生成代码审查和Issue，增量改进。作者也指出了当前LLM开发主要为单人模式的局限性，并期待未来出现多人协作的LLM开发工具。最后，作者分享了如何利用LLM带来的“空闲时间”。\n"
-  },
-  {
-    "year": "2025",
-    "month": "02",
-    "title": "But good sir, what is electricity?",
-    "url": "https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity",
-    "timestamp": 1740371001,
-    "summary": "明白了。非常抱歉，因为我当前无法访问该URL，所以无法提供你需要的文章总结。\n"
   }
 ]
