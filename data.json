@@ -486,5 +486,13 @@
     "url": "https://minimaxir.com/2025/02/embeddings-parquet/",
     "timestamp": 1740456688,
     "summary": "本文探讨了高效存储和使用文本嵌入的方法，避免过度依赖向量数据库。通过Magic卡牌的例子，展示了文本嵌入在相似性搜索中的应用。文章对比了多种存储格式，推荐使用Parquet文件，结合polars库进行读写，因为它能高效处理嵌套数据，支持快速相似性搜索和元数据过滤。对于大数据量，SQLite也是一种不错的选择。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "The Subtle Art of Not Giving a Fuck",
+    "url": "https://markmanson.net/not-giving-a-fuck",
+    "timestamp": 1740462195,
+    "summary": "人生的关键在于有选择性地在乎，将精力集中在真正重要的事情上，如家人、朋友和有意义的目标。成熟意味着学会区分重要与琐碎，不为不值得的事情烦恼。若过于在意小事，可能是因为缺乏真正关注的事物。人生精力有限，要明智分配，不惧逆境和失败，勇敢追求有意义的目标。\n"
   }
 ]
