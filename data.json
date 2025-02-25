@@ -462,5 +462,13 @@
     "url": "https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts",
     "timestamp": 1740375194,
     "summary": "作者反思博客文章后发现，记录学习过程并总结成教程的文章最受欢迎，因为它满足了作者自身在学习时的资料需求，也帮助了他人。写作的过程有效巩固了知识，即使多年后仍然记忆犹新。通过数据分析，作者发现这类文章吸引了大量精准搜索用户。因此，作者决定未来专注于撰写更深入的“TIL deep dives”系列文章。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Long-context GRPO (R1 Reasoning)",
+    "url": "https://unsloth.ai/blog/grpo",
+    "timestamp": 1740453464,
+    "summary": "Unsloth团队发布了高效GRPO算法，显著降低了长文本训练中的VRAM需求，Qwen2.5 (1.5B)仅需5GB VRAM。该算法通过内存优化和梯度检查点等技术，实现上下文长度扩展并节省VRAM，相较其他实现最高节省90%。文章还探讨了GRPO数学原理及实现问题，并介绍了Unsloth在vLLM推理方面的优化，包括FP8 KV缓存和直接运行4bit量化模型。\n"
   }
 ]
