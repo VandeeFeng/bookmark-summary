@@ -478,5 +478,13 @@
     "url": "https://readwise.io/reader/shared/01jmxj7genaatfzc9g36zm7rkm/",
     "timestamp": 1740454888,
     "summary": "作者认为，相比于智力，能动性（Agency）更为重要且稀缺。能动性是一种积极主动、自我驱动的人生态度，包含自我效能、决心和对自身道路的所有权。能动性高的人相信自己能掌握命运，积极解决问题。在智力日益普及的时代，能动性显得尤为关键。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "The Best Way to Use Text Embeddings Portably is With Parquet and Polars",
+    "url": "https://minimaxir.com/2025/02/embeddings-parquet/",
+    "timestamp": 1740456688,
+    "summary": "本文探讨了高效存储和使用文本嵌入的方法，避免过度依赖向量数据库。通过Magic卡牌的例子，展示了文本嵌入在相似性搜索中的应用。文章对比了多种存储格式，推荐使用Parquet文件，结合polars库进行读写，因为它能高效处理嵌套数据，支持快速相似性搜索和元数据过滤。对于大数据量，SQLite也是一种不错的选择。\n"
   }
 ]
