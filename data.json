@@ -494,5 +494,13 @@
     "url": "https://markmanson.net/not-giving-a-fuck",
     "timestamp": 1740462195,
     "summary": "人生的关键在于有选择性地在乎，将精力集中在真正重要的事情上，如家人、朋友和有意义的目标。成熟意味着学会区分重要与琐碎，不为不值得的事情烦恼。若过于在意小事，可能是因为缺乏真正关注的事物。人生精力有限，要明智分配，不惧逆境和失败，勇敢追求有意义的目标。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Claude's extended thinking",
+    "url": "https://www.anthropic.com/research/visible-extended-thinking",
+    "timestamp": 1740471500,
+    "summary": "Claude 3.7 Sonnet引入了“扩展思考模式”，提升了复杂问题解决能力，并公开思考过程以增强用户信任。模型在“行动扩展”方面也有提升，能完成更复杂的任务，例如模拟电脑操作。此外模型采用了串行与并行测试计算，显著提高了模型在数学和科学问题上的性能。安全性方面，该模型通过了全面的评估，并采取了额外的安全措施，提高了安全性。\n"
   }
 ]

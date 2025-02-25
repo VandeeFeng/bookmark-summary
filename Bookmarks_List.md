@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-02-25) [Claude's extended thinking](2025/02/2025-02-25-claude's-extended-thinking.md)
 - (2025-02-25) [The Subtle Art of Not Giving a Fuck](2025/02/2025-02-25-the-subtle-art-of-not-giving-a-fuck.md)
 - (2025-02-25) [The Best Way to Use Text Embeddings Portably is With Parquet and Polars](2025/02/2025-02-25-the-best-way-to-use-text-embeddings-portably-is-with-parquet-and-polars.md)
 - (2025-02-25) [Agency > Intelligence](2025/02/2025-02-25-agency-intelligence.md)
