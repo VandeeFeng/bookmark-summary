@@ -470,5 +470,13 @@
     "url": "https://unsloth.ai/blog/grpo",
     "timestamp": 1740453464,
     "summary": "Unsloth团队发布了高效GRPO算法，显著降低了长文本训练中的VRAM需求，Qwen2.5 (1.5B)仅需5GB VRAM。该算法通过内存优化和梯度检查点等技术，实现上下文长度扩展并节省VRAM，相较其他实现最高节省90%。文章还探讨了GRPO数学原理及实现问题，并介绍了Unsloth在vLLM推理方面的优化，包括FP8 KV缓存和直接运行4bit量化模型。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "Agency > Intelligence",
+    "url": "https://readwise.io/reader/shared/01jmxj7genaatfzc9g36zm7rkm/",
+    "timestamp": 1740454888,
+    "summary": "作者认为，相比于智力，能动性（Agency）更为重要且稀缺。能动性是一种积极主动、自我驱动的人生态度，包含自我效能、决心和对自身道路的所有权。能动性高的人相信自己能掌握命运，积极解决问题。在智力日益普及的时代，能动性显得尤为关键。\n"
   }
 ]
