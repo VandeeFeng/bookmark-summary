@@ -502,5 +502,13 @@
     "url": "https://www.anthropic.com/research/visible-extended-thinking",
     "timestamp": 1740471500,
     "summary": "Claude 3.7 Sonnet引入了“扩展思考模式”，提升了复杂问题解决能力，并公开思考过程以增强用户信任。模型在“行动扩展”方面也有提升，能完成更复杂的任务，例如模拟电脑操作。此外模型采用了串行与并行测试计算，显著提高了模型在数学和科学问题上的性能。安全性方面，该模型通过了全面的评估，并采取了额外的安全措施，提高了安全性。\n"
+  },
+  {
+    "year": "2025",
+    "month": "02",
+    "title": "How to Disagree",
+    "url": "https://www.paulgraham.com/disagree.html",
+    "timestamp": 1740482012,
+    "summary": "网络时代不同意见涌现，作者提出不同意见层级体系，从DH0（谩骂）到DH6（驳斥中心论点）。层级越高，辩论说服力越强，也越需要证据支持。该体系旨在帮助人们评估论点，识破不诚实的辩论，提升辩论质量，减少恶意攻击，最终提升参与者的幸福感。\n"
   }
 ]
