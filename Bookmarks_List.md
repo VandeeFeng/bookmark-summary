@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-02-27) [Mark Manson 对自己的畅销书《The Subtle Art of Not Giving a F*ck》的总结](2025/02/2025-02-27-mark-manson-对自己的畅销书《the-subtle-art-of-not-giving-a-f-ck》的总结.md)
 - (2025-02-25) [How to Disagree](2025/02/2025-02-25-how-to-disagree.md)
 - (2025-02-25) [Claude's extended thinking](2025/02/2025-02-25-claude's-extended-thinking.md)
 - (2025-02-25) [The Subtle Art of Not Giving a Fuck](2025/02/2025-02-25-the-subtle-art-of-not-giving-a-fuck.md)
