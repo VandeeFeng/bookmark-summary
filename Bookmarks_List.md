@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-03) [看不懂的世界](2025/03/2025-03-03-看不懂的世界.md)
 - (2025-02-28) [How to Do Code Reviews Like a Human (Part One)](2025/02/2025-02-28-how-to-do-code-reviews-like-a-human-(part-one).md)
 - (2025-02-28) [Pure Independence](2025/02/2025-02-28-pure-independence.md)
 - (2025-02-27) [Claude play Pokémon](2025/02/2025-02-27-claude-play-pokémon.md)
