@@ -566,5 +566,13 @@
     "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODk5NTAzNA==&mid=2652194042&idx=1&sn=60c368d7582065c56dbd5db43a7ca29e",
     "timestamp": 1740978009,
     "summary": "文章探讨了当代社会“过度敏感化”现象，指出敏感性虽能推动社会进步，但过度则可能导致人际规则化、精神韧性降低和公共辩论空间受限。文章强调，社会应在追求公正的同时，重视韧性的培养，避免过度保护剥夺了个体成长的机会，在敏感性与韧性之间寻求平衡。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Hallucinations in code are the least dangerous form of LLM mistakes",
+    "url": "https://simonwillison.net/2025/Mar/2/hallucinations-in-code/",
+    "timestamp": 1741013545,
+    "summary": "LLM生成代码时，最容易处理的错误是“幻觉”，即创造不存在的方法或库，因为它们会立即报错。真正的风险在于隐藏的逻辑错误。手动测试代码至关重要，确保其按预期运行，避免盲目信任LLM。通过更换模型、提供上下文或选择成熟技术可以减少幻觉。审查LLM代码是提升自身代码阅读和理解能力的宝贵机会。\n"
   }
 ]
