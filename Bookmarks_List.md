@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-05) [The Model is the Product](2025/03/2025-03-05-the-model-is-the-product.md)
 - (2025-03-03) [Hallucinations in code are the least dangerous form of LLM mistakes](2025/03/2025-03-03-hallucinations-in-code-are-the-least-dangerous-form-of-llm-mistakes.md)
 - (2025-03-03) [方俊彦：“过度敏感化”的时代](2025/03/2025-03-03-方俊彦：“过度敏感化”的时代.md)
 - (2025-03-03) [折中与中庸](2025/03/2025-03-03-折中与中庸.md)

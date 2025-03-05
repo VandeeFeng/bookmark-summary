@@ -574,5 +574,13 @@
     "url": "https://simonwillison.net/2025/Mar/2/hallucinations-in-code/",
     "timestamp": 1741013545,
     "summary": "LLM生成代码时，最容易处理的错误是“幻觉”，即创造不存在的方法或库，因为它们会立即报错。真正的风险在于隐藏的逻辑错误。手动测试代码至关重要，确保其按预期运行，避免盲目信任LLM。通过更换模型、提供上下文或选择成熟技术可以减少幻觉。审查LLM代码是提升自身代码阅读和理解能力的宝贵机会。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "The Model is the Product",
+    "url": "https://vintagedata.org/blog/posts/model-is-the-product",
+    "timestamp": 1741155477,
+    "summary": "AI发展进入“模型即产品”时代，通用模型局限性显现，特定任务优化更有效。推理成本下降迫使模型提供商升级价值链，大型科技公司整合模型至应用层。然而，行业面临投资不足和对训练能力认识不足的问题，风险投资应关注垂直领域强化学习和专业团队，并与大型实验室合作早期训练。\n"
   }
 ]
