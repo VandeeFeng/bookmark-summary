@@ -598,5 +598,13 @@
     "url": "https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention",
     "timestamp": 1741162901,
     "summary": "本文介绍了如何从零开始构建大型语言模型中的自注意力机制。核心是使用可训练的权重矩阵（Wq, Wk, Wv）将输入嵌入投影到不同的空间，计算注意力得分和权重，并生成上下文向量。文章强调了矩阵乘法在高效计算中的作用，以及缩放 softmax 函数以避免梯度消失问题。总结了自注意力机制的实现过程，为后续学习因果自注意力和多头注意力机制奠定了基础。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "The Differences between Deep Research, Deep Research, and Deep Research",
+    "url": "https://leehanchung.github.io/blogs/2025/02/26/deep-research/",
+    "timestamp": 1741191421,
+    "summary": "近期AI领域兴起“Deep Research”热潮，旨在利用大语言模型（LLM）迭代搜索、分析信息并生成详细报告。其核心是报告生成系统，主要实现方式包括非训练的DAG/FSM、以及训练的端到端模型/大型推理模型。早期方法依赖人工 prompt 工程，后期则转向可优化的端到端模型，如Stanford的STORM。尽管许多公司推出类似功能，但技术细节和评估数据普遍缺乏。\n"
   }
 ]
