@@ -5,6 +5,7 @@ Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签
 
 ## Summarized Bookmarks
 - (2025-03-05) [Writing an LLM from scratch, part 8 -- trainable self-attention](2025/03/2025-03-05-writing-an-llm-from-scratch,-part-8----trainable-self-attention.md)
+- (2025-03-05) [Writing an LLM from scratch, part 8 -- trainable self-attention](2025/03/2025-03-05-writing-an-llm-from-scratch,-part-8----trainable-self-attention.md)
 - (2025-03-05) [The Model is the Product](2025/03/2025-03-05-the-model-is-the-product.md)
 - (2025-03-03) [Hallucinations in code are the least dangerous form of LLM mistakes](2025/03/2025-03-03-hallucinations-in-code-are-the-least-dangerous-form-of-llm-mistakes.md)
 - (2025-03-03) [方俊彦：“过度敏感化”的时代](2025/03/2025-03-03-方俊彦：“过度敏感化”的时代.md)

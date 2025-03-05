@@ -590,5 +590,13 @@
     "url": "/2025/03/llm-from-scratch-8-trainable-self-attention",
     "timestamp": 1741162838,
     "summary": "没问题，请提供文章内容。我会尽力根据内容，用简体中文，在100字以内提供文章的精准总结。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Writing an LLM from scratch, part 8 -- trainable self-attention",
+    "url": "https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention",
+    "timestamp": 1741162901,
+    "summary": "本文介绍了如何从零开始构建大型语言模型中的自注意力机制。核心是使用可训练的权重矩阵（Wq, Wk, Wv）将输入嵌入投影到不同的空间，计算注意力得分和权重，并生成上下文向量。文章强调了矩阵乘法在高效计算中的作用，以及缩放 softmax 函数以避免梯度消失问题。总结了自注意力机制的实现过程，为后续学习因果自注意力和多头注意力机制奠定了基础。\n"
   }
 ]
