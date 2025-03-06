@@ -614,5 +614,13 @@
     "url": "https://baoyu.io/blog/turing-award-reinforcement-learning-pioneers",
     "timestamp": 1741233261,
     "summary": "安德鲁·巴托和理查德·萨顿因对强化学习的开创性贡献荣获图灵奖。他们提出的“享乐式”学习系统、演员-评论家架构和时间差分学习奠定了强化学习的核心理论基础。他们合著的《强化学习：导论》确立了该领域的统一研究范式。强化学习已广泛应用于游戏（如AlphaGo）、机器人、自动驾驶和大型语言模型（如ChatGPT），改变了人工智能的应用方式。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Git without a forge",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/",
+    "timestamp": 1741234786,
+    "summary": "作者选择“裸”Git仓库而非Git forge的原因包括：不信任第三方托管平台，担忧代码安全；Git forge软件笨重且限制工作流，作者希望自主选择；不愿使用非自由软件GitHub，避免技术垄断。作者偏好通过邮件接收patch，首选仓库URL，其次是增量Git bundle，最后是`git diff`输出。尽管Git forge有其优点，作者更看重自主性和对代码的控制。\n"
   }
 ]
