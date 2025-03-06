@@ -14,6 +14,6 @@ Inspired by : [Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x ä¹¦ç­
 
 ## Follow me
 
-- Blog: <https://x.vandee.art/blog> 
-- Wiki: <https://x.vandee.art/wiki>
-- Memo: <https://x.vandee.art/memo>
+- Blog: <https://x404.xyz/blog> 
+- Wiki: <https://x404.xyz/wiki>
+- Memo: <https://x404.xyz/memo>
