@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-06) [Tailscale is pretty useful](2025/03/2025-03-06-tailscale-is-pretty-useful.md)
 - (2025-03-06) [Git without a forge](2025/03/2025-03-06-git-without-a-forge.md)
 - (2025-03-06) [强化学习领域的两位先驱：安德鲁·巴托和理查德·萨顿获得2024图灵奖](2025/03/2025-03-06-强化学习领域的两位先驱：安德鲁·巴托和理查德·萨顿获得2024图灵奖.md)
 - (2025-03-05) [The Differences between Deep Research, Deep Research, and Deep Research](2025/03/2025-03-05-the-differences-between-deep-research,-deep-research,-and-deep-research.md)

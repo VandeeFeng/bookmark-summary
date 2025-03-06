@@ -622,5 +622,13 @@
     "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/",
     "timestamp": 1741234786,
     "summary": "作者选择“裸”Git仓库而非Git forge的原因包括：不信任第三方托管平台，担忧代码安全；Git forge软件笨重且限制工作流，作者希望自主选择；不愿使用非自由软件GitHub，避免技术垄断。作者偏好通过邮件接收patch，首选仓库URL，其次是增量Git bundle，最后是`git diff`输出。尽管Git forge有其优点，作者更看重自主性和对代码的控制。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Tailscale is pretty useful",
+    "url": "https://blog.6nok.org/tailscale-is-pretty-useful/",
+    "timestamp": 1741271669,
+    "summary": "作者体验了Tailscale，它解决了CGNAT下无法使用DDNS访问家中设备的问题。通过Tailscale的虚拟专用网络，可以轻松访问内网设备，方便真机调试和文件传输（Taildrop）。Tailscale还能作为VPN使用，甚至能与Mullvad合作实现双层VPN，增强隐私。作者目前使用免费套餐，并提到了Headscale这个开源替代方案。\n"
   }
 ]
