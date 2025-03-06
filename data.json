@@ -606,5 +606,13 @@
     "url": "https://leehanchung.github.io/blogs/2025/02/26/deep-research/",
     "timestamp": 1741191421,
     "summary": "近期AI领域兴起“Deep Research”热潮，旨在利用大语言模型（LLM）迭代搜索、分析信息并生成详细报告。其核心是报告生成系统，主要实现方式包括非训练的DAG/FSM、以及训练的端到端模型/大型推理模型。早期方法依赖人工 prompt 工程，后期则转向可优化的端到端模型，如Stanford的STORM。尽管许多公司推出类似功能，但技术细节和评估数据普遍缺乏。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "强化学习领域的两位先驱：安德鲁·巴托和理查德·萨顿获得2024图灵奖",
+    "url": "https://baoyu.io/blog/turing-award-reinforcement-learning-pioneers",
+    "timestamp": 1741233261,
+    "summary": "安德鲁·巴托和理查德·萨顿因对强化学习的开创性贡献荣获图灵奖。他们提出的“享乐式”学习系统、演员-评论家架构和时间差分学习奠定了强化学习的核心理论基础。他们合著的《强化学习：导论》确立了该领域的统一研究范式。强化学习已广泛应用于游戏（如AlphaGo）、机器人、自动驾驶和大型语言模型（如ChatGPT），改变了人工智能的应用方式。\n"
   }
 ]
