@@ -654,5 +654,13 @@
     "url": "https://ferd.ca/notes/paper-ironies-of-automation.html",
     "timestamp": 1741403000,
     "summary": "Bainbridge的论文指出，自动化无法完全取代人，人机结合是常态。高自动化反而对操作员技能提出更高要求，长时间监控易导致技能退化。论文建议自动化系统应与人操作节奏匹配，故障处理优先人工关闭，同时通过培训保持操作员技能。核心是将人与机器视为团队成员，明确分工，应对复杂问题。自动化设计的关键在于如何更好地实现人机协作。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "The Landscape of Lisp",
+    "url": "https://churchofturing.github.io/landscapeoflisp.html",
+    "timestamp": 1741408808,
+    "summary": "Lisp语言家族众多，各有特点。选择Lisp方言需考虑个人编程理念。Scheme极简，适合学术；Common Lisp强大稳定，适合大型项目；Clojure运行于JVM，函数式并发；Racket注重教育和扩展。文章详细介绍了这四种方言，并推荐了相关资源，还提及了其他值得关注的Lisp方言。\n"
   }
 ]
