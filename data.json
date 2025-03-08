@@ -670,5 +670,13 @@
     "url": "https://www.pyspur.dev/blog/deepseek_open_source_week",
     "timestamp": 1741420167,
     "summary": "DeepSeek开源多项AI技术成果，意义重大。此举将加速AI技术发展，降低开发门槛，促进社群合作与知识共享。通过开放代码、模型与数据集，DeepSeek吸引更多开发者参与，加速技术迭代与创新，构建更开放、协作的AI生态系统。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "在 Proxy 环境中使用 GitHub SSH 的 git 操作",
+    "url": "https://blog.inoki.cc/2025/03/08/GitHub-ssh-connection-behind-proxy/index.html",
+    "timestamp": 1741430795,
+    "summary": "当GitHub的SSH 22端口被封禁时，常规代理设置对SSH无效。文章提供了三个解决方案：一是手动在git命令中使用443端口连接ssh.github.com；二是配置SSH，将github.com别名为ssh.github.com并指定443端口；三是通过配置SOCKS5代理，让SSH通过代理连接GitHub。选择合适方法可确保在受限网络环境下正常访问GitHub。\n"
   }
 ]
