@@ -662,5 +662,13 @@
     "url": "https://churchofturing.github.io/landscapeoflisp.html",
     "timestamp": 1741408808,
     "summary": "Lisp语言家族众多，各有特点。选择Lisp方言需考虑个人编程理念。Scheme极简，适合学术；Common Lisp强大稳定，适合大型项目；Clojure运行于JVM，函数式并发；Racket注重教育和扩展。文章详细介绍了这四种方言，并推荐了相关资源，还提及了其他值得关注的Lisp方言。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "DeepSeek's open-source week and why it's a big deal",
+    "url": "https://www.pyspur.dev/blog/deepseek_open_source_week",
+    "timestamp": 1741420167,
+    "summary": "DeepSeek开源多项AI技术成果，意义重大。此举将加速AI技术发展，降低开发门槛，促进社群合作与知识共享。通过开放代码、模型与数据集，DeepSeek吸引更多开发者参与，加速技术迭代与创新，构建更开放、协作的AI生态系统。\n"
   }
 ]

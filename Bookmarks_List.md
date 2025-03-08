@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-08) [DeepSeek's open-source week and why it's a big deal](2025/03/2025-03-08-deepseek's-open-source-week-and-why-it's-a-big-deal.md)
 - (2025-03-08) [The Landscape of Lisp](2025/03/2025-03-08-the-landscape-of-lisp.md)
 - (2025-03-08) [Paper: Ironies of Automation](2025/03/2025-03-08-paper-ironies-of-automation.md)
 - (2025-03-08) [The Cursed Art of Streaming HTML](2025/03/2025-03-08-the-cursed-art-of-streaming-html.md)
