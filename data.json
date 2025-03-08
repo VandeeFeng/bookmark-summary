@@ -638,5 +638,13 @@
     "url": "https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/",
     "timestamp": 1741402554,
     "summary": "作者分享了使用 alias 与 `$PATH` 脚本作为别名的经验对比。虽然 alias 简洁且拥有特殊权限和命令补全，但作者更倾向于脚本方案，因其无需重载配置、语言选择自由、工作空间更大、移植性更强，能实现更复杂逻辑。脚本修改后立即生效，方便迭代，缺点是绕过不如 alias 容易。最终选择取决于具体需求。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "The Cursed Art of Streaming HTML",
+    "url": "https://rinici.de/posts/streaming-html",
+    "timestamp": 1741402661,
+    "summary": "本文介绍了一种无需 JavaScript 的 HTML 流式传输方案，实现准实时更新。通过 Node.js 和 Express，使用 `res.write()` 函数将 HTML 片段实时推送至客户端。该方案利用 iframe 分别嵌入聊天历史和消息发送表单，实现动态更新。虽然存在页面加载问题，但提供 JavaScript 片段作为临时方案，保证了无 JavaScript 下的基本功能，实现了渐进增强的用户体验。\n"
   }
 ]
