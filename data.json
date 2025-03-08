@@ -630,5 +630,13 @@
     "url": "https://blog.6nok.org/tailscale-is-pretty-useful/",
     "timestamp": 1741271669,
     "summary": "作者体验了Tailscale，它解决了CGNAT下无法使用DDNS访问家中设备的问题。通过Tailscale的虚拟专用网络，可以轻松访问内网设备，方便真机调试和文件传输（Taildrop）。Tailscale还能作为VPN使用，甚至能与Mullvad合作实现双层VPN，增强隐私。作者目前使用免费套餐，并提到了Headscale这个开源替代方案。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Why \"alias\" is my last resort for aliases",
+    "url": "https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/",
+    "timestamp": 1741402554,
+    "summary": "作者分享了使用 alias 与 `$PATH` 脚本作为别名的经验对比。虽然 alias 简洁且拥有特殊权限和命令补全，但作者更倾向于脚本方案，因其无需重载配置、语言选择自由、工作空间更大、移植性更强，能实现更复杂逻辑。脚本修改后立即生效，方便迭代，缺点是绕过不如 alias 容易。最终选择取决于具体需求。\n"
   }
 ]
