@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-08) [Paper: Ironies of Automation](2025/03/2025-03-08-paper-ironies-of-automation.md)
 - (2025-03-08) [The Cursed Art of Streaming HTML](2025/03/2025-03-08-the-cursed-art-of-streaming-html.md)
 - (2025-03-08) [Why "alias" is my last resort for aliases](2025/03/2025-03-08-why-alias-is-my-last-resort-for-aliases.md)
 - (2025-03-06) [Tailscale is pretty useful](2025/03/2025-03-06-tailscale-is-pretty-useful.md)
