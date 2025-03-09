@@ -702,5 +702,13 @@
     "url": "https://ghost.oxen.ai/training-a-rust-1-5b-coder-lm-with-reinforcement-learning-grpo/",
     "timestamp": 1741487049,
     "summary": "本文介绍了一种使用 GRPO 算法和 Rust 工具链训练小型 Rust 编程语言模型的方法。通过将 Python 数据集转换为包含代码和单元测试的 Rust 数据集，并结合 cargo 构建、clippy 检查和单元测试等奖励函数，对模型进行训练。实验结果表明，经过 GRPO 训练后，模型的代码构建通过率和单元测试通过率均得到显著提升。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Understanding Transformers beyond the Math",
+    "url": "https://kalomaze.bearblog.dev/understanding-transformers-beyond-the-math/",
+    "timestamp": 1741496677,
+    "summary": "Transformer本质上是状态模拟器，预测token的概率分布而非单一结果。通过ASCII艺术扩散实验，验证了其强大的泛化和上下文学习能力。文章强调理解Transformer的整体工作机制，而非仅关注数学公式，并指出学术论文可能因遗漏细节而产生误导。建议通过实践、质疑和迭代来构建对Transformer的深刻理解。\n"
   }
 ]
