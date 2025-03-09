@@ -678,5 +678,13 @@
     "url": "https://blog.inoki.cc/2025/03/08/GitHub-ssh-connection-behind-proxy/index.html",
     "timestamp": 1741430795,
     "summary": "当GitHub的SSH 22端口被封禁时，常规代理设置对SSH无效。文章提供了三个解决方案：一是手动在git命令中使用443端口连接ssh.github.com；二是配置SSH，将github.com别名为ssh.github.com并指定443端口；三是通过配置SOCKS5代理，让SSH通过代理连接GitHub。选择合适方法可确保在受限网络环境下正常访问GitHub。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Cutting-edge web scraping techniques at NICAR",
+    "url": "https://simonwillison.net/2025/Mar/8/cutting-edge-web-scraping/",
+    "timestamp": 1741483952,
+    "summary": "作者在NICAR 2025会议上分享了网络数据抓取的最新技巧，涵盖了Git scraper自动追踪网页更新、利用JavaScript和shot-scraper提取信息、以及利用LLM（OpenAI和Gemini）从非结构化数据中提取结构化数据等技术。此外，还介绍了使用Google AI Studio进行视频抓取，并创新地使用Claude加密API密钥分发，确保安全性。\n"
   }
 ]
