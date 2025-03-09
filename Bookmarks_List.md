@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-09) [The Reputational Cue Ball](2025/03/2025-03-09-the-reputational-cue-ball.md)
 - (2025-03-09) [Understanding Transformers beyond the Math](2025/03/2025-03-09-understanding-transformers-beyond-the-math.md)
 - (2025-03-09) [Training a Rust 1.5B Coder LM with Reinforcement Learning (GRPO)](2025/03/2025-03-09-training-a-rust-1.5b-coder-lm-with-reinforcement-learning-(grpo).md)
 - (2025-03-09) [The State of LLM Reasoning Models](2025/03/2025-03-09-the-state-of-llm-reasoning-models.md)

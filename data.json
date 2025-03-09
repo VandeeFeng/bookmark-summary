@@ -710,5 +710,13 @@
     "url": "https://kalomaze.bearblog.dev/understanding-transformers-beyond-the-math/",
     "timestamp": 1741496677,
     "summary": "Transformer本质上是状态模拟器，预测token的概率分布而非单一结果。通过ASCII艺术扩散实验，验证了其强大的泛化和上下文学习能力。文章强调理解Transformer的整体工作机制，而非仅关注数学公式，并指出学术论文可能因遗漏细节而产生误导。建议通过实践、质疑和迭代来构建对Transformer的深刻理解。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "The Reputational Cue Ball",
+    "url": "https://fs.blog/the-reputational-cue-ball/",
+    "timestamp": 1741515023,
+    "summary": "声誉是战略资产，决定了未来的机会，如同台球中的母球位置。诚信行为积累复利效应，带来更多信任和机会，而失信则会迅速破坏信任。在不同场合保持行为一致性至关重要，并公开透明地展现价值观。良好的声誉带来“简单模式”，机会自然而来，诚信是实现长期成功的最佳策略。\n"
   }
 ]
