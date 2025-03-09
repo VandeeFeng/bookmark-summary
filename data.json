@@ -694,5 +694,13 @@
     "url": "https://sebastianraschka.com/blog/2025/state-of-llm-reasoning-and-inference-scaling.html",
     "timestamp": 1741484081,
     "summary": "2025年LLM推理能力提升主要通过推理时计算扩展实现，即不修改模型权重增加计算资源。研究热点包括通过“等待”令牌控制输出，测试时偏好优化与人类偏好对齐，抑制过度思考，以及链式联想思考等技术。推理时计算扩展能显著提升小模型在推理基准测试中的表现，缩小与大模型的差距，但没有一种技术在所有任务中始终最优。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Training a Rust 1.5B Coder LM with Reinforcement Learning (GRPO)",
+    "url": "https://ghost.oxen.ai/training-a-rust-1-5b-coder-lm-with-reinforcement-learning-grpo/",
+    "timestamp": 1741487049,
+    "summary": "本文介绍了一种使用 GRPO 算法和 Rust 工具链训练小型 Rust 编程语言模型的方法。通过将 Python 数据集转换为包含代码和单元测试的 Rust 数据集，并结合 cargo 构建、clippy 检查和单元测试等奖励函数，对模型进行训练。实验结果表明，经过 GRPO 训练后，模型的代码构建通过率和单元测试通过率均得到显著提升。\n"
   }
 ]
