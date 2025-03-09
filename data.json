@@ -686,5 +686,13 @@
     "url": "https://simonwillison.net/2025/Mar/8/cutting-edge-web-scraping/",
     "timestamp": 1741483952,
     "summary": "作者在NICAR 2025会议上分享了网络数据抓取的最新技巧，涵盖了Git scraper自动追踪网页更新、利用JavaScript和shot-scraper提取信息、以及利用LLM（OpenAI和Gemini）从非结构化数据中提取结构化数据等技术。此外，还介绍了使用Google AI Studio进行视频抓取，并创新地使用Claude加密API密钥分发，确保安全性。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "The State of LLM Reasoning Models",
+    "url": "https://sebastianraschka.com/blog/2025/state-of-llm-reasoning-and-inference-scaling.html",
+    "timestamp": 1741484081,
+    "summary": "2025年LLM推理能力提升主要通过推理时计算扩展实现，即不修改模型权重增加计算资源。研究热点包括通过“等待”令牌控制输出，测试时偏好优化与人类偏好对齐，抑制过度思考，以及链式联想思考等技术。推理时计算扩展能显著提升小模型在推理基准测试中的表现，缩小与大模型的差距，但没有一种技术在所有任务中始终最优。\n"
   }
 ]
