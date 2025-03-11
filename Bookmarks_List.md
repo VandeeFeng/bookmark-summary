@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-11) [50位 a16z 合伙人对 2025 年科技领域发展趋势的预测](2025/03/2025-03-11-50位-a16z-合伙人对-2025-年科技领域发展趋势的预测.md)
 - (2025-03-09) [开源的心理建设](2025/03/2025-03-09-开源的心理建设.md)
 - (2025-03-09) [The Reputational Cue Ball](2025/03/2025-03-09-the-reputational-cue-ball.md)
 - (2025-03-09) [Understanding Transformers beyond the Math](2025/03/2025-03-09-understanding-transformers-beyond-the-math.md)
