@@ -734,5 +734,13 @@
     "url": "https://baoyu.io/translations/big-ideas-in-tech-2025",
     "timestamp": 1741673072,
     "summary": "a16z的50位合伙人预测2025年科技趋势：AI赋能各行各业，带来个性化体验和效率提升。美国能源复苏，技能重心转向软硬件结合。医疗健康领域，AI助力药物研发和解决人员短缺。加密领域，AI代理和DAC出现，区块链应用扩展。企业服务中，AI副驾普及，基础设施建设重心转向AI超中心和边缘计算。总体趋势是AI驱动的深度变革，涉及生产、消费和组织模式的全面创新。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone",
+    "url": "https://huggingface.co/blog/llm-inference-on-edge",
+    "timestamp": 1741673525,
+    "summary": "本文介绍了如何使用React Native在手机上构建本地LLM应用。关键步骤包括选择小尺寸GGUF量化模型，搭建React Native开发环境，从Hugging Face Hub下载模型到本地，使用`llama.rn`加载模型，以及实现基本的聊天界面。此外，还讨论了UI增强、模型管理和调试技巧，为开发者构建更复杂的AI移动应用提供了基础。\n"
   }
 ]
