@@ -742,5 +742,13 @@
     "url": "https://huggingface.co/blog/llm-inference-on-edge",
     "timestamp": 1741673525,
     "summary": "本文介绍了如何使用React Native在手机上构建本地LLM应用。关键步骤包括选择小尺寸GGUF量化模型，搭建React Native开发环境，从Hugging Face Hub下载模型到本地，使用`llama.rn`加载模型，以及实现基本的聊天界面。此外，还讨论了UI增强、模型管理和调试技巧，为开发者构建更复杂的AI移动应用提供了基础。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Building Websites With LLMS",
+    "url": "https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/",
+    "timestamp": 1741674156,
+    "summary": "作者反思过度依赖JavaScript的页面交互开发模式，提倡“大量小型HTML页面”方法。通过将复杂交互拆分为多个独立HTML页面，并利用CSS视图过渡实现平滑切换，简化开发和维护。例如，用静态页面生成器为不同标准的帖子列表创建独立页面，通过链接实现导航和搜索功能。这种方式更易维护，充分利用Web特性，降低对客户端JavaScript的依赖。\n"
   }
 ]
