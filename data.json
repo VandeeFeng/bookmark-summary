@@ -750,5 +750,13 @@
     "url": "https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/",
     "timestamp": 1741674156,
     "summary": "作者反思过度依赖JavaScript的页面交互开发模式，提倡“大量小型HTML页面”方法。通过将复杂交互拆分为多个独立HTML页面，并利用CSS视图过渡实现平滑切换，简化开发和维护。例如，用静态页面生成器为不同标准的帖子列表创建独立页面，通过链接实现导航和搜索功能。这种方式更易维护，充分利用Web特性，降低对客户端JavaScript的依赖。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Visual programming is stuck on the form",
+    "url": "https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/",
+    "timestamp": 1741921838,
+    "summary": "优秀设计应遵循“形式追随功能”原则，即先明确底层功能，再呈现形式。功能需考虑环境、一致性和代数规则。当前视觉编程过度依赖节点连线图，应探索新的问题建模方法，充分利用人类视觉皮层能力，视觉化问题域的实体关系和系统状态演变，找到新的计算语法。避免只关注形式或只关注功能，需兼顾用户需求。\n"
   }
 ]
