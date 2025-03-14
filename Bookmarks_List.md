@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-14) [Snippet Selection and URL Ranking in DeepSearch/DeepResearch](2025/03/2025-03-14-snippet-selection-and-url-ranking-in-deepsearch-deepresearch.md)
 - (2025-03-14) [Visual programming is stuck on the form](2025/03/2025-03-14-visual-programming-is-stuck-on-the-form.md)
 - (2025-03-11) [Building Websites With LLMS](2025/03/2025-03-11-building-websites-with-llms.md)
 - (2025-03-11) [LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone](2025/03/2025-03-11-llm-inference-on-edge-a-fun-and-easy-guide-to-run-llms-via-react-native-on-your-phone.md)

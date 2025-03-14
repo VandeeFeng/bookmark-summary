@@ -758,5 +758,13 @@
     "url": "https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/",
     "timestamp": 1741921838,
     "summary": "优秀设计应遵循“形式追随功能”原则，即先明确底层功能，再呈现形式。功能需考虑环境、一致性和代数规则。当前视觉编程过度依赖节点连线图，应探索新的问题建模方法，充分利用人类视觉皮层能力，视觉化问题域的实体关系和系统状态演变，找到新的计算语法。避免只关注形式或只关注功能，需兼顾用户需求。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Snippet Selection and URL Ranking in DeepSearch/DeepResearch",
+    "url": "https://jina.ai/news/snippet-selection-and-url-ranking-in-deepsearch-deepresearch/",
+    "timestamp": 1741931740,
+    "summary": "本文介绍了 DeepSearch 系统中通过 late-chunking embeddings 选择网页内容片段和使用 rerankers 排序 URL 以提高搜索质量的方法。Late-chunking 结合 jina-embeddings-v3 模型能有效解决传统分块的上下文丢失问题。综合考虑频率、路径、语义、更新时间及可访问性的 URL 排序方法能引导 LLM 选择更相关的 URL。文章还提出了搜索工程的双过程理论框架，探讨了 embeddings 和 rerankers 的角色转变。\n"
   }
 ]
