@@ -766,5 +766,13 @@
     "url": "https://jina.ai/news/snippet-selection-and-url-ranking-in-deepsearch-deepresearch/",
     "timestamp": 1741931740,
     "summary": "本文介绍了 DeepSearch 系统中通过 late-chunking embeddings 选择网页内容片段和使用 rerankers 排序 URL 以提高搜索质量的方法。Late-chunking 结合 jina-embeddings-v3 模型能有效解决传统分块的上下文丢失问题。综合考虑频率、路径、语义、更新时间及可访问性的 URL 排序方法能引导 LLM 选择更相关的 URL。文章还提出了搜索工程的双过程理论框架，探讨了 embeddings 和 rerankers 的角色转变。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Actual LLM agents are coming",
+    "url": "https://vintagedata.org/blog/posts/designing-llm-agents",
+    "timestamp": 1742024518,
+    "summary": "本文探讨了LLM代理相较于传统工作流应用的优势，强调其在规划、记忆和长期行动方面的能力。文章指出，强化学习是训练LLM代理的关键，并通过模拟环境生成训练数据。结构化数据和草稿生成有助于优化训练过程。LLM代理在搜索、网络工程和金融等领域具有广阔的应用前景， democratizing 其训练和部署至关重要。\n"
   }
 ]
