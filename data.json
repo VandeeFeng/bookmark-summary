@@ -774,5 +774,13 @@
     "url": "https://vintagedata.org/blog/posts/designing-llm-agents",
     "timestamp": 1742024518,
     "summary": "本文探讨了LLM代理相较于传统工作流应用的优势，强调其在规划、记忆和长期行动方面的能力。文章指出，强化学习是训练LLM代理的关键，并通过模拟环境生成训练数据。结构化数据和草稿生成有助于优化训练过程。LLM代理在搜索、网络工程和金融等领域具有广阔的应用前景， democratizing 其训练和部署至关重要。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "The Bitter Lesson",
+    "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+    "timestamp": 1742024707,
+    "summary": "人工智能研究表明，通用方法胜过依赖人类知识的专门方法。摩尔定律驱动计算成本下降，利好能充分利用计算能力的方法。计算机象棋、围棋、语音识别等领域的发展都证明了这一点：最初专家知识有效，但最终被大规模搜索和学习超越。作者呼吁AI研究拥抱通用方法，构建能自我发现的AI，而非仅包含已知知识的AI。\n"
   }
 ]
