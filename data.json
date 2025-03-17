@@ -782,5 +782,13 @@
     "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
     "timestamp": 1742024707,
     "summary": "人工智能研究表明，通用方法胜过依赖人类知识的专门方法。摩尔定律驱动计算成本下降，利好能充分利用计算能力的方法。计算机象棋、围棋、语音识别等领域的发展都证明了这一点：最初专家知识有效，但最终被大规模搜索和学习超越。作者呼吁AI研究拥抱通用方法，构建能自我发现的AI，而非仅包含已知知识的AI。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Relocation generation in assemblers",
+    "url": "https://maskray.me/blog/2025-03-16-relocation-generation-in-assemblers",
+    "timestamp": 1742179382,
+    "summary": "重定位是生成可重定位文件的关键，用于处理汇编时无法确定的符号地址。汇编器通过解析、节布局和重定位决策三个阶段生成重定位条目。重定位表达式包含说明符、加数符号等，指导汇编器解析和编码指令。GNU汇编器和LLVM在内部使用不同结构处理修复和重定位表达式，但都旨在将符号引用转换为最终地址，确保程序在链接或加载时能正确执行。\n"
   }
 ]
