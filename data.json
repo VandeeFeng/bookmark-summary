@@ -806,5 +806,13 @@
     "url": "https://blog.det.life/a-practitioners-guide-to-developing-data-engineering-solutions-with-databricks-1db5134ad831",
     "timestamp": 1742274130,
     "summary": "本文探讨了在Databricks中开发数据工程解决方案的最佳实践。强调了开发和测试环境的重要性，并介绍了Databricks提供的各种工具和功能，如Notebook测试、Repos等，以支持高质量的代码开发和测试。文章还深入讨论了如何解决常见数据工程挑战，如变更数据捕获(CDC)以及优于手动分区的逻辑数据组织。总体目标是确保数据在正确的时间以正确的格式提供给正确的利益相关者。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Building a Local Data Lake from scratch with MinIO, Iceberg, Spark, StarRocks, Mage, and Docker",
+    "url": "https://blog.det.life/building-a-local-data-lake-from-scratch-with-minio-iceberg-spark-starrocks-mage-and-docker-c12436e6ff9d",
+    "timestamp": 1742274250,
+    "summary": "本文介绍了如何利用MinIO、Iceberg、Spark、StarRocks和Mage构建本地数据湖。通过Docker容器化部署，Mage编排数据管道，MinIO存储数据，Iceberg管理表格式，StarRocks直接查询数据湖数据。文章提供了一个Airbnb数据集的ETL实践案例，展示了数据工程项目的核心流程。\n"
   }
 ]
