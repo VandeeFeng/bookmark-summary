@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-18) [Stupid Smart Pointers in C](2025/03/2025-03-18-stupid-smart-pointers-in-c.md)
 - (2025-03-17) [Relocation generation in assemblers](2025/03/2025-03-17-relocation-generation-in-assemblers.md)
 - (2025-03-15) [The Bitter Lesson](2025/03/2025-03-15-the-bitter-lesson.md)
 - (2025-03-15) [Actual LLM agents are coming](2025/03/2025-03-15-actual-llm-agents-are-coming.md)
