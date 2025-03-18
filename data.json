@@ -814,5 +814,13 @@
     "url": "https://blog.det.life/building-a-local-data-lake-from-scratch-with-minio-iceberg-spark-starrocks-mage-and-docker-c12436e6ff9d",
     "timestamp": 1742274250,
     "summary": "本文介绍了如何利用MinIO、Iceberg、Spark、StarRocks和Mage构建本地数据湖。通过Docker容器化部署，Mage编排数据管道，MinIO存储数据，Iceberg管理表格式，StarRocks直接查询数据湖数据。文章提供了一个Airbnb数据集的ETL实践案例，展示了数据工程项目的核心流程。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "React Libraries for 2025",
+    "url": "https://www.robinwieruch.de/react-libraries/",
+    "timestamp": 1742300405,
+    "summary": "2025年React库选型建议：Vite/Next.js/Astro构建项目，npm/pnpm管理依赖；useState/useReducer处理简单状态，Zustand管理全局状态；TanStack Query获取数据，Tailwind CSS/CSS Modules设计样式；ESLint/Prettier规范代码；Vitest/React Testing Library测试。另推荐用于身份验证，数据库，测试，国际化，富文本编辑器，支付和VR/AR等方面的库。核心仍是函数组件和Hooks。\n"
   }
 ]
