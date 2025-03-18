@@ -822,5 +822,13 @@
     "url": "https://www.robinwieruch.de/react-libraries/",
     "timestamp": 1742300405,
     "summary": "2025年React库选型建议：Vite/Next.js/Astro构建项目，npm/pnpm管理依赖；useState/useReducer处理简单状态，Zustand管理全局状态；TanStack Query获取数据，Tailwind CSS/CSS Modules设计样式；ESLint/Prettier规范代码；Vitest/React Testing Library测试。另推荐用于身份验证，数据库，测试，国际化，富文本编辑器，支付和VR/AR等方面的库。核心仍是函数组件和Hooks。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Cursor for Large Projects",
+    "url": "https://getstream.io/blog/cursor-ai-large-projects/",
+    "timestamp": 1742300621,
+    "summary": "文章介绍了如何利用Cursor AI高效开发和维护大型项目，核心在于建立编辑-测试循环，让AI通过测试自我纠正。关键步骤包括：使用Agent模式和Claude 3.7 sonnet模型；为AI提供代码库最佳实践文档；使用项目文件明确目标；保持代码规范。通过这些方法，可显著提升开发效率，工程师专注于更复杂问题。\n"
   }
 ]
