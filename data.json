@@ -838,5 +838,13 @@
     "url": "https://karpathy.bearblog.dev/the-append-and-review-note/",
     "timestamp": 1742448388,
     "summary": "作者推荐“附加和回顾笔记”方法，即用单个纯文本笔记记录所有内容，无需复杂分类，仅用简单标签辅助搜索。随时将新想法添加到笔记顶部，定期回顾整理，重要信息置顶，不重要内容沉淀。这种方法适用于生活、工作各场景，能有效捕捉灵感，减轻认知负担，并促进知识沉淀和新思路的产生。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
+    "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
+    "timestamp": 1742448839,
+    "summary": "“随性编程”指完全依赖LLM生成代码，忽略代码质量，适用于低风险项目。它降低了编程门槛，让非专业人士也能自动化任务，也帮助开发者快速了解LLM能力。专业软件开发则需要代码审查、测试和理解。改进方向是提升“随性编程”的安全性，例如使用沙盒环境，并区分其与专业LLM辅助编程的区别。\n"
   }
 ]
