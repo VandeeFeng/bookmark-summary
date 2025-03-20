@@ -830,5 +830,13 @@
     "url": "https://getstream.io/blog/cursor-ai-large-projects/",
     "timestamp": 1742300621,
     "summary": "文章介绍了如何利用Cursor AI高效开发和维护大型项目，核心在于建立编辑-测试循环，让AI通过测试自我纠正。关键步骤包括：使用Agent模式和Claude 3.7 sonnet模型；为AI提供代码库最佳实践文档；使用项目文件明确目标；保持代码规范。通过这些方法，可显著提升开发效率，工程师专注于更复杂问题。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "The append-and-review note",
+    "url": "https://karpathy.bearblog.dev/the-append-and-review-note/",
+    "timestamp": 1742448388,
+    "summary": "作者推荐“附加和回顾笔记”方法，即用单个纯文本笔记记录所有内容，无需复杂分类，仅用简单标签辅助搜索。随时将新想法添加到笔记顶部，定期回顾整理，重要信息置顶，不重要内容沉淀。这种方法适用于生活、工作各场景，能有效捕捉灵感，减轻认知负担，并促进知识沉淀和新思路的产生。\n"
   }
 ]

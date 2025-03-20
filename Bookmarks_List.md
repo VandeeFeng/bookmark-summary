@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-20) [The append-and-review note](2025/03/2025-03-20-the-append-and-review-note.md)
 - (2025-03-18) [Cursor for Large Projects](2025/03/2025-03-18-cursor-for-large-projects.md)
 - (2025-03-18) [React Libraries for 2025](2025/03/2025-03-18-react-libraries-for-2025.md)
 - (2025-03-18) [Building a Local Data Lake from scratch with MinIO, Iceberg, Spark, StarRocks, Mage, and Docker](2025/03/2025-03-18-building-a-local-data-lake-from-scratch-with-minio,-iceberg,-spark,-starrocks,-mage,-and-docker.md)
