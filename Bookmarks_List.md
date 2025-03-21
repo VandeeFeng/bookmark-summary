@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-21) [情绪智能](2025/03/2025-03-21-情绪智能.md)
 - (2025-03-21) [On inheritance and subtyping](2025/03/2025-03-21-on-inheritance-and-subtyping.md)
 - (2025-03-20) [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](2025/03/2025-03-20-not-all-ai-assisted-programming-is-vibe-coding-(but-vibe-coding-rocks).md)
 - (2025-03-20) [The append-and-review note](2025/03/2025-03-20-the-append-and-review-note.md)

@@ -854,5 +854,13 @@
     "url": "https://blog.frankel.ch/on-inheritance/",
     "timestamp": 1742526901,
     "summary": "本文回顾了不同语言中继承的实现。Java紧密关联继承与子类型；Go使用鸭子类型隐式实现；Python同时支持显式继承和鸭子类型，并引入PEP 544实现静态鸭子类型。理解这些差异，并关注新语言的独特之处，对编写地道代码和提升编程理解至关重要。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "情绪智能",
+    "url": "https://baoyu.io/blog/improve-emotional-intelligence",
+    "timestamp": 1742527200,
+    "summary": "本文强调了在AGI时代情绪智能的重要性，包括自我觉察、调节、激励、共情和社交技能五大核心能力。文章提炼了Joe Hudson提升情绪智能的50条智慧，涵盖自我认知到人际交往。核心在于理解情绪、接纳自我，而非压抑或控制情绪。最终目标是回归真实、完整的自我，而非成为某种理想化的形象。\n"
   }
 ]
