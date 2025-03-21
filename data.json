@@ -870,5 +870,13 @@
     "url": "https://collabfund.com/blog/turning-$5m-into-$100m/",
     "timestamp": 1742527277,
     "summary": "风险投资回报遵循幂律分布，需在少量高潜力项目集中投资。虽凯利判据等模型有参考价值，但无法完美适用风险投资。集中投资回报高风险也高，分散投资更稳健。投资决策应基于对团队和市场的坚定信念。风险投资既是科学也是艺术，挑战在于把握集中风险的时机并接受结果。"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Build a Container Image from Scratch",
+    "url": "https://danishpraka.sh/posts/build-a-container-image-from-scratch/",
+    "timestamp": 1742547620,
+    "summary": "本文深入解析了容器镜像的内部构造，包括OCI规范、层构建、配置、清单和索引等核心概念。重点强调了层作为文件系统变更集的重要性，以及内容寻址在数据去重和完整性校验中的作用。文章通过对比从scratch和alpine构建镜像的差异，展示了容器引擎如何利用这些组件构建和运行容器。最终，解答了容器镜像的工作原理。\n"
   }
 ]
