@@ -846,5 +846,13 @@
     "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
     "timestamp": 1742448839,
     "summary": "“随性编程”指完全依赖LLM生成代码，忽略代码质量，适用于低风险项目。它降低了编程门槛，让非专业人士也能自动化任务，也帮助开发者快速了解LLM能力。专业软件开发则需要代码审查、测试和理解。改进方向是提升“随性编程”的安全性，例如使用沙盒环境，并区分其与专业LLM辅助编程的区别。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "On inheritance and subtyping",
+    "url": "https://blog.frankel.ch/on-inheritance/",
+    "timestamp": 1742526901,
+    "summary": "本文回顾了不同语言中继承的实现。Java紧密关联继承与子类型；Go使用鸭子类型隐式实现；Python同时支持显式继承和鸭子类型，并引入PEP 544实现静态鸭子类型。理解这些差异，并关注新语言的独特之处，对编写地道代码和提升编程理解至关重要。\n"
   }
 ]
