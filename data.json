@@ -902,5 +902,13 @@
     "url": "https://hiwannz.com/archives/1159.html",
     "timestamp": 1742725624,
     "summary": "本文探讨了AI技术在业务中的应用，客户希望AI产品快速集成并实现差异化。文章回顾了AI发展史上的关键人物及其贡献，指出AI发展并非一帆风顺，但已度过“通用智能”探索阶段，需向通用人工智能方向细化。作者对AI持有复杂情感，受益于其效率提升，但也担忧过度信任可能带来的问题，并对AI改变世界的进度持观望态度。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "attention is logarithmic, actually",
+    "url": "https://supaiku.com/attention-is-logarithmic",
+    "timestamp": 1742729481,
+    "summary": "本文指出传统时间复杂度不适用于并行计算，提出使用Work-Depth模型分析算法。分析显示，元素级乘法、向量求和、矩阵乘法的Depth复杂度分别为O(1)、O(log n)、O(log n)，由此得出Transformer的Attention机制Depth复杂度为O(log n + log d)。但Depth分析忽略内存访问，实际性能受缓存影响。未来芯片设计需关注权重数据的局部性以优化深度学习模型。\n"
   }
 ]
