@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-23) [LLM Powered Autonomous Agents](2025/03/2025-03-23-llm-powered-autonomous-agents.md)
 - (2025-03-21) [Build a Container Image from Scratch](2025/03/2025-03-21-build-a-container-image-from-scratch.md)
 - (2025-03-21) [Turning $5M Into $100M](2025/03/2025-03-21-turning-$5m-into-$100m.md)
 - (2025-03-21) [情绪智能](2025/03/2025-03-21-情绪智能.md)

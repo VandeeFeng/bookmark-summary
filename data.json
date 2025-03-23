@@ -878,5 +878,13 @@
     "url": "https://danishpraka.sh/posts/build-a-container-image-from-scratch/",
     "timestamp": 1742547620,
     "summary": "本文深入解析了容器镜像的内部构造，包括OCI规范、层构建、配置、清单和索引等核心概念。重点强调了层作为文件系统变更集的重要性，以及内容寻址在数据去重和完整性校验中的作用。文章通过对比从scratch和alpine构建镜像的差异，展示了容器引擎如何利用这些组件构建和运行容器。最终，解答了容器镜像的工作原理。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "LLM Powered Autonomous Agents",
+    "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+    "timestamp": 1742724042,
+    "summary": "本文概述了基于大型语言模型（LLM）构建自主代理的关键组成，包括规划、记忆和工具使用。规划涉及任务分解和自我反思；记忆分为短期（上下文学习）和长期（外部向量存储）；工具使用则是通过API调用扩展LLM能力。文章还讨论了相关框架、基准以及实际应用案例，并指出了当前自主代理面临的挑战，例如有限的上下文长度和长期规划。\n"
   }
 ]
