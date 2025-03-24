@@ -926,5 +926,13 @@
     "url": "https://invertedpassion.com/dont-compete/",
     "timestamp": 1742812671,
     "summary": "社会通过奖励机制鼓励竞争，促进发展，但“赢者通吃”的法则使多数人难以成功。社会制造“现实扭曲场”激励竞争，虽有利社会，却未必利于个体。作者提倡不竞争的生活方式，即专注于个人价值实现，享受他人竞争成果，从事热爱之事，摆脱社会价值观束缚，追求内在满足感。若人人如此，社会整体幸福感将提升，专注“无限游戏”。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Improving Recommendation Systems & Search in the Age of LLMs",
+    "url": "https://eugeneyan.com/writing/recsys-llm/",
+    "timestamp": 1742834140,
+    "summary": "大型语言模型（LLM）正深刻影响搜索和推荐系统。模型架构上，越来越多地采用LLM和多模态内容增强，以克服传统ID方法的局限性。LLM还被用于辅助数据生成和分析，解决数据稀缺问题。训练方法上，借鉴了LLM的扩展法则、迁移学习、知识蒸馏和LoRA等技术。同时，搜索和推荐正走向统一架构，以处理多样化的任务。\n"
   }
 ]

@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-24) [Improving Recommendation Systems & Search in the Age of LLMs](2025/03/2025-03-24-improving-recommendation-systems-&-search-in-the-age-of-llms.md)
 - (2025-03-24) [Don't compete](2025/03/2025-03-24-don't-compete.md)
 - (2025-03-24) [What Are Agentic Workflows? Patterns, Use Cases, Examples, and More](2025/03/2025-03-24-what-are-agentic-workflows-patterns,-use-cases,-examples,-and-more.md)
 - (2025-03-23) [attention is logarithmic, actually](2025/03/2025-03-23-attention-is-logarithmic,-actually.md)
