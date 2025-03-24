@@ -918,5 +918,13 @@
     "url": "https://weaviate.io/blog/what-are-agentic-workflows",
     "timestamp": 1742785673,
     "summary": "本文介绍了AI agent及其核心组件：推理能力、工具使用和记忆。Agentic workflow是由AI agent动态执行的步骤序列，具有响应性，适应性和自我进化性。它主要包含计划、工具使用和反思三种模式，并已应用于Agentic RAG、研究助理和编码助理等领域。Agentic workflow优势在于其灵活性和适应性，但也存在着复杂性和可靠性等局限性。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Don't compete",
+    "url": "https://invertedpassion.com/dont-compete/",
+    "timestamp": 1742812671,
+    "summary": "社会通过奖励机制鼓励竞争，促进发展，但“赢者通吃”的法则使多数人难以成功。社会制造“现实扭曲场”激励竞争，虽有利社会，却未必利于个体。作者提倡不竞争的生活方式，即专注于个人价值实现，享受他人竞争成果，从事热爱之事，摆脱社会价值观束缚，追求内在满足感。若人人如此，社会整体幸福感将提升，专注“无限游戏”。\n"
   }
 ]
