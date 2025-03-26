@@ -934,5 +934,13 @@
     "url": "https://eugeneyan.com/writing/recsys-llm/",
     "timestamp": 1742834140,
     "summary": "大型语言模型（LLM）正深刻影响搜索和推荐系统。模型架构上，越来越多地采用LLM和多模态内容增强，以克服传统ID方法的局限性。LLM还被用于辅助数据生成和分析，解决数据稀缺问题。训练方法上，借鉴了LLM的扩展法则、迁移学习、知识蒸馏和LoRA等技术。同时，搜索和推荐正走向统一架构，以处理多样化的任务。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Better Shell History Search",
+    "url": "https://tratt.net/laurie/blog/2025/better_shell_history_search.html",
+    "timestamp": 1742966080,
+    "summary": "文章介绍了如何通过优化zsh配置，提高Unix终端的命令搜索效率。核心方法是利用`Ctrl-r`结合`fzf`或`skim`进行模糊匹配，并自定义`history-widget`函数，配合`awk`命令处理时间戳，在命令历史中显示相对时间，而非默认的整数ID。这种方式能够帮助用户更快速地定位所需命令，显著提升终端工作效率。即使是微小的优化，长期下来也会产生巨大的价值。\n"
   }
 ]
