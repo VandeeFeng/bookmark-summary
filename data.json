@@ -942,5 +942,13 @@
     "url": "https://tratt.net/laurie/blog/2025/better_shell_history_search.html",
     "timestamp": 1742966080,
     "summary": "文章介绍了如何通过优化zsh配置，提高Unix终端的命令搜索效率。核心方法是利用`Ctrl-r`结合`fzf`或`skim`进行模糊匹配，并自定义`history-widget`函数，配合`awk`命令处理时间戳，在命令历史中显示相对时间，而非默认的整数ID。这种方式能够帮助用户更快速地定位所需命令，显著提升终端工作效率。即使是微小的优化，长期下来也会产生巨大的价值。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Notes on MCP",
+    "url": "https://taoofmac.com/space/notes/2025/03/22/1900",
+    "timestamp": 1743229063,
+    "summary": "作者对 Anthropic 的 MCP 评价不高，认为其设计复杂，过度封装，重复造轮子包装现有API，且面向连接的状态设计不适合无状态环境。MCP 倾向于在上下文中添加过多选项，token消耗大且模型行为不稳定。作者更倾向于使用标准工具调用和端点发现，不看好 MCP 的设计。\n"
   }
 ]
