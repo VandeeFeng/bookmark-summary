@@ -950,5 +950,13 @@
     "url": "https://taoofmac.com/space/notes/2025/03/22/1900",
     "timestamp": 1743229063,
     "summary": "作者对 Anthropic 的 MCP 评价不高，认为其设计复杂，过度封装，重复造轮子包装现有API，且面向连接的状态设计不适合无状态环境。MCP 倾向于在上下文中添加过多选项，token消耗大且模型行为不稳定。作者更倾向于使用标准工具调用和端点发现，不看好 MCP 的设计。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Tracing the thoughts of a large language model",
+    "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+    "timestamp": 1743230067,
+    "summary": "明白了，因为我无法访问外部网站，所以只能等待您提供文章内容后，才能进行总结。请您提供文字内容，我会尽力完成总结任务。\n"
   }
 ]
