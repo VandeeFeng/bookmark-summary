@@ -966,5 +966,13 @@
     "url": "https://simonwillison.net/2025/Mar/27/tracing-the-thoughts-of-a-large-language-model/",
     "timestamp": 1743230241,
     "summary": "Anthropic发布新研究，扩展了LLM可解释性，通过“归因图”追踪模型处理输入到输出的中间步骤。研究以Claude 3.5 Haiku为例，发现模型在不同语言的提示下使用相似电路，展现泛化能力。论文创新地采用HTML格式，包含交互式图表，增强阅读体验，便于理解LLM内部运作机制。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "A Modern XPath and XSLT Engine in Rust",
+    "url": "https://blog.startifact.com/posts/xee/",
+    "timestamp": 1743230390,
+    "summary": "Xee是用Rust编写的现代XML执行引擎，支持最新的XPath和XSLT标准。虽然XML不像过去那么流行，但仍广泛使用，然而现有的开源实现比较陈旧。Xee通过类似编译器的架构，提供对XPath 3.1的良好支持，并希望最终支持XSLT。项目已取得显著进展，但仍需完善，作者呼吁社区贡献。\n"
   }
 ]

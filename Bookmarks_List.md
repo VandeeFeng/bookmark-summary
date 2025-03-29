@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-03-29) [A Modern XPath and XSLT Engine in Rust](2025/03/2025-03-29-a-modern-xpath-and-xslt-engine-in-rust.md)
 - (2025-03-29) [Tracing the thoughts of a large language model](2025/03/2025-03-29-tracing-the-thoughts-of-a-large-language-model.md)
 - (2025-03-29) [Tracing the thoughts of a large language model](2025/03/2025-03-29-tracing-the-thoughts-of-a-large-language-model.md)
 - (2025-03-29) [Notes on MCP](2025/03/2025-03-29-notes-on-mcp.md)
