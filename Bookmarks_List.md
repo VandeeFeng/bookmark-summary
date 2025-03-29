@@ -5,6 +5,7 @@ Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签
 
 ## Summarized Bookmarks
 - (2025-03-29) [Tracing the thoughts of a large language model](2025/03/2025-03-29-tracing-the-thoughts-of-a-large-language-model.md)
+- (2025-03-29) [Tracing the thoughts of a large language model](2025/03/2025-03-29-tracing-the-thoughts-of-a-large-language-model.md)
 - (2025-03-29) [Notes on MCP](2025/03/2025-03-29-notes-on-mcp.md)
 - (2025-03-26) [Better Shell History Search](2025/03/2025-03-26-better-shell-history-search.md)
 - (2025-03-24) [Improving Recommendation Systems & Search in the Age of LLMs](2025/03/2025-03-24-improving-recommendation-systems-&-search-in-the-age-of-llms.md)

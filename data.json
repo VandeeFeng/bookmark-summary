@@ -958,5 +958,13 @@
     "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
     "timestamp": 1743230067,
     "summary": "明白了，因为我无法访问外部网站，所以只能等待您提供文章内容后，才能进行总结。请您提供文字内容，我会尽力完成总结任务。\n"
+  },
+  {
+    "year": "2025",
+    "month": "03",
+    "title": "Tracing the thoughts of a large language model",
+    "url": "https://simonwillison.net/2025/Mar/27/tracing-the-thoughts-of-a-large-language-model/",
+    "timestamp": 1743230241,
+    "summary": "Anthropic发布新研究，扩展了LLM可解释性，通过“归因图”追踪模型处理输入到输出的中间步骤。研究以Claude 3.5 Haiku为例，发现模型在不同语言的提示下使用相似电路，展现泛化能力。论文创新地采用HTML格式，包含交互式图表，增强阅读体验，便于理解LLM内部运作机制。\n"
   }
 ]
