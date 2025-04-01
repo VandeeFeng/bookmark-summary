@@ -982,5 +982,13 @@
     "url": "https://mp.weixin.qq.com/s/LrMD_VUsy6fy6jycwsusjA",
     "timestamp": 1743309777,
     "summary": "文章通过“我家的狗不咬人”这一常见语，揭露了社会中无视规则、侵占公共资源的现象。部分人将公共空间视为私人“猎场”，破坏规则而不受惩罚，引发连锁反应，导致公共秩序崩塌。文章以反讽的方式强调建立公共意识、维护公共规则的重要性，呼吁共同维护公共秩序。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "使用自动化工作流聚合信息摄入和输出",
+    "url": "https://reorx.com/blog/sharing-my-footprints-automation/",
+    "timestamp": 1743516143,
+    "summary": "作者分享了利用 n8n 自动化工具聚合个人网络信息的心得，解决信息分散、方便回溯和分享的需求。通过 n8n 将 Twitter、博客、Spotify、YouTube 等平台的信息自动同步到 Telegram 频道。文章详细介绍了 n8n 的配置方法和多个 workflow 的创建过程，包括异常监控的设置，并强调实现结果的重要性，工具只是手段。\n"
   }
 ]

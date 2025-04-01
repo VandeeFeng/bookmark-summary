@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-01) [使用自动化工作流聚合信息摄入和输出](2025/04/2025-04-01-使用自动化工作流聚合信息摄入和输出.md)
 - (2025-03-30) [我家的狗不咬人](2025/03/2025-03-30-我家的狗不咬人.md)
 - (2025-03-29) [A Modern XPath and XSLT Engine in Rust](2025/03/2025-03-29-a-modern-xpath-and-xslt-engine-in-rust.md)
 - (2025-03-29) [Tracing the thoughts of a large language model](2025/03/2025-03-29-tracing-the-thoughts-of-a-large-language-model.md)
