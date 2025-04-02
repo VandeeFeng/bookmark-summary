@@ -990,5 +990,13 @@
     "url": "https://reorx.com/blog/sharing-my-footprints-automation/",
     "timestamp": 1743516143,
     "summary": "作者分享了利用 n8n 自动化工具聚合个人网络信息的心得，解决信息分散、方便回溯和分享的需求。通过 n8n 将 Twitter、博客、Spotify、YouTube 等平台的信息自动同步到 Telegram 频道。文章详细介绍了 n8n 的配置方法和多个 workflow 的创建过程，包括异常监控的设置，并强调实现结果的重要性，工具只是手段。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "我们高估了智力的重要性",
+    "url": "https://lutaonan.com/blog/oi/",
+    "timestamp": 1743602768,
+    "summary": "在AI时代，智力并非成功的唯一决定因素，尤其对智力水平一般的个体。自我效能，即相信自己能完成任务的信念，变得更为重要且稀缺。智力重要性被高估，特别是对临界点以下的人。自我效能可以通过掌控经验、替代经验、积极鼓励和调节情绪等方式后天训练，以弥补智力上的不足，并在AI赋能下取得成功。\n"
   }
 ]
