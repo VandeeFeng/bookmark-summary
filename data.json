@@ -1006,5 +1006,13 @@
     "url": "https://interconnected.org/home/2025/04/03/september",
     "timestamp": 1743757589,
     "summary": "作者回顾并推荐了一系列网站，这些网站记录了互联网和计算机早期历史的重要时刻。包括Cybercultural的Web转型记录，The History of the Web的编程语言和在线出版历史，Folklore的Macintosh开发轶事，50 Years of Text Games的文本游戏文化，以及Benj Edwards的科技历史文章。作者对早期互联网将计算机带入生活，及其背后未被充分挖掘的技术和文化现象充满兴趣。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "数据是如何转发的",
+    "url": "https://www.kawabangga.com/posts/6919",
+    "timestamp": 1743824457,
+    "summary": "本文科普了网络转发原理，核心在于所有转发的本质是二层转发，通过修改MAC地址实现。`traceroute`利用TTL递增的ICMP包追踪路径。 “流”的概念保证同源、同目的数据包走相同路径，尽量避免乱序，减少TCP负担，提高传输效率。文章还介绍了计算机网络实用技术系列，分享实战案例。\n"
   }
 ]
