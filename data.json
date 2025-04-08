@@ -1014,5 +1014,13 @@
     "url": "https://www.kawabangga.com/posts/6919",
     "timestamp": 1743824457,
     "summary": "本文科普了网络转发原理，核心在于所有转发的本质是二层转发，通过修改MAC地址实现。`traceroute`利用TTL递增的ICMP包追踪路径。 “流”的概念保证同源、同目的数据包走相同路径，尽量避免乱序，减少TCP负担，提高传输效率。文章还介绍了计算机网络实用技术系列，分享实战案例。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）",
+    "url": "https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca",
+    "timestamp": 1744080810,
+    "summary": "互联网天才亚伦·斯沃茨是信息自由的斗士，他参与创建RSS、CC协议和Markdown，推动知识共享。因反对PACER收费和大量下载JSTOR文献，他受到指控，在重压下自杀。他的离世引发社会反响，激励人们捍卫互联网自由。亚伦对效率和自省的见解深刻，其精神和贡献将被铭记。\n"
   }
 ]

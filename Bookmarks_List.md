@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-08) [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](2025/04/2025-04-08-棱镜通讯-no.113-亚伦·斯沃兹（aaron-swartz）.md)
 - (2025-04-05) [数据是如何转发的](2025/04/2025-04-05-数据是如何转发的.md)
 - (2025-04-04) [Between early computing and modern computing: some cultural histories](2025/04/2025-04-04-between-early-computing-and-modern-computing-some-cultural-histories.md)
 - (2025-04-02) [我们高估了智力的重要性](2025/04/2025-04-02-我们高估了智力的重要性.md)
