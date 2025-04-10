@@ -1046,5 +1046,13 @@
     "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
     "timestamp": 1744267325,
     "summary": "文章揭示了模型上下文协议(MCP)在工具安全性方面的严重缺陷，如工具定义篡改、跨服务器劫持及工具中毒攻击，攻击者可利用这些漏洞窃取用户私有数据。通过模拟WhatsApp MCP漏洞，展示了如何窃取用户消息历史。文章强调，LLM接触不可信输入且有执行工具权限时风险极高，需加强人为干预，使用户了解并确认工具调用，警惕恶意工具组合，以提升MCP安全性。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Introducing AutoRAG: fully managed Retrieval-Augmented Generation on Cloudflare",
+    "url": "https://blog.cloudflare.com/introducing-autorag-on-cloudflare/",
+    "timestamp": 1744268009,
+    "summary": "Cloudflare 推出了开放测试的 AutoRAG，这是一个完全托管的 RAG 管道，旨在简化开发者将上下文感知 AI 集成到应用程序的过程。AutoRAG 自动分块、嵌入数据，使用 Vectorize 存储向量，并用 Workers AI 生成高质量响应。它持续监视数据源并在后台建立索引，确保 AI 响应及时更新。AutoRAG 免费启用，但会根据 Cloudflare 资源的使用情况进行计费。\n"
   }
 ]
