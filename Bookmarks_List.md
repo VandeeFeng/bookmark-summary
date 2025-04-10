@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-10) [Model Context Protocol has prompt injection security problems](2025/04/2025-04-10-model-context-protocol-has-prompt-injection-security-problems.md)
 - (2025-04-10) [The Best Programmers I Know](2025/04/2025-04-10-the-best-programmers-i-know.md)
 - (2025-04-08) [The Same Heaven](2025/04/2025-04-08-the-same-heaven.md)
 - (2025-04-08) [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](2025/04/2025-04-08-棱镜通讯-no.113-亚伦·斯沃兹（aaron-swartz）.md)

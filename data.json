@@ -1038,5 +1038,13 @@
     "url": "https://endler.dev/2025/best-programmers/",
     "timestamp": 1744267244,
     "summary": "优秀程序员应具备查阅官方文档、深入理解工具原理、细致解读错误信息、分解复杂问题、持续学习新技术的品质。他们不怕实践，乐于助人，勤于写作分享，不拘泥于身份学习，并耐心解决问题，从不盲目猜测。通过积累声誉，保持代码简洁，最终成为卓越的工程师，重点在于脚踏实地，而非投机取巧。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Model Context Protocol has prompt injection security problems",
+    "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
+    "timestamp": 1744267325,
+    "summary": "文章揭示了模型上下文协议(MCP)在工具安全性方面的严重缺陷，如工具定义篡改、跨服务器劫持及工具中毒攻击，攻击者可利用这些漏洞窃取用户私有数据。通过模拟WhatsApp MCP漏洞，展示了如何窃取用户消息历史。文章强调，LLM接触不可信输入且有执行工具权限时风险极高，需加强人为干预，使用户了解并确认工具调用，警惕恶意工具组合，以提升MCP安全性。\n"
   }
 ]
