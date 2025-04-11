@@ -1054,5 +1054,13 @@
     "url": "https://blog.cloudflare.com/introducing-autorag-on-cloudflare/",
     "timestamp": 1744268009,
     "summary": "Cloudflare 推出了开放测试的 AutoRAG，这是一个完全托管的 RAG 管道，旨在简化开发者将上下文感知 AI 集成到应用程序的过程。AutoRAG 自动分块、嵌入数据，使用 Vectorize 存储向量，并用 Workers AI 生成高质量响应。它持续监视数据源并在后台建立索引，确保 AI 响应及时更新。AutoRAG 免费启用，但会根据 Cloudflare 资源的使用情况进行计费。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Be A Property Owner And Not A Renter On The Internet",
+    "url": "https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/",
+    "timestamp": 1744341318,
+    "summary": "互联网生态集中化带来用户黏性问题。拥有自己的网站，优化内容可移植性是关键。不要把所有精力放在单一网络，避免链接农场式互动，应有意义地参与社区。尽可能在自己的网站建立核心价值，利用开放标准，方便用户访问。在社交媒体分享内容摘要和链接，引导用户访问“家园”。逐步改进，持续更新，构建蓬勃数字空间。\n"
   }
 ]
