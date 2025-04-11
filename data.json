@@ -1070,5 +1070,13 @@
     "url": "https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai",
     "timestamp": 1744341417,
     "summary": "文章指出情报分析人员过度依赖GenAI工具，导致批判性思维下降。案例显示，AI可能在图像验证、人物分析、虚假信息识别等方面出错。分析师应转变为AI的监督者，通过引入摩擦、重建溯源、交叉验证等方法复兴批判性思维，并使用检查清单避免过度依赖AI。判断力至关重要，不能完全依赖AI来完成情报搜集工作。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Why I Program in Lisp",
+    "url": "http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html",
+    "timestamp": 1744382710,
+    "summary": "作者偏爱Lisp语言，尽管其流行度不高。Lisp凭借简洁统一的前缀表达式语法，降低了认知负担，并良好支持函数式编程，方便代码重构和抽象。动态类型提升了代码通用性，REPL环境和调试器加快了开发速度。总而言之，Lisp为思考和解决问题提供了一种优秀的工具，使编程体验更佳。\n"
   }
 ]
