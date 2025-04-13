@@ -1078,5 +1078,13 @@
     "url": "http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html",
     "timestamp": 1744382710,
     "summary": "作者偏爱Lisp语言，尽管其流行度不高。Lisp凭借简洁统一的前缀表达式语法，降低了认知负担，并良好支持函数式编程，方便代码重构和抽象。动态类型提升了代码通用性，REPL环境和调试器加快了开发速度。总而言之，Lisp为思考和解决问题提供了一种优秀的工具，使编程体验更佳。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Emacs Lisp Elements",
+    "url": "https://protesilaos.com/emacs/emacs-lisp-elements",
+    "timestamp": 1744508860,
+    "summary": "本文概要介绍了Emacs Lisp（Elisp）编程，它驱动着Emacs文本编辑器的各种操作。通过评估Elisp代码，用户可以定制Emacs功能。文章涵盖了Elisp的基础知识，如代码评估、副作用、返回值、Buffer的使用，以及控制流、错误处理等高级特性。理解这些概念有助于编写自定义扩展，从而提升Emacs的使用效率和个性化体验。\n"
   }
 ]
