@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-13) [网络抓包的技巧](2025/04/2025-04-13-网络抓包的技巧.md)
 - (2025-04-13) [Emacs Lisp Elements](2025/04/2025-04-13-emacs-lisp-elements.md)
 - (2025-04-11) [Why I Program in Lisp](2025/04/2025-04-11-why-i-program-in-lisp.md)
 - (2025-04-11) [The Slow Collapse of Critical Thinking in OSINT due to AI](2025/04/2025-04-11-the-slow-collapse-of-critical-thinking-in-osint-due-to-ai.md)
