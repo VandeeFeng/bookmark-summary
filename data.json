@@ -1102,5 +1102,13 @@
     "url": "https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs",
     "timestamp": 1744592311,
     "summary": "作者利用SQLite数据库和定时任务构建了一个名为Stevens的AI助手。Stevens通过Telegram与用户交互，整合日历、天气、邮件等信息，每日生成简报。核心是SQLite表，记录所有信息，数据来源多样，易于扩展。作者强调个人AI工具的关键在于统一的信息存储和可扩展的数据导入器，而非复杂技术，并应融入更广泛的个人信息。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Everything Wrong with MCP",
+    "url": "https://blog.sshh.io/p/everything-wrong-with-mcp",
+    "timestamp": 1744593787,
+    "summary": "模型上下文协议(MCP)作为连接LLM与第三方工具的新标准，虽能增强助手能力，但也存在安全、体验和成本问题。身份验证复杂、运行第三方代码带来安全隐患，LLM友好但人机交互不佳，数据带宽成本高昂，并可能引入提示注入攻击和数据泄露风险，用户对LLM的能力过度期望也加剧了问题。解决这些问题需协议、应用和用户共同努力。\n"
   }
 ]
