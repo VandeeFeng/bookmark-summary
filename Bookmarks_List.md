@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-14) [Short Words to Explain Relativity](2025/04/2025-04-14-short-words-to-explain-relativity.md)
 - (2025-04-14) [Everything Wrong with MCP](2025/04/2025-04-14-everything-wrong-with-mcp.md)
 - (2025-04-14) [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](2025/04/2025-04-14-stevens-a-hackable-ai-assistant-using-a-single-sqlite-table-and-a-handful-of-cron-jobs.md)
 - (2025-04-13) [网络抓包的技巧](2025/04/2025-04-13-网络抓包的技巧.md)
