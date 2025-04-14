@@ -1094,5 +1094,13 @@
     "url": "https://www.kawabangga.com/posts/6950",
     "timestamp": 1744524865,
     "summary": "本文介绍了网络抓包的重要性，以及如何使用 `tcpdump` 和 Wireshark 进行高效的网络分析。`tcpdump` 是常用的抓包工具，通过灵活的过滤表达式可以精确抓取数据。Wireshark 则用于离线分析，可读取 `tcpdump` 生成的 `.pcap` 文件。文章还强调了抓包位置的重要性，并介绍了通过发送带标记的 HTTP 请求定位问题以及 SPAN 交换机抓包等高级技巧，助力网络问题排查。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs",
+    "url": "https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs",
+    "timestamp": 1744592311,
+    "summary": "作者利用SQLite数据库和定时任务构建了一个名为Stevens的AI助手。Stevens通过Telegram与用户交互，整合日历、天气、邮件等信息，每日生成简报。核心是SQLite表，记录所有信息，数据来源多样，易于扩展。作者强调个人AI工具的关键在于统一的信息存储和可扩展的数据导入器，而非复杂技术，并应融入更广泛的个人信息。\n"
   }
 ]
