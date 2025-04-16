@@ -1126,5 +1126,13 @@
     "url": "https://www.pseudoyu.com/posts/weekly_review_91",
     "timestamp": 1744769066,
     "summary": "作者参加杭州一席活动，感触颇深。讲者们或记录北京胡同的智慧与“卡住的一代”的无奈，或讲述日本松本哉如何在泡沫经济后通过另类店铺守护自由意志，引发了作者对逝去时代和自由的思考。在时代变迁中，人们对曾经的理想社会和生活方式的怀念，以及对自由意志的守护，成为了重要的主题。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "How To Build An Agent",
+    "url": "https://ampcode.com/how-to-build-an-agent",
+    "timestamp": 1744773346,
+    "summary": "本文介绍了使用不到400行Go代码构建代码编辑Agent的方法，关键在于利用LLM、循环和token。通过定义`read_file`、`list_files`和`edit_file`等工具，Agent可读取、列举和编辑文件，实现代码修改等任务。该方法依赖LLM能力与合理的工具设计，无需复杂算法。\n"
   }
 ]

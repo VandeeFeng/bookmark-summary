@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-16) [How To Build An Agent](2025/04/2025-04-16-how-to-build-an-agent.md)
 - (2025-04-16) [一席、消失的时代与自由意志](2025/04/2025-04-16-一席、消失的时代与自由意志.md)
 - (2025-04-14) [Short Words to Explain Relativity](2025/04/2025-04-14-short-words-to-explain-relativity.md)
 - (2025-04-14) [Everything Wrong with MCP](2025/04/2025-04-14-everything-wrong-with-mcp.md)
