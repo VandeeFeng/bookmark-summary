@@ -1134,5 +1134,13 @@
     "url": "https://ampcode.com/how-to-build-an-agent",
     "timestamp": 1744773346,
     "summary": "本文介绍了使用不到400行Go代码构建代码编辑Agent的方法，关键在于利用LLM、循环和token。通过定义`read_file`、`list_files`和`edit_file`等工具，Agent可读取、列举和编辑文件，实现代码修改等任务。该方法依赖LLM能力与合理的工具设计，无需复杂算法。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "MCP vs A2A Protocol",
+    "url": "https://www.theunwindai.com/p/mcp-vs-a2a-complementing-or-supplementing",
+    "timestamp": 1744863248,
+    "summary": "MCP和A2A协议是AI开发的新兴标准。MCP由Anthropic推出，旨在统一AI模型与外部数据源及工具的连接方式。Google的A2A协议则致力于实现不同AI Agent间的互操作性和通信。尽管Google认为两者互补，分别处理垂直和水平集成，但文章质疑其长期互补性，认为工具与Agent界限模糊，协议范围可能扩张，且开发者精力及企业竞争可能导致二者竞争。开发者应根据用例、拥抱标准、保持灵活性并关注生态选择协议。\n"
   }
 ]
