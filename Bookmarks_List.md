@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-17) [An Intro to DeepSeek's Distributed File System](2025/04/2025-04-17-an-intro-to-deepseek's-distributed-file-system.md)
 - (2025-04-17) [技术狂飙下的冷思考：大模型的“科林格里奇困境”](2025/04/2025-04-17-技术狂飙下的冷思考：大模型的“科林格里奇困境”.md)
 - (2025-04-17) [从零开始了解推荐系统 - 抖音安全与信任中心](2025/04/2025-04-17-从零开始了解推荐系统---抖音安全与信任中心.md)
 - (2025-04-17) [MCP vs A2A Protocol](2025/04/2025-04-17-mcp-vs-a2a-protocol.md)

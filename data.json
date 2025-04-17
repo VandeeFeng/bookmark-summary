@@ -1158,5 +1158,13 @@
     "url": "https://wangyurui.com/posts/da-mo-xing-de-1f084874",
     "timestamp": 1744904602,
     "summary": "本文指出大模型发展面临科林格里奇困境，虽在人机交互和泛化能力上取得突破，但也带来伦理、监管等问题。文章强调伦理治理需从线性转向敏捷，技术开发与价值嵌入同步。大模型存在幻觉、偏见、可解释性和涌现等缺陷。解决这些问题需数据优化、架构改进、后处理等技术手段，及伦理约束和跨学科突破，以修正技术与伦理的失衡，保护数据和算法主权。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "An Intro to DeepSeek's Distributed File System",
+    "url": "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/",
+    "timestamp": 1744907391,
+    "summary": "DeepSeek开源了分布式文件系统3FS，它通过Meta、Mgmtd、Storage和Client节点协同工作，提供大规模、高吞吐和高可靠的数据存储。Mgmtd节点管理集群配置，Meta节点处理客户端请求并管理元数据，Storage节点存储实际数据并使用ChunkEngine管理磁盘块。 3FS采用CRAQ协议保证数据强一致性和容错性。后续文章将探讨3FS的性能瓶颈、适用场景及其与其他系统的比较。\n"
   }
 ]
