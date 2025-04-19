@@ -1166,5 +1166,13 @@
     "url": "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/",
     "timestamp": 1744907391,
     "summary": "DeepSeek开源了分布式文件系统3FS，它通过Meta、Mgmtd、Storage和Client节点协同工作，提供大规模、高吞吐和高可靠的数据存储。Mgmtd节点管理集群配置，Meta节点处理客户端请求并管理元数据，Storage节点存储实际数据并使用ChunkEngine管理磁盘块。 3FS采用CRAQ协议保证数据强一致性和容错性。后续文章将探讨3FS的性能瓶颈、适用场景及其与其他系统的比较。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "The Second Half",
+    "url": "https://ysymyth.github.io/The-Second-Half/",
+    "timestamp": 1745050607,
+    "summary": "人工智能发展进入“下半场”，重点从训练转向评估，解决“效用问题”是关键。过去AI侧重方法和模型，但在基准测试中优异的表现未能转化为显著的现实效用。因此，需要摆脱对传统基准的依赖，构建更贴近现实、包含人机交互和长期记忆等因素的评估标准，从而推动AI更好地服务于实际应用，创造更大价值。\n"
   }
 ]
