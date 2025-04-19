@@ -1166,5 +1166,13 @@
     "url": "https://ysymyth.github.io/The-Second-Half/",
     "timestamp": 1745050607,
     "summary": "人工智能发展进入“下半场”，重点从训练转向评估，解决“效用问题”是关键。过去AI侧重方法和模型，但在基准测试中优异的表现未能转化为显著的现实效用。因此，需要摆脱对传统基准的依赖，构建更贴近现实、包含人机交互和长期记忆等因素的评估标准，从而推动AI更好地服务于实际应用，创造更大价值。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "MCP vs A2A (Agent2Agent) protocol",
+    "url": "https://readwise.io/reader/shared/01jry96htvhr1ywzpcakdjx43c/",
+    "timestamp": 1745085131,
+    "summary": "Agent-to-Agent (A2A) 协议旨在让多个AI智能代理在不共享内部信息的情况下协作完成任务。每个代理通过发布包含自身能力和认证信息的“代理卡”来实现能力发现和身份验证。A2A协议支持安全协作、任务管理、用户体验协商，并能与模型控制协议 (MCP) 集成，从而实现更复杂的Agentic应用。标准化代理间协作与MCP标准化代理与工具交互同样重要。\n"
   }
 ]
