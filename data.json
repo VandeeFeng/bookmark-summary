@@ -1174,5 +1174,13 @@
     "url": "https://readwise.io/reader/shared/01jry96htvhr1ywzpcakdjx43c/",
     "timestamp": 1745085131,
     "summary": "Agent-to-Agent (A2A) 协议旨在让多个AI智能代理在不共享内部信息的情况下协作完成任务。每个代理通过发布包含自身能力和认证信息的“代理卡”来实现能力发现和身份验证。A2A协议支持安全协作、任务管理、用户体验协商，并能与模型控制协议 (MCP) 集成，从而实现更复杂的Agentic应用。标准化代理间协作与MCP标准化代理与工具交互同样重要。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Executable Code Actions Elicit Better LLM Agents",
+    "url": "https://readwise.io/reader/shared/01jqgarmq8875pv7d3j09emwe6/",
+    "timestamp": 1745085203,
+    "summary": "本文解读了 ReAct 模型的演进版本 CodeAct。ReAct 通过口头表达简化Agent开发，而 CodeAct 则用可执行的 Python 代码替代固定 Tool，利用 Python 库的丰富性，极大地增强了 Agent 处理复杂任务的能力。CodeAct 继承了 ReAct 的工作流，使 Agent 具备自我调试的潜力，并体现了学术成果对技术发展的推动作用。\n"
   }
 ]

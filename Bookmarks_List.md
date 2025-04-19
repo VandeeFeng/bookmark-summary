@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-19) [Executable Code Actions Elicit Better LLM Agents](2025/04/2025-04-19-executable-code-actions-elicit-better-llm-agents.md)
 - (2025-04-19) [MCP vs A2A (Agent2Agent) protocol](2025/04/2025-04-19-mcp-vs-a2a-(agent2agent)-protocol.md)
 - (2025-04-19) [The Second Half](2025/04/2025-04-19-the-second-half.md)
 - (2025-04-17) [An Intro to DeepSeek's Distributed File System](2025/04/2025-04-17-an-intro-to-deepseek's-distributed-file-system.md)
