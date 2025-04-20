@@ -1182,5 +1182,13 @@
     "url": "https://readwise.io/reader/shared/01jqgarmq8875pv7d3j09emwe6/",
     "timestamp": 1745085203,
     "summary": "本文解读了 ReAct 模型的演进版本 CodeAct。ReAct 通过口头表达简化Agent开发，而 CodeAct 则用可执行的 Python 代码替代固定 Tool，利用 Python 库的丰富性，极大地增强了 Agent 处理复杂任务的能力。CodeAct 继承了 ReAct 的工作流，使 Agent 具备自我调试的潜力，并体现了学术成果对技术发展的推动作用。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "The State of Reinforcement Learning for LLM Reasoning",
+    "url": "https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html",
+    "timestamp": 1745122619,
+    "summary": "本文总结了利用强化学习提升大型语言模型推理能力的研究进展。研究表明，通过强化学习微调，即使是小型模型，也能显著提升推理能力，涌现出自我验证等能力。尽管如此，推理能力可能部分源于预训练，强化学习并非唯一途径。针对PPO等算法存在的问题，研究者提出了改进方案，并探索了将推理能力推广到更广泛领域的可能性。\n"
   }
 ]
