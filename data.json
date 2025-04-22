@@ -1206,5 +1206,13 @@
     "url": "https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/",
     "timestamp": 1745292562,
     "summary": "作者将博客托管到任天堂Wii上，利用NetBSD系统和Homebrew Channel启动。由于Wii性能限制，使用Caddy作为反向代理处理TLS加密，过滤爬虫请求，保证基本运行。实验表明Wii功耗低，成本优势明显。虽然存在性能瓶颈，但这次尝试具有趣味性，且能从中学习。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "独立开发技术栈 2025",
+    "url": "https://guangzhengli.com/blog/zh/indie-hacker-tech-stack-2024",
+    "timestamp": 1745294492,
+    "summary": "独立开发者应选择高效技术栈和云服务。前端推荐Next.js搭配TailwindCSS/Shadcn/ui，后端首选Cloudflare Worker等Serverless方案或Railway/Fly.io。数据库选用PostgreSQL/Supabase或Cloudflare D1以降低成本。谨记尽早交付、收费，善用GenAI和SaaS服务，控制成本。\n"
   }
 ]

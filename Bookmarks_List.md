@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-22) [独立开发技术栈 2025](2025/04/2025-04-22-独立开发技术栈-2025.md)
 - (2025-04-22) [This blog is hosted on a Nintendo Wii](2025/04/2025-04-22-this-blog-is-hosted-on-a-nintendo-wii.md)
 - (2025-04-22) [Pipelining might be my favorite programming language feature](2025/04/2025-04-22-pipelining-might-be-my-favorite-programming-language-feature.md)
 - (2025-04-20) [The State of Reinforcement Learning for LLM Reasoning](2025/04/2025-04-20-the-state-of-reinforcement-learning-for-llm-reasoning.md)
