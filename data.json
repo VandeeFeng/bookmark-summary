@@ -1198,5 +1198,13 @@
     "url": "https://herecomesthemoon.net/2025/04/pipelining/",
     "timestamp": 1745292493,
     "summary": "管道化是编程利器，可显著提高代码可读性、编辑效率和代码发现速度。它通过链式调用简化代码，使数据流清晰，减少嵌套，方便代码审查和追踪。在SQL中简化嵌套查询，Rust语言更充分发挥其优势，兼具类型推断和命名空间优点，管道化使用便捷。总之，管道化使代码更易读、易维护，提高开发效率。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "This blog is hosted on a Nintendo Wii",
+    "url": "https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/",
+    "timestamp": 1745292562,
+    "summary": "作者将博客托管到任天堂Wii上，利用NetBSD系统和Homebrew Channel启动。由于Wii性能限制，使用Caddy作为反向代理处理TLS加密，过滤爬虫请求，保证基本运行。实验表明Wii功耗低，成本优势明显。虽然存在性能瓶颈，但这次尝试具有趣味性，且能从中学习。\n"
   }
 ]
