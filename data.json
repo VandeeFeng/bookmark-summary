@@ -1190,5 +1190,13 @@
     "url": "https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html",
     "timestamp": 1745122619,
     "summary": "本文总结了利用强化学习提升大型语言模型推理能力的研究进展。研究表明，通过强化学习微调，即使是小型模型，也能显著提升推理能力，涌现出自我验证等能力。尽管如此，推理能力可能部分源于预训练，强化学习并非唯一途径。针对PPO等算法存在的问题，研究者提出了改进方案，并探索了将推理能力推广到更广泛领域的可能性。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Pipelining might be my favorite programming language feature",
+    "url": "https://herecomesthemoon.net/2025/04/pipelining/",
+    "timestamp": 1745292493,
+    "summary": "管道化是编程利器，可显著提高代码可读性、编辑效率和代码发现速度。它通过链式调用简化代码，使数据流清晰，减少嵌套，方便代码审查和追踪。在SQL中简化嵌套查询，Rust语言更充分发挥其优势，兼具类型推断和命名空间优点，管道化使用便捷。总之，管道化使代码更易读、易维护，提高开发效率。\n"
   }
 ]
