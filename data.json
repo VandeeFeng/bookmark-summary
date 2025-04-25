@@ -1222,5 +1222,13 @@
     "url": "https://collabfund.com/blog/a-few-short-stories/",
     "timestamp": 1745546530,
     "summary": "本文通过十个故事揭示了人们在面对变化、风险、激励、成功和认知等方面的常见心理误区。社会规范会阻碍进步，竞争对手能快速模仿成功，激励机制影响行为，非理性趋势可能持续超预期，每个目标都有潜在负面影响。同时，我们应反思当今社会的不公正现象，实际体验可能不如预期，独特人才往往伴随独特思维方式。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Development On Apple Silicon with UTM",
+    "url": "https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/",
+    "timestamp": 1745549190,
+    "summary": "本文介绍了在Apple Silicon上使用UTM虚拟机创建Linux开发环境的方法。通过Cloud-init自动化配置，预装开发工具并设置SSH密钥，简化了手动配置。文章详细说明了如何创建包含Cloud-init配置的init.iso镜像，并在UTM中配置虚拟机，包括选择模拟或虚拟化模式、调整硬件设置以及导入镜像，最终实现快速部署Linux开发环境。\n"
   }
 ]
