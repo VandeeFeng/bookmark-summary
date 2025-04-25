@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-25) [Manufactured consensus on x.com](2025/04/2025-04-25-manufactured-consensus-on-x.com.md)
 - (2025-04-25) [Development On Apple Silicon with UTM](2025/04/2025-04-25-development-on-apple-silicon-with-utm.md)
 - (2025-04-25) [A Few Short Stories](2025/04/2025-04-25-a-few-short-stories.md)
 - (2025-04-22) [独立开发技术栈 2025](2025/04/2025-04-22-独立开发技术栈-2025.md)
