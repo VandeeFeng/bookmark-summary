@@ -1214,5 +1214,13 @@
     "url": "https://guangzhengli.com/blog/zh/indie-hacker-tech-stack-2024",
     "timestamp": 1745294492,
     "summary": "独立开发者应选择高效技术栈和云服务。前端推荐Next.js搭配TailwindCSS/Shadcn/ui，后端首选Cloudflare Worker等Serverless方案或Railway/Fly.io。数据库选用PostgreSQL/Supabase或Cloudflare D1以降低成本。谨记尽早交付、收费，善用GenAI和SaaS服务，控制成本。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "A Few Short Stories",
+    "url": "https://collabfund.com/blog/a-few-short-stories/",
+    "timestamp": 1745546530,
+    "summary": "本文通过十个故事揭示了人们在面对变化、风险、激励、成功和认知等方面的常见心理误区。社会规范会阻碍进步，竞争对手能快速模仿成功，激励机制影响行为，非理性趋势可能持续超预期，每个目标都有潜在负面影响。同时，我们应反思当今社会的不公正现象，实际体验可能不如预期，独特人才往往伴随独特思维方式。\n"
   }
 ]
