@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-04-28) [Recognizing patterns in memory](2025/04/2025-04-28-recognizing-patterns-in-memory.md)
 - (2025-04-28) [我的朋友谢扬，他的 Fellou，以及这个时代的创业者](2025/04/2025-04-28-我的朋友谢扬，他的-fellou，以及这个时代的创业者.md)
 - (2025-04-26) [Avoiding Skill Atrophy in the Age of AI](2025/04/2025-04-26-avoiding-skill-atrophy-in-the-age-of-ai.md)
 - (2025-04-25) [Manufactured consensus on x.com](2025/04/2025-04-25-manufactured-consensus-on-x.com.md)
