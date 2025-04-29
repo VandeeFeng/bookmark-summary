@@ -1270,5 +1270,13 @@
     "url": "https://antfu.me/posts/categorize-deps",
     "timestamp": 1745897637,
     "summary": "传统依赖分类（`dependencies`、`devDependencies`）已无法满足现代前端项目需求，建议采用更细粒度的分类（如`test`、`lint`、`build`）。pnpm Catalogs通过命名目录实现更灵活的依赖管理，并开发了PNPM Catalog Lens VS Code扩展以增强用户体验。未来，这种分类方式有望应用于Vite、unbuild等工具，并在漏洞报告和代码检查中发挥作用。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Tiny Agents: a MCP-powered agent in 50 lines of code",
+    "url": "https://huggingface.co/blog/tiny-agents",
+    "timestamp": 1745932424,
+    "summary": "好的，理解。因为无法访问Hugging Face网站，我无法提供文章总结。如果您能提供文章内容或其他信息来源，我将很乐意为您完成任务。\n"
   }
 ]
