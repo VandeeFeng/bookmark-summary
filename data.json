@@ -1262,5 +1262,13 @@
     "url": "https://www.timdbg.com/posts/recognizing-patterns/",
     "timestamp": 1745822165,
     "summary": "本文介绍了调试时通过识别内存模式来定位错误的技巧。常见的模式包括对齐的32/64位数据、指针（高位全零）、UTF-16字符串（ASCII字符与空字节交替）、代码字节（CC, C3, 4X 8X）以及高熵数据（压缩或加密数据）。掌握这些模式有助于快速识别内存损坏等问题，提升调试效率。\n"
+  },
+  {
+    "year": "2025",
+    "month": "04",
+    "title": "Categorize Your Dependencies",
+    "url": "https://antfu.me/posts/categorize-deps",
+    "timestamp": 1745897637,
+    "summary": "传统依赖分类（`dependencies`、`devDependencies`）已无法满足现代前端项目需求，建议采用更细粒度的分类（如`test`、`lint`、`build`）。pnpm Catalogs通过命名目录实现更灵活的依赖管理，并开发了PNPM Catalog Lens VS Code扩展以增强用户体验。未来，这种分类方式有望应用于Vite、unbuild等工具，并在漏洞报告和代码检查中发挥作用。\n"
   }
 ]
