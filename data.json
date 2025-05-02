@@ -1278,5 +1278,13 @@
     "url": "https://huggingface.co/blog/tiny-agents",
     "timestamp": 1745932424,
     "summary": "好的，理解。因为无法访问Hugging Face网站，我无法提供文章总结。如果您能提供文章内容或其他信息来源，我将很乐意为您完成任务。\n"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "Two publishers and three authors fail to understand what “vibe coding” means",
+    "url": "https://simonwillison.net/2025/May/1/not-vibe-coding/",
+    "timestamp": 1746172920,
+    "summary": "Simon Willison批评vibe coding被误用于AI辅助编程，强调其仅适用于一次性项目，呼吁明确定义并指导非开发者安全使用，避免术语混淆。"
   }
 ]
