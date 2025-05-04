@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-05-04) [Driving Compilers](2025/05/2025-05-04-driving-compilers.md)
 - (2025-05-04) [I trained a Language Model to schedule events with GRPO!](2025/05/2025-05-04-i-trained-a-language-model-to-schedule-events-with-grpo!.md)
 - (2025-05-02) [Two publishers and three authors fail to understand what “vibe coding” means](2025/05/2025-05-02-two-publishers-and-three-authors-fail-to-understand-what-“vibe-coding”-means.md)
 - (2025-04-29) [Tiny Agents: a MCP-powered agent in 50 lines of code](2025/04/2025-04-29-tiny-agents-a-mcp-powered-agent-in-50-lines-of-code.md)

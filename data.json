@@ -1294,5 +1294,13 @@
     "url": "https://huggingface.co/blog/anakin87/qwen-scheduler-grpo",
     "timestamp": 1746332783,
     "summary": "因链接访问限制无法获取文章内容，推断文章围绕Hugging Face作为AI社区平台的角色展开，可能涉及模型共享与协作开发，但具体信息缺失。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "Driving Compilers",
+    "url": "https://fabiensanglard.net/dc/index.php",
+    "timestamp": 1746359428,
+    "summary": "本文指出编程教材多侧重语法而缺乏编译工具链解析，导致学习者难以应对编译错误。作者系列文章通过分阶段解析编译流程（预处理、编译、链接等），对比多平台工具链，提供从源码到可执行文件的系统性实践指南。"
   }
 ]
