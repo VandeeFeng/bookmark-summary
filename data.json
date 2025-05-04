@@ -1286,5 +1286,13 @@
     "url": "https://simonwillison.net/2025/May/1/not-vibe-coding/",
     "timestamp": 1746172920,
     "summary": "Simon Willison批评vibe coding被误用于AI辅助编程，强调其仅适用于一次性项目，呼吁明确定义并指导非开发者安全使用，避免术语混淆。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "I trained a Language Model to schedule events with GRPO!",
+    "url": "https://huggingface.co/blog/anakin87/qwen-scheduler-grpo",
+    "timestamp": 1746332783,
+    "summary": "因链接访问限制无法获取文章内容，推断文章围绕Hugging Face作为AI社区平台的角色展开，可能涉及模型共享与协作开发，但具体信息缺失。"
   }
 ]
