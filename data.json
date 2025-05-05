@@ -1293,7 +1293,7 @@
     "title": "I trained a Language Model to schedule events with GRPO!",
     "url": "https://huggingface.co/blog/anakin87/qwen-scheduler-grpo",
     "timestamp": 1746332783,
-    "summary": "因链接访问限制无法获取文章内容，推断文章围绕Hugging Face作为AI社区平台的角色展开，可能涉及模型共享与协作开发，但具体信息缺失。"
+    "summary": "本文探讨了如何利用GRPO（Gradient Reinforcement Policy Optimization）对语言模型进行后续训练，以创建一个基于事件列表和优先级的优化日程安排。作者首先介绍了任务的基本要求，即在给定的事件中，按照时间顺序和优先级选择事件，以最大化选定事件的加权时长。高优先级事件的权重为2，普通事件的权重为1。通过设计奖励函数，作者鼓励模型生成符合时间顺序且避免重叠的日程安排。实验中发现，模型在学习过程中逐步改善，最终能够生成有效的日程安排。文章还提到，模型在测试集上的表现接近完美，能够遵循格式、时间顺序及其他要求。作者总结了这一过程的关键学习点，并提出了进一步优化的建议。"
   },
   {
     "year": "2025",
