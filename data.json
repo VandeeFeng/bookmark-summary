@@ -1310,5 +1310,13 @@
     "url": "https://baoyu.io/blog/how-i-cracked-notebooklm-prompts",
     "timestamp": 1746588896,
     "summary": "作者通过设计矛盾指令，利用AI对用户需求的默认服从性，迫使NotebookLM系统在遵守提示词与满足请求间产生认知冲突，从而暴露提示词。该方法依赖AI的默认行为模式，但存在破解局限性。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "Claude Code（及 cursor） 内部工作原理窥探",
+    "url": "https://www.superlinear.academy/c/share-your-work/claude-code-cursor",
+    "timestamp": 1746589298,
+    "summary": "本文解析Claude Code与Cursor等AI模型的架构与训练优化机制，涵盖数据处理、推理加速、多模态处理及伦理安全等核心内容，为开发者提供模型部署与性能提升的实践参考。"
   }
 ]
