@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-05-10) [35 岁+程序员依然可以兼顾热爱代码和享受生活](2025/05/2025-05-10-35-岁+程序员依然可以兼顾热爱代码和享受生活.md)
 - (2025-05-10) [From: Steve Jobs.  "Great idea, thank you."](2025/05/2025-05-10-from-steve-jobs.-great-idea,-thank-you..md)
 - (2025-05-10) [I use Zip Bombs to Protect my Server](2025/05/2025-05-10-i-use-zip-bombs-to-protect-my-server.md)
 - (2025-05-07) [Claude Code（及 cursor） 内部工作原理窥探](2025/05/2025-05-07-claude-code（及-cursor）-内部工作原理窥探.md)
