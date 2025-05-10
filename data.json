@@ -1318,5 +1318,13 @@
     "url": "https://www.superlinear.academy/c/share-your-work/claude-code-cursor",
     "timestamp": 1746589298,
     "summary": "本文解析Claude Code与Cursor等AI模型的架构与训练优化机制，涵盖数据处理、推理加速、多模态处理及伦理安全等核心内容，为开发者提供模型部署与性能提升的实践参考。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "I use Zip Bombs to Protect my Server",
+    "url": "https://idiallo.com/blog/zipbomb-protection",
+    "timestamp": 1746859063,
+    "summary": "作者利用zip bombs技术通过压缩文件解压消耗恶意爬虫内存资源，迫使攻击者服务器崩溃，有效防御恶意爬虫。但该方法存在被绕过和误伤风险，需结合其他防护手段。"
   }
 ]
