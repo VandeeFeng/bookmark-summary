@@ -1342,5 +1342,13 @@
     "url": "https://manateelazycat.github.io/2025/05/10/35-years-old/",
     "timestamp": 1746859704,
     "summary": "文章反驳大龄程序员转管理的偏见，强调保持纯真热爱代码的重要性，通过技术大牛案例及自我疗愈经历，倡导不设年龄限制、专注成长、平衡生活与技术，鼓励持续学习与跨领域融合。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "AI Horseless Carriages",
+    "url": "https://koomen.dev/essays/horseless-carriages/",
+    "timestamp": 1746877118,
+    "summary": "文章指出，当前AI应用（如Gmail邮件助手）常因模仿旧的软件模式而效果不佳，未能充分发挥AI潜力。作者建议，AI应用应允许用户自定义“系统提示”，以便更好地控制AI行为，使其更贴合用户习惯。未来AI开发应侧重于构建“智能体构建器”，而非直接提供AI智能体，让用户能够自定义AI功能，并为AI智能体提供行动机制和保障。\n"
   }
 ]
