@@ -1326,5 +1326,13 @@
     "url": "https://idiallo.com/blog/zipbomb-protection",
     "timestamp": 1746859063,
     "summary": "作者利用zip bombs技术通过压缩文件解压消耗恶意爬虫内存资源，迫使攻击者服务器崩溃，有效防御恶意爬虫。但该方法存在被绕过和误伤风险，需结合其他防护手段。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "From: Steve Jobs.  \"Great idea, thank you.\"",
+    "url": "https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html",
+    "timestamp": 1746859577,
+    "summary": "作者因误用邮箱别名致邮件误发，引发慌乱后获Steve Jobs幽默回应“Great idea”，折射早期邮箱系统漏洞与技术文化，串联个人职业轨迹与科技发展，展现技术细节中的偶然与创造力。"
   }
 ]
