@@ -1350,5 +1350,13 @@
     "url": "https://koomen.dev/essays/horseless-carriages/",
     "timestamp": 1746877118,
     "summary": "文章指出，当前AI应用（如Gmail邮件助手）常因模仿旧的软件模式而效果不佳，未能充分发挥AI潜力。作者建议，AI应用应允许用户自定义“系统提示”，以便更好地控制AI行为，使其更贴合用户习惯。未来AI开发应侧重于构建“智能体构建器”，而非直接提供AI智能体，让用户能够自定义AI功能，并为AI智能体提供行动机制和保障。\n"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "A Critical Look at MCP",
+    "url": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp",
+    "timestamp": 1746932307,
+    "summary": "MCP旨在标准化LLM交互，但作者批评其工程实践和文档质量不足。HTTP传输方式，尤其是Streamable HTTP，存在设计复杂、易出错、安全隐患等问题，不如WebSockets。其他协议如ACP和A2A可通过MCP扩展实现。作者建议行业关注常见用例，避免为迁就特殊情况而牺牲效率和安全。总之，MCP协议有改进空间，应避免不必要的错误。\n"
   }
 ]

@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-05-11) [A Critical Look at MCP](2025/05/2025-05-11-a-critical-look-at-mcp.md)
 - (2025-05-10) [AI Horseless Carriages](2025/05/2025-05-10-ai-horseless-carriages.md)
 - (2025-05-10) [35 岁+程序员依然可以兼顾热爱代码和享受生活](2025/05/2025-05-10-35-岁+程序员依然可以兼顾热爱代码和享受生活.md)
 - (2025-05-10) [From: Steve Jobs.  "Great idea, thank you."](2025/05/2025-05-10-from-steve-jobs.-great-idea,-thank-you..md)
