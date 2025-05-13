@@ -1358,5 +1358,13 @@
     "url": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp",
     "timestamp": 1746932307,
     "summary": "MCP旨在标准化LLM交互，但作者批评其工程实践和文档质量不足。HTTP传输方式，尤其是Streamable HTTP，存在设计复杂、易出错、安全隐患等问题，不如WebSockets。其他协议如ACP和A2A可通过MCP扩展实现。作者建议行业关注常见用例，避免为迁就特殊情况而牺牲效率和安全。总之，MCP协议有改进空间，应避免不必要的错误。\n"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "相机进化论",
+    "url": "https://sspai.com/post/99121",
+    "timestamp": 1747146356,
+    "summary": "  \n\n# 1. 题目\n\n#### [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)\n\n难度简单383\n\n给定二叉树的根节点 `root` ，返回所有左叶子之和。\n\n \n\n**示例 1：**\n\n![img](https://assets.leetcode.com/uploads/2021/04/08/leftsum-tree.jpg)\n\n```\n输入: root = [3,9,20,null,null,15,7] \n输出: 24 \n解释: 在这个二叉树中，有两个左叶子，分别是 9 和 15，所以返回 24\n```\n\n**示例 2:**\n\n```\n输入: root = [1]\n输出: 0\n```\n\n \n\n**提示:**\n\n- 节点数在 `[1, 1000]` 范围内\n- `-1000 <= Node.val <= 1000`\n\n# 2. 题解\n# 3. code\n```c++\nclass Solution {\npublic:\n    int sum = 0;\n    void traversal(TreeNode* node) {\n        if (!node) return;\n        if (node->left && !node->left->left && !node->left->right) {\n            sum += node->left->val;\n        }\n        traversal(node->left);\n        traversal(node->right);\n        return;\n    }\n    int sumOfLeftLeaves(TreeNode* root) {\n        traversal(root);\n        return sum;\n    }\n};\n```\n# 4. 心得\n\n"
   }
 ]
