@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-05-16) [Human](2025/05/2025-05-16-human.md)
 - (2025-05-16) [Building software on top of Large Language Models](2025/05/2025-05-16-building-software-on-top-of-large-language-models.md)
 - (2025-05-13) [相机进化论](2025/05/2025-05-13-相机进化论.md)
 - (2025-05-11) [A Critical Look at MCP](2025/05/2025-05-11-a-critical-look-at-mcp.md)
