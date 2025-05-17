@@ -1382,5 +1382,13 @@
     "url": "https://quarter--mile.com/Human",
     "timestamp": 1747368191,
     "summary": "作者在文章《构建于大型语言模型之上》中探讨了将大型语言模型（LLMs）集成到应用中的多种方法，超越了简单的提示工程。他将不同的构建方式归类，重点介绍了检索增强生成（RAG）作为一种核心范式，以及微调模型、利用智能体模式和工具使用等技术。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "On Macros: The Soul of Expressiveness in Programming Languages",
+    "url": "http://lemonhx.moe/macro?locale=en",
+    "timestamp": 1747474728,
+    "summary": "宏在编程中有多种形式，从简单文本替换到灵活的临时精炼器，其设计影响语言表达力。"
   }
 ]
