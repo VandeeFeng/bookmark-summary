@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-05-17) [Why We Think](2025/05/2025-05-17-why-we-think.md)
 - (2025-05-17) [On Macros: The Soul of Expressiveness in Programming Languages](2025/05/2025-05-17-on-macros-the-soul-of-expressiveness-in-programming-languages.md)
 - (2025-05-16) [Human](2025/05/2025-05-16-human.md)
 - (2025-05-16) [Building software on top of Large Language Models](2025/05/2025-05-16-building-software-on-top-of-large-language-models.md)
