@@ -1398,5 +1398,13 @@
     "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/",
     "timestamp": 1747479372,
     "summary": "文章通过列表形式概括了主要内容，简明扼要地呈现了关键信息，便于读者快速掌握核心要点。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "Ditching Obsidian and building my own",
+    "url": "https://amberwilliams.io/blogs/building-my-own-pkms",
+    "timestamp": 1747626794,
+    "summary": "本文讨论了从商业笔记软件转向自建笔记系统的过程，强调了数据隐私、长期可用性和个性化需求的重要性。作者基于Directus开发了开源自托管系统，既解决商业软件的限制，又满足个人知识管理的核心需求，提倡根据自身情况选择最适合的方案。"
   }
 ]
