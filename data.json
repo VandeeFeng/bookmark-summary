@@ -1406,5 +1406,13 @@
     "url": "https://amberwilliams.io/blogs/building-my-own-pkms",
     "timestamp": 1747626794,
     "summary": "本文讨论了从商业笔记软件转向自建笔记系统的过程，强调了数据隐私、长期可用性和个性化需求的重要性。作者基于Directus开发了开源自托管系统，既解决商业软件的限制，又满足个人知识管理的核心需求，提倡根据自身情况选择最适合的方案。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "All AI 与 No AI",
+    "url": "https://www.pseudoyu.com/posts/weekly_review_95",
+    "timestamp": 1747633688,
+    "summary": "作者结合自身使用AI编程工具的体验，反思AI对开发能力的双重影响：既降低技术门槛又削弱独立编程信心，对非编程类AI应用持谨慎态度。文章还分享了对技术普及的开放观点，并推荐了多个实用工具和资源。"
   }
 ]
