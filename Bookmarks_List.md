@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-05-23) [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android](2025/05/2025-05-23-coding-without-a-laptop---two-weeks-with-ar-glasses-and-linux-on-android.md)
 - (2025-05-20) [聆听自己身体的感觉，那是 AI 无法拥有的生命回响](2025/05/2025-05-20-聆听自己身体的感觉，那是-ai-无法拥有的生命回响.md)
 - (2025-05-19) [All AI 与 No AI](2025/05/2025-05-19-all-ai-与-no-ai.md)
 - (2025-05-19) [Ditching Obsidian and building my own](2025/05/2025-05-19-ditching-obsidian-and-building-my-own.md)
