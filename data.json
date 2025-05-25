@@ -1430,5 +1430,13 @@
     "url": "https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/",
     "timestamp": 1747980004,
     "summary": "这篇文章介绍了一种利用安卓手机、AR眼镜和折叠键盘搭建便携移动开发环境的创新方案。通过在Pixel 8 Pro上使用chroot运行Void Linux桌面环境，配合AR眼镜显示，实现了接近笔记本的开发体验，具有超便携性、户外可用和蜂窝联网优势。虽然存在眼镜视野调节和键盘质量等不足，但为开发者提供了全新的移动办公可能。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "How to build your Agent: 11 prompting techniques for better AI agents",
+    "url": "https://www.augmentcode.com/blog/how-to-build-your-agent-11-prompting-techniques-for-better-ai-agents",
+    "timestamp": 1748177985,
+    "summary": "6. **系统化沟通策略**：提示工程本质是系统化的沟通策略，需要像管理代码库一样进行版本控制和测试，以确保其有效性和一致性。  \n\n### **总结**：  \n本文介绍了11种优化AI代理性能的提示工程技巧，强调完整上下文、用户视角、工具调优和系统化沟通策略的重要性，帮助AI代理更高效地执行任务。"
   }
 ]
