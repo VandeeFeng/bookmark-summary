@@ -6,10 +6,10 @@ extra:
   original_title: How to build your Agent- 11 prompting techniques for better AI agents
 ---
 ## Summary
-### **摘要**：
+**摘要**：
 本文详细介绍了构建高效AI代理的11种提示工程技巧，重点强调如何通过优化提示内容提升模型性能。文章指出，提示工程是影响AI代理行为的关键因素，包括系统提示、工具定义、用户指令等组件的优化。核心原则包括：提供完整一致的上下文信息、从用户视角设计提示、避免过度依赖特定示例、注意工具调用的局限性，以及利用位置效应（开头/结尾信息更受关注）。文章通过大量代码代理实例，展示了如何通过系统化的提示设计，使AI代理表现得像专业团队成员而非随机工具。最后强调，提示工程本质是系统化的沟通策略，需要像管理代码库一样进行版本控制和测试。
 
-### **要点总结**：
+**要点总结**：
 1. **提示工程的核心组件**：系统提示、工具定义、用户指令等所有输入内容均可优化，通过调整这些组件可显著提升模型行为准确性和自主性。
 
 2. **上下文优先原则**：提供完整且一致的上下文信息最为关键，例如在截断命令输出时优先保留首尾部分（含关键错误信息），而非机械截断后缀。
@@ -139,12 +139,10 @@ The currently open file is foo.py.
 Lines 134 through 179 are visible on the screen.
 Here is the currently visible text, with the cursor location denoted by <CURSOR>:
 
-```python
 134  def bar():
 135    print("hell<CURSOR>o")
 ...
 179  # TODO implement this
-```
 
 There is no selected text.
 There are 14 open tabs. Here they are from most recently to last recently visited:
