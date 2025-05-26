@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-05-26) [Noam Chomsky Speaks on What ChatGPT Is Really Good For](2025/05/2025-05-26-noam-chomsky-speaks-on-what-chatgpt-is-really-good-for.md)
 - (2025-05-26) [我们用什么语言思考？](2025/05/2025-05-26-我们用什么语言思考？.md)
 - (2025-05-25) [How to build your Agent: 11 prompting techniques for better AI agents](2025/05/2025-05-25-how-to-build-your-agent-11-prompting-techniques-for-better-ai-agents.md)
 - (2025-05-23) [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android](2025/05/2025-05-23-coding-without-a-laptop---two-weeks-with-ar-glasses-and-linux-on-android.md)
