@@ -1454,5 +1454,13 @@
     "url": "https://chomsky.info/20230503-2/",
     "timestamp": 1748277195,
     "summary": "乔姆斯基在访谈中指出，当前AI（如ChatGPT）更偏向工程应用而非科学探索，无法真正理解语言或认知。他警告AI自动化可能引发灾难性后果，强调监管虽必要但难以完全遏制风险，呼吁警惕技术发展的伦理隐患。（98字）"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "Why Cline Doesn't Index Your Codebase (And Why That's a Good Thing) - Cline Blog",
+    "url": "https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing",
+    "timestamp": 1748398917,
+    "summary": "这篇文章解释了Cline不采用RAG技术的原因，指出其处理代码库时存在逻辑分割、同步困难和安全风险等问题，而Cline通过AST逐步构建上下文，提高了代码质量和安全性。"
   }
 ]
