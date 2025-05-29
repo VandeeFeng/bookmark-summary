@@ -1462,5 +1462,13 @@
     "url": "https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing",
     "timestamp": 1748398917,
     "summary": "这篇文章解释了Cline不采用RAG技术的原因，指出其处理代码库时存在逻辑分割、同步困难和安全风险等问题，而Cline通过AST逐步构建上下文，提高了代码质量和安全性。"
+  },
+  {
+    "year": "2025",
+    "month": "05",
+    "title": "AI: Accelerated Incompetence",
+    "url": "https://www.slater.dev/accelerated-incompetence/",
+    "timestamp": 1748495938,
+    "summary": "这篇文章探讨了过度依赖大型语言模型（LLM）对工程师能力的负面影响，指出其存在错误输出、技术债务激增、创造力丧失等风险，强调人类在系统思维和理论构建上的不可替代性，建议将AI作为辅助工具而非替代品，保持传统工程技能的培养。"
   }
 ]

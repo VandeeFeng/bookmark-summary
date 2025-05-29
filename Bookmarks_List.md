@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-05-29) [AI: Accelerated Incompetence](2025/05/2025-05-29-ai-accelerated-incompetence.md)
 - (2025-05-28) [Why Cline Doesn't Index Your Codebase (And Why That's a Good Thing) - Cline Blog](2025/05/2025-05-28-why-cline-doesn't-index-your-codebase-(and-why-that's-a-good-thing)---cline-blog.md)
 - (2025-05-26) [Noam Chomsky Speaks on What ChatGPT Is Really Good For](2025/05/2025-05-26-noam-chomsky-speaks-on-what-chatgpt-is-really-good-for.md)
 - (2025-05-26) [我们用什么语言思考？](2025/05/2025-05-26-我们用什么语言思考？.md)
