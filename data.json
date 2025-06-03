@@ -1486,5 +1486,13 @@
     "url": "https://fly.io/blog/youre-all-nuts/",
     "timestamp": 1748916219,
     "summary": "本文分析了大语言模型(LLM)在软件开发中的实用价值，指出其已发展为能够自主操作代码库的\"代理\"阶段，显著提升了开发效率。作者反驳了关于幻觉、代码质量和就业影响等常见质疑，强调LLM能解放开发者处理繁琐任务，尽管不完美但已成技术发展必然趋势，无法回避。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "刺破信息茧房迷思",
+    "url": "https://www.orangeclk.com/2021/06/07/information-cocoons-myth/",
+    "timestamp": 1748916992,
+    "summary": ""
   }
 ]
