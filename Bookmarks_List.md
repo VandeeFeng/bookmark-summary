@@ -4,7 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
-
+- (2025-06-03) [My AI Skeptic Friends Are All Nuts](2025/06/2025-06-03-my-ai-skeptic-friends-are-all-nuts.md)
 - (2025-05-31) [The Consumer AI Revolution Won’t Be Technical. It’ll Be Emotional.](2025/05/2025-05-31-the-consumer-ai-revolution-won’t-be-technical.-it’ll-be-emotional..md)
 - (2025-05-29) [AI: Accelerated Incompetence](2025/05/2025-05-29-ai-accelerated-incompetence.md)
 - (2025-05-28) [Why Cline Doesn't Index Your Codebase (And Why That's a Good Thing) - Cline Blog](2025/05/2025-05-28-why-cline-doesn't-index-your-codebase-(and-why-that's-a-good-thing)---cline-blog.md)
