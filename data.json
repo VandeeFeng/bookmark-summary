@@ -1510,5 +1510,13 @@
     "url": "https://www.ssp.sh/blog/self-host-self-independence/",
     "timestamp": 1749436145,
     "summary": "作者分享了自我托管的乐趣，强调个人域名和技术独立的重要性，列举开源工具并鼓励读者从小项目开始体验成就感与技能提升。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "The Gap Through Which We Praise the Machine",
+    "url": "https://ferd.ca/the-gap-through-which-we-praise-the-machine.html",
+    "timestamp": 1749484365,
+    "summary": "文章指出AI编程助手的实际效果低于预期，用户需大量调整配置才能使用，批评当前设计过于拟人化，呼吁改进以减少用户负担，提升效率。"
   }
 ]
