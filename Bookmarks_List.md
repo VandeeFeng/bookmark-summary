@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-06-09) [Self-Host & Tech Independence: The Joy of Building Your Own](2025/06/2025-06-09-self-host-&-tech-independence-the-joy-of-building-your-own.md)
 - (2025-06-06) [The Hidden Cost of AI Coding](2025/06/2025-06-06-the-hidden-cost-of-ai-coding.md)
 - (2025-06-03) [刺破信息茧房迷思](2025/06/2025-06-03-刺破信息茧房迷思.md)
 - (2025-06-03) [My AI Skeptic Friends Are All Nuts](2025/06/2025-06-03-my-ai-skeptic-friends-are-all-nuts.md)
