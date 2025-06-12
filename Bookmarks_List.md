@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-06-12) [Different Kinds of Smart](2025/06/2025-06-12-different-kinds-of-smart.md)
 - (2025-06-09) [The Gap Through Which We Praise the Machine](2025/06/2025-06-09-the-gap-through-which-we-praise-the-machine.md)
 - (2025-06-09) [Self-Host & Tech Independence: The Joy of Building Your Own](2025/06/2025-06-09-self-host-&-tech-independence-the-joy-of-building-your-own.md)
 - (2025-06-06) [The Hidden Cost of AI Coding](2025/06/2025-06-06-the-hidden-cost-of-ai-coding.md)
