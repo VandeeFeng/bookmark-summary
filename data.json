@@ -1534,5 +1534,13 @@
     "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
     "timestamp": 1749786400,
     "summary": "文章回顾了LLM领域近半年的快速发展，介绍了包括Llama 3.3等30多个新模型，通过独特的\"鹈鹕骑自行车\"SVG测试评估模型能力。讨论了LLM在工具调用和推理能力的进步，同时也指出安全风险，如数据泄露和伦理问题，并分享了模型的有趣bug案例，展示了AI技术的多面性。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "Don’t Build Multi-Agents",
+    "url": "https://cognition.ai/blog/dont-build-multi-agents",
+    "timestamp": 1749787503,
+    "summary": "文章指出多代理架构存在上下文断裂缺陷，提出应优先采用单线程线性代理并共享完整上下文，强调\"上下文工程\"对AI系统可靠性的重要性，认为当前多代理系统因无法有效共享信息而过于脆弱。"
   }
 ]
