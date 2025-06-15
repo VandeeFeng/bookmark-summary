@@ -1566,5 +1566,13 @@
     "url": "https://www.anthropic.com/engineering/built-multi-agent-research-system",
     "timestamp": 1749966776,
     "summary": "Anthropic开发了基于Claude的多智能体研究系统，采用主从架构实现并行搜索和动态调整，解决开放性问题效率提升90%。系统面临高token消耗等挑战，但通过提示工程和优化部署有效克服，在商业、医疗等领域应用表现优异。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "An Introduction to Google’s Approach to AI Agent Security",
+    "url": "https://simonwillison.net/2025/Jun/15/ai-agent-security/",
+    "timestamp": 1749974947,
+    "summary": "谷歌提出AI代理安全框架，聚焦恶意行为与数据泄露两大风险，主张通过人类控制、权限限制和可观察性三大原则应对，结合传统防御与AI动态防护，但强调确定性措施更可靠，质疑动态防御效果。"
   }
 ]
