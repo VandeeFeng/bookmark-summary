@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-06-15) [How we built our multi-agent research system](2025/06/2025-06-15-how-we-built-our-multi-agent-research-system.md)
 - (2025-06-15) [Why aren’t we using SSH for everything?](2025/06/2025-06-15-why-aren’t-we-using-ssh-for-everything.md)
 - (2025-06-15) [The Arc of the Practical Creator](2025/06/2025-06-15-the-arc-of-the-practical-creator.md)
 - (2025-06-13) [Don’t Build Multi-Agents](2025/06/2025-06-13-don’t-build-multi-agents.md)

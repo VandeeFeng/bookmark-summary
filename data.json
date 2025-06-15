@@ -1558,5 +1558,13 @@
     "url": "https://shazow.net/posts/ssh-how-does-it-even/",
     "timestamp": 1749965538,
     "summary": "文章探讨SSH协议的强大功能（身份认证、加密、多路复用）及其在聊天工具ssh-chat中的应用，展示SSH超越传统用途的潜力，如游戏、分布式系统等，并质疑其为何未被更广泛应用。作者认为SSH的内置安全性可为开发者简化复杂需求。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "How we built our multi-agent research system",
+    "url": "https://www.anthropic.com/engineering/built-multi-agent-research-system",
+    "timestamp": 1749966776,
+    "summary": "Anthropic开发了基于Claude的多智能体研究系统，采用主从架构实现并行搜索和动态调整，解决开放性问题效率提升90%。系统面临高token消耗等挑战，但通过提示工程和优化部署有效克服，在商业、医疗等领域应用表现优异。"
   }
 ]
