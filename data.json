@@ -1574,5 +1574,13 @@
     "url": "https://simonwillison.net/2025/Jun/15/ai-agent-security/",
     "timestamp": 1749974947,
     "summary": "谷歌提出AI代理安全框架，聚焦恶意行为与数据泄露两大风险，主张通过人类控制、权限限制和可观察性三大原则应对，结合传统防御与AI动态防护，但强调确定性措施更可靠，质疑动态防御效果。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "Seven replies to the viral Apple reasoning paper – and why they fall short",
+    "url": "https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple",
+    "timestamp": 1749986788,
+    "summary": "苹果论文质疑大模型在复杂推理任务（如汉诺塔）的表现，并驳斥了7种常见辩解观点。核心结论表明单纯扩大模型规模无法实现AGI，需结合神经符号系统等其他方法才能可靠处理算法任务。"
   }
 ]
