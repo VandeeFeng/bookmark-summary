@@ -1550,5 +1550,13 @@
     "url": "https://moretothat.com/the-arc-of-the-practical-creator/",
     "timestamp": 1749965114,
     "summary": "互联网打破创意与实用的对立，提出\"实用创意者之弧\"三阶段发展模型：先积累资金，忍耐高原期，最终平衡自信与谦逊。强调各类耐心是推动创意变现的关键能力。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "Why aren’t we using SSH for everything?",
+    "url": "https://shazow.net/posts/ssh-how-does-it-even/",
+    "timestamp": 1749965538,
+    "summary": "文章探讨SSH协议的强大功能（身份认证、加密、多路复用）及其在聊天工具ssh-chat中的应用，展示SSH超越传统用途的潜力，如游戏、分布式系统等，并质疑其为何未被更广泛应用。作者认为SSH的内置安全性可为开发者简化复杂需求。"
   }
 ]
