@@ -1542,5 +1542,13 @@
     "url": "https://cognition.ai/blog/dont-build-multi-agents",
     "timestamp": 1749787503,
     "summary": "文章指出多代理架构存在上下文断裂缺陷，提出应优先采用单线程线性代理并共享完整上下文，强调\"上下文工程\"对AI系统可靠性的重要性，认为当前多代理系统因无法有效共享信息而过于脆弱。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "The Arc of the Practical Creator",
+    "url": "https://moretothat.com/the-arc-of-the-practical-creator/",
+    "timestamp": 1749965114,
+    "summary": "互联网打破创意与实用的对立，提出\"实用创意者之弧\"三阶段发展模型：先积累资金，忍耐高原期，最终平衡自信与谦逊。强调各类耐心是推动创意变现的关键能力。"
   }
 ]
