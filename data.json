@@ -1590,5 +1590,13 @@
     "url": "https://www.dreamsongs.com/ArtOfLisp.html",
     "timestamp": 1750047898,
     "summary": "编程本质是创造性活动，强调探索过程的重要性。文章批评现代编程过度依赖预先规划和静态语言，主张采用Lisp等动态语言以保持灵活性和创造力。建议编程社区转变思维，将软件开发视为艺术创作而非纯工程活动。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "The lethal trifecta for AI agents: private data, untrusted content, and external communication",
+    "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+    "timestamp": 1750087029,
+    "summary": "文章揭示了LLM工具的\"致命三要素\"安全风险：当访问私有数据、接触未审核内容和具备通信能力三者共存时，易被诱导泄露数据。研究指出LLM无法区分指令来源的问题，目前防护措施存在局限，强调需警惕与\"越狱攻击\"混淆造成的危害低估。核心问题是这种组合性风险仍缺乏根本解决方案。（98字）"
   }
 ]
