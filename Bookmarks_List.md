@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-06-16) [The Art of Lisp](2025/06/2025-06-16-the-art-of-lisp.md)
 - (2025-06-15) [Seven replies to the viral Apple reasoning paper – and why they fall short](2025/06/2025-06-15-seven-replies-to-the-viral-apple-reasoning-paper-–-and-why-they-fall-short.md)
 - (2025-06-15) [An Introduction to Google’s Approach to AI Agent Security](2025/06/2025-06-15-an-introduction-to-google’s-approach-to-ai-agent-security.md)
 - (2025-06-15) [How we built our multi-agent research system](2025/06/2025-06-15-how-we-built-our-multi-agent-research-system.md)
