@@ -1598,5 +1598,13 @@
     "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
     "timestamp": 1750087029,
     "summary": "文章揭示了LLM工具的\"致命三要素\"安全风险：当访问私有数据、接触未审核内容和具备通信能力三者共存时，易被诱导泄露数据。研究指出LLM无法区分指令来源的问题，目前防护措施存在局限，强调需警惕与\"越狱攻击\"混淆造成的危害低估。核心问题是这种组合性风险仍缺乏根本解决方案。（98字）"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "OpenAI: 构建 AI 智能体实用指南",
+    "url": "https://baoyu.io/translations/a-practical-guide-to-building-agents",
+    "timestamp": 1750215485,
+    "summary": "OpenAI发布AI智能体构建指南，指出其核心在于LLM驱动的自主任务执行能力，需整合推理模型、工具和指令三大要素。文章建议从单智能体起步并逐步扩展，强调安全分层防御和人机协作机制的重要性，适用于需复杂决策的非结构化任务场景。智能体将推动业务转型并形成生态系统。"
   }
 ]
