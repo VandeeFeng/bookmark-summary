@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-06-18) [I Counted All of the Yurts in Mongolia Using Machine Learning](2025/06/2025-06-18-i-counted-all-of-the-yurts-in-mongolia-using-machine-learning.md)
 - (2025-06-18) [VibeTunnel: Turn Any Browser into Your Mac's Terminal](2025/06/2025-06-18-vibetunnel-turn-any-browser-into-your-mac's-terminal.md)
 - (2025-06-18) [OpenAI: 构建 AI 智能体实用指南](2025/06/2025-06-18-openai-构建-ai-智能体实用指南.md)
 - (2025-06-16) [The lethal trifecta for AI agents: private data, untrusted content, and external communication](2025/06/2025-06-16-the-lethal-trifecta-for-ai-agents-private-data,-untrusted-content,-and-external-communication.md)

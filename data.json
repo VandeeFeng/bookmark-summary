@@ -1614,5 +1614,13 @@
     "url": "https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal",
     "timestamp": 1750261533,
     "summary": "VibeTunnel是一款无需SSH、通过浏览器控制终端的工具，由开发者24小时完成。采用多语言后端（Node.js/Swift/Rust）和Xterm.js技术，解决了终端缓冲区、浏览器连接限制等挑战。AI辅助开发大幅提升效率，工具已开源并完全可用，成为终端远程控制的新选择。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "I Counted All of the Yurts in Mongolia Using Machine Learning",
+    "url": "https://monroeclinton.com/counting-all-yurts-in-mongolia/",
+    "timestamp": 1750264298,
+    "summary": "作者利用机器学习技术统计蒙古国蒙古包数量，通过卫星图像和YOLOv11模型训练，最终得出全国共172,689个蒙古包的结论，并分析了蒙古包区的城市化问题和技术实现细节。"
   }
 ]
