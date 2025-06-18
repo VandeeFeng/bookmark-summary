@@ -1606,5 +1606,13 @@
     "url": "https://baoyu.io/translations/a-practical-guide-to-building-agents",
     "timestamp": 1750215485,
     "summary": "OpenAI发布AI智能体构建指南，指出其核心在于LLM驱动的自主任务执行能力，需整合推理模型、工具和指令三大要素。文章建议从单智能体起步并逐步扩展，强调安全分层防御和人机协作机制的重要性，适用于需复杂决策的非结构化任务场景。智能体将推动业务转型并形成生态系统。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "VibeTunnel: Turn Any Browser into Your Mac's Terminal",
+    "url": "https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal",
+    "timestamp": 1750261533,
+    "summary": "VibeTunnel是一款无需SSH、通过浏览器控制终端的工具，由开发者24小时完成。采用多语言后端（Node.js/Swift/Rust）和Xterm.js技术，解决了终端缓冲区、浏览器连接限制等挑战。AI辅助开发大幅提升效率，工具已开源并完全可用，成为终端远程控制的新选择。"
   }
 ]
