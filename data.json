@@ -1622,5 +1622,13 @@
     "url": "https://monroeclinton.com/counting-all-yurts-in-mongolia/",
     "timestamp": 1750264298,
     "summary": "作者利用机器学习技术统计蒙古国蒙古包数量，通过卫星图像和YOLOv11模型训练，最终得出全国共172,689个蒙古包的结论，并分析了蒙古包区的城市化问题和技术实现细节。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server",
+    "url": "https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/",
+    "timestamp": 1750309169,
+    "summary": "这篇文章介绍了一个利用旧iPhone 8改造为太阳能供电OCR服务器的项目。通过Vision框架实现本地OCR处理，搭配太阳能供电系统，不仅节省了电费（每年约84-120加元），还避免了云服务的隐私问题。项目展示了旧设备的高效利用和离网运行的可行性。"
   }
 ]
