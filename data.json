@@ -1630,5 +1630,13 @@
     "url": "https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/",
     "timestamp": 1750309169,
     "summary": "这篇文章介绍了一个利用旧iPhone 8改造为太阳能供电OCR服务器的项目。通过Vision框架实现本地OCR处理，搭配太阳能供电系统，不仅节省了电费（每年约84-120加元），还避免了云服务的隐私问题。项目展示了旧设备的高效利用和离网运行的可行性。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "16 billion passwords exposed in record-breaking data breach: are you affected?",
+    "url": "https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/",
+    "timestamp": 1750472436,
+    "summary": "网络安全曝史上最大规模数据泄露，160亿条凭证被曝光，涉及主流平台如Facebook、Google等，威胁账户安全。专家建议启用多因素认证、定期改密防范风险。"
   }
 ]
