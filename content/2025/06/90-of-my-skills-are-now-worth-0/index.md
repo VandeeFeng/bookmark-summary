@@ -1,5 +1,5 @@
 ---
-title: 90% of My Skills Are Now Worth 0
+title: 90 of My Skills Are Now Worth 0
 date: 2025-06-24
 extra:
   source: https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0
