@@ -1638,5 +1638,13 @@
     "url": "https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/",
     "timestamp": 1750472436,
     "summary": "网络安全曝史上最大规模数据泄露，160亿条凭证被曝光，涉及主流平台如Facebook、Google等，威胁账户安全。专家建议启用多因素认证、定期改密防范风险。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "Paper: Empirically derived evaluation requirements for responsible deployments of AI",
+    "url": "https://ferd.ca/notes/paper-empirically-derived-evaluation-requirements-for-responsible-deployments-of-ai.html",
+    "timestamp": 1750730648,
+    "summary": "研究显示AI辅助系统对护理决策有双重影响：正确预测能提升判断，但错误预测的负面效果更大，AI解释反而强化错误。需以人机整体表现而非单纯AI精度为评估标准，且应测试各类AI表现案例。"
   }
 ]
