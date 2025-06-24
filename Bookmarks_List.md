@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-06-24) [90% of My Skills Are Now Worth $0](2025/06/2025-06-24-90%-of-my-skills-are-now-worth-$0.md)
 - (2025-06-24) [Paper: Empirically derived evaluation requirements for responsible deployments of AI](2025/06/2025-06-24-paper-empirically-derived-evaluation-requirements-for-responsible-deployments-of-ai.md)
 - (2025-06-21) [16 billion passwords exposed in record-breaking data breach: are you affected?](2025/06/2025-06-21-16-billion-passwords-exposed-in-record-breaking-data-breach-are-you-affected.md)
 - (2025-06-19) [My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server](2025/06/2025-06-19-my-iphone-8-refuses-to-die-now-it's-a-solar-powered-vision-ocr-server.md)
