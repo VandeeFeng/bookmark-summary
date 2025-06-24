@@ -1646,13 +1646,5 @@
     "url": "https://ferd.ca/notes/paper-empirically-derived-evaluation-requirements-for-responsible-deployments-of-ai.html",
     "timestamp": 1750730648,
     "summary": "研究显示AI辅助系统对护理决策有双重影响：正确预测能提升判断，但错误预测的负面效果更大，AI解释反而强化错误。需以人机整体表现而非单纯AI精度为评估标准，且应测试各类AI表现案例。"
-  },
-  {
-    "year": "2025",
-    "month": "06",
-    "title": "90% of My Skills Are Now Worth $0",
-    "url": "https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0",
-    "timestamp": 1750730956,
-    "summary": "AI正颠覆职业技能格局，90%传统技能被替代贬值，10%高价值能力获千倍杠杆效应。技术革命通过降成本、创新价值两阶段重塑行业，AI虽现不完美但进化速度终将超越人类。人类需在创造力等核心领域重构技能优势，当前对AI既期待又担忧的矛盾心态反映转型期特征。（99字）"
   }
 ]
