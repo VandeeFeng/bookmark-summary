@@ -1654,5 +1654,13 @@
     "url": "https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0",
     "timestamp": 1750746719,
     "summary": "AI使90%传统技能贬值，剩余10%创造力价值倍增；技术进步遵循降本与创新规律，AI虽不完美但发展迅猛，建议积极尝试新应用场景。最后通过AI生成对立观点的实验展示其实用性与局限。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "Cloudflare containers are available in public beta",
+    "url": "https://blog.cloudflare.com/containers-are-available-in-public-beta-for-simple-global-and-programmable/",
+    "timestamp": 1750842306,
+    "summary": "Cloudflare推出容器公开测试服务，与Workers深度集成，支持全球部署和按需计费，简化应用开发和运维。未来还将增强功能。"
   }
 ]
