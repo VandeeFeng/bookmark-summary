@@ -1678,5 +1678,13 @@
     "url": "https://nekonull.me/share/claude-code-3rd-party-model/",
     "timestamp": 1751007391,
     "summary": "本文介绍通过Claude Bridge中间件让Claude Code调用第三方模型的方案，详细说明了安装配置步骤，但存在功能限制，适合个人非商业使用。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "How we made code search 40 faster for 100M+ line codebases using quantized vector search",
+    "url": "https://www.augmentcode.com/blog/repo-scale-100M-line-codebase-quantized-vector-search",
+    "timestamp": 1751038068,
+    "summary": "为应对亿级代码库检索性能瓶颈，Augment Code团队开发了量化向量搜索方案，通过ANN算法和量化技术将内存降至250MB、延迟压到200毫秒内，同时保持99.9%准确率，并实现无感知的实时索引更新，大幅提升了AI编程工具的实用性。(99字)"
   }
 ]
