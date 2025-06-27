@@ -1670,5 +1670,13 @@
     "url": "https://xuanwo.io/2025/03-how-i-vibe-coding/",
     "timestamp": 1751006689,
     "summary": "开源Rust工程师Xuanwo分享AI辅助编码经验：利用Claude 4与Zed编辑器构建高效工作流，将AI视为初级开发者，采用上午规划/下午编码的模式，强调AI应融入而非改变现有流程。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "让 Claude Code 使用其他模型",
+    "url": "https://nekonull.me/share/claude-code-3rd-party-model/",
+    "timestamp": 1751007391,
+    "summary": "本文介绍通过Claude Bridge中间件让Claude Code调用第三方模型的方案，详细说明了安装配置步骤，但存在功能限制，适合个人非商业使用。"
   }
 ]
