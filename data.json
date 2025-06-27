@@ -1662,5 +1662,13 @@
     "url": "https://blog.cloudflare.com/containers-are-available-in-public-beta-for-simple-global-and-programmable/",
     "timestamp": 1750842306,
     "summary": "Cloudflare推出容器公开测试服务，与Workers深度集成，支持全球部署和按需计费，简化应用开发和运维。未来还将增强功能。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "How I Vibe Coding?",
+    "url": "https://xuanwo.io/2025/03-how-i-vibe-coding/",
+    "timestamp": 1751006689,
+    "summary": "开源Rust工程师Xuanwo分享AI辅助编码经验：利用Claude 4与Zed编辑器构建高效工作流，将AI视为初级开发者，采用上午规划/下午编码的模式，强调AI应融入而非改变现有流程。"
   }
 ]

@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-06-27) [How I Vibe Coding?](2025/06/2025-06-27-how-i-vibe-coding.md)
 - (2025-06-25) [Cloudflare containers are available in public beta](2025/06/2025-06-25-cloudflare-containers-are-available-in-public-beta.md)
 - (2025-06-24) [90% of My Skills Are Now Worth 0](2025/06/2025-06-24-90%-of-my-skills-are-now-worth-0.md)
 - (2025-06-24) [Paper: Empirically derived evaluation requirements for responsible deployments of AI](2025/06/2025-06-24-paper-empirically-derived-evaluation-requirements-for-responsible-deployments-of-ai.md)
