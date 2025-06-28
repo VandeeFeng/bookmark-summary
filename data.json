@@ -1694,5 +1694,13 @@
     "url": "https://githubnext.com/projects/continuous-ai",
     "timestamp": 1751080380,
     "summary": "GitHub Next提出\"Continuous AI\"概念，将AI自动化融入软件协作，重点提升团队效率而非个人生产力。依托GitHub Actions/Models等技术工具，实现代码文档生成、问题分类等可审计的协作任务，并计划通过与开源社区合作长期推进该技术发展。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "Far too many people misunderstand the bitter lesson",
+    "url": "https://www.artfintel.com/p/the-bitter-lesson",
+    "timestamp": 1751081211,
+    "summary": "这篇文章总结了AI领域\"计算规模胜过人工知识\"的历史规律：短期内依靠人工优化的方法虽见效快但终遇瓶颈，而善用计算资源的通用算法（如AlphaGo）方能持续突破。这在当前大模型竞争中依然适用，长期应投资可扩展的通用能力而非短视优化。"
   }
 ]
