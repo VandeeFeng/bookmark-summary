@@ -1686,5 +1686,13 @@
     "url": "https://www.augmentcode.com/blog/repo-scale-100M-line-codebase-quantized-vector-search",
     "timestamp": 1751038068,
     "summary": "为应对亿级代码库检索性能瓶颈，Augment Code团队开发了量化向量搜索方案，通过ANN算法和量化技术将内存降至250MB、延迟压到200毫秒内，同时保持99.9%准确率，并实现无感知的实时索引更新，大幅提升了AI编程工具的实用性。(99字)"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "Continuous AI",
+    "url": "https://githubnext.com/projects/continuous-ai",
+    "timestamp": 1751080380,
+    "summary": "GitHub Next提出\"Continuous AI\"概念，将AI自动化融入软件协作，重点提升团队效率而非个人生产力。依托GitHub Actions/Models等技术工具，实现代码文档生成、问题分类等可审计的协作任务，并计划通过与开源社区合作长期推进该技术发展。"
   }
 ]

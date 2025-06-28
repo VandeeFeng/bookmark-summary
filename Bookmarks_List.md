@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-06-28) [Continuous AI](2025/06/2025-06-28-continuous-ai.md)
 - (2025-06-27) [How we made code search 40 faster for 100M+ line codebases using quantized vector search](2025/06/2025-06-27-how-we-made-code-search-40-faster-for-100m+-line-codebases-using-quantized-vector-search.md)
 - (2025-06-27) [让 Claude Code 使用其他模型](2025/06/2025-06-27-让-claude-code-使用其他模型.md)
 - (2025-06-27) [How I Vibe Coding?](2025/06/2025-06-27-how-i-vibe-coding.md)
