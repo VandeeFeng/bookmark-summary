@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-06-30) [“熟人社会”与县域经济](2025/06/2025-06-30-“熟人社会”与县域经济.md)
 - (2025-06-30) [How to Fix Your Context](2025/06/2025-06-30-how-to-fix-your-context.md)
 - (2025-06-28) [Far too many people misunderstand the bitter lesson](2025/06/2025-06-28-far-too-many-people-misunderstand-the-bitter-lesson.md)
 - (2025-06-28) [Continuous AI](2025/06/2025-06-28-continuous-ai.md)
