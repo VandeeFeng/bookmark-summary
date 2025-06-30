@@ -1702,5 +1702,13 @@
     "url": "https://www.artfintel.com/p/the-bitter-lesson",
     "timestamp": 1751081211,
     "summary": "这篇文章总结了AI领域\"计算规模胜过人工知识\"的历史规律：短期内依靠人工优化的方法虽见效快但终遇瓶颈，而善用计算资源的通用算法（如AlphaGo）方能持续突破。这在当前大模型竞争中依然适用，长期应投资可扩展的通用能力而非短视优化。"
+  },
+  {
+    "year": "2025",
+    "month": "06",
+    "title": "How to Fix Your Context",
+    "url": "https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html",
+    "timestamp": 1751249933,
+    "summary": "文章分析了大语言模型的四种上下文管理问题（内容污染、注意力分散等）并提出六种解决方案（RAG、内容修剪等），强调有效管理可显著提升模型性能，技术案例显示部分策略能带来50%以上的效果提升。"
   }
 ]
