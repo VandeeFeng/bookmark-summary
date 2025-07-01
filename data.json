@@ -1734,5 +1734,13 @@
     "url": "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only",
     "timestamp": 1751344258,
     "summary": "文章指出，AI近年进步主要依赖新数据集应用而非算法突破，历史技术通过ImageNet等新数据源实现突破。现有模型已近文本数据上限，未来突破需开发视频和传感器数据，验证了\"数据规模优先于算法\"的理论。"
+  },
+  {
+    "year": "2025",
+    "month": "07",
+    "title": "I Write Type Safe Generic Data Structures in C",
+    "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+    "timestamp": 1751350357,
+    "summary": "文章介绍了一种在C语言中利用联合体和宏实现类型安全泛型数据结构的独特技术，既能保证编译时类型检查，又避免了传统方法带来的二进制膨胀等问题。"
   }
 ]
