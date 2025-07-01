@@ -1742,5 +1742,13 @@
     "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
     "timestamp": 1751350357,
     "summary": "文章介绍了一种在C语言中利用联合体和宏实现类型安全泛型数据结构的独特技术，既能保证编译时类型检查，又避免了传统方法带来的二进制膨胀等问题。"
+  },
+  {
+    "year": "2025",
+    "month": "07",
+    "title": "End of An Era",
+    "url": "http://www.erasmatazz.com/personal/self/end-of-an-era.html",
+    "timestamp": 1751361198,
+    "summary": "文章回顾了作者从早期互动游戏到开发失败的工具《Storytron》，最终通过《Le Morte d’Arthur》实现艺术目标的过程。尽管技术推广受挫且超前于时代，作品的艺术价值仍获认可，作者决定结束这一职业生涯阶段。（99字）"
   }
 ]

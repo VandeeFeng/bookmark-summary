@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-07-01) [End of An Era](2025/07/2025-07-01-end-of-an-era.md)
 - (2025-07-01) [I Write Type Safe Generic Data Structures in C](2025/07/2025-07-01-i-write-type-safe-generic-data-structures-in-c.md)
 - (2025-07-01) [There Are No New Ideas in AI… Only New Datasets](2025/07/2025-07-01-there-are-no-new-ideas-in-ai…-only-new-datasets.md)
 - (2025-06-30) [AI could be conscious tomorrow and we wouldn’t care](2025/06/2025-06-30-ai-could-be-conscious-tomorrow-and-we-wouldn’t-care.md)
