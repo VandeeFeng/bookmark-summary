@@ -1750,5 +1750,13 @@
     "url": "http://www.erasmatazz.com/personal/self/end-of-an-era.html",
     "timestamp": 1751361198,
     "summary": "文章回顾了作者从早期互动游戏到开发失败的工具《Storytron》，最终通过《Le Morte d’Arthur》实现艺术目标的过程。尽管技术推广受挫且超前于时代，作品的艺术价值仍获认可，作者决定结束这一职业生涯阶段。（99字）"
+  },
+  {
+    "year": "2025",
+    "month": "07",
+    "title": "The New Skill in AI is Not Prompting, It's Context Engineering",
+    "url": "https://www.philschmid.de/context-engineering",
+    "timestamp": 1751361474,
+    "summary": "人工智能领域正转向\"上下文工程\"，强调通过系统化提供动态、精准的上下文信息（包含系统指令、历史记录、工具权限等7要素）显著提升AI代理性能，其关键在于构建结构化信息支持系统而非仅优化提示词。"
   }
 ]
