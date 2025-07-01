@@ -1726,5 +1726,13 @@
     "url": "https://interconnected.org/home/2025/06/30/copernican",
     "timestamp": 1751299693,
     "summary": "文章指出人类历史上对外星生命和AI意识的认可并未引发道德进步，通过历史案例质疑单靠发现新智慧生命就能扩展人类道德观的可能性，强调人类道德框架的局限性。"
+  },
+  {
+    "year": "2025",
+    "month": "07",
+    "title": "There Are No New Ideas in AI… Only New Datasets",
+    "url": "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only",
+    "timestamp": 1751344258,
+    "summary": "文章指出，AI近年进步主要依赖新数据集应用而非算法突破，历史技术通过ImageNet等新数据源实现突破。现有模型已近文本数据上限，未来突破需开发视频和传感器数据，验证了\"数据规模优先于算法\"的理论。"
   }
 ]
