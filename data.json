@@ -1758,5 +1758,13 @@
     "url": "https://www.philschmid.de/context-engineering",
     "timestamp": 1751361474,
     "summary": "人工智能领域正转向\"上下文工程\"，强调通过系统化提供动态、精准的上下文信息（包含系统指令、历史记录、工具权限等7要素）显著提升AI代理性能，其关键在于构建结构化信息支持系统而非仅优化提示词。"
+  },
+  {
+    "year": "2025",
+    "month": "07",
+    "title": "How I Learned to Stop Course-Correcting and Start Using Message Checkpoints",
+    "url": "https://cline.bot/blog/how-i-learned-to-stop-course-correcting-and-start-using-message-checkpoints",
+    "timestamp": 1751511772,
+    "summary": "研究发现大型语言模型在多轮对话中性能下降39%，Cline的\"消息检查点\"功能允许用户回溯修改，避免上下文污染，在单次完整输入中高效利用模型的\"快乐路径\"特性。"
   }
 ]
