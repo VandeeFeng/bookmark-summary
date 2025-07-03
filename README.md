@@ -8,6 +8,8 @@
 
 Inspired by : [Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
+还是觉这样记录有点滥用资源。停用转为 ：[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) ，关注了小半年了，感觉现在挺稳定的了，浏览器插件，移动端都有。
+
 <br>
 
 <br>
