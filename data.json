@@ -1774,5 +1774,13 @@
     "url": "https://sspai.com/post/100683",
     "timestamp": 1751514316,
     "summary": "Glance家庭服务器仪表盘工具教程：详细介绍其轻量化、高定制特点，包括数据获取（API/爬虫）、JSON托管（n8n/nginx）和样式定制（CSS/AI）方法，并分享iframe嵌入图表技巧，强调让个人数据可视化更生动实用。"
+  },
+  {
+    "year": "2025",
+    "month": "07",
+    "title": "Writing Code Was Never The Bottleneck",
+    "url": "https://ordep.dev/posts/writing-code-was-never-the-bottleneck",
+    "timestamp": 1751550109,
+    "summary": "文章指出，软件开发中核心瓶颈并非代码生成，而是审查、测试与团队协作。尽管LLM加速代码编写，但代码理解、维护和团队信任仍是关键挑战。技术未改变对代码质量与协作基础的依赖。"
   }
 ]
