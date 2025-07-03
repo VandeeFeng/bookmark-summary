@@ -4,6 +4,7 @@
 Inspired by :[Owen's Clip](https://github.com/theowenyoung/clip) , [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
 ## Summarized Bookmarks
+- (2025-07-03) [用 Glance 打造家庭服务器仪表盘](2025/07/2025-07-03-用-glance-打造家庭服务器仪表盘.md)
 - (2025-07-03) [How I Learned to Stop Course-Correcting and Start Using Message Checkpoints](2025/07/2025-07-03-how-i-learned-to-stop-course-correcting-and-start-using-message-checkpoints.md)
 - (2025-07-01) [The New Skill in AI is Not Prompting, It's Context Engineering](2025/07/2025-07-01-the-new-skill-in-ai-is-not-prompting,-it's-context-engineering.md)
 - (2025-07-01) [End of An Era](2025/07/2025-07-01-end-of-an-era.md)

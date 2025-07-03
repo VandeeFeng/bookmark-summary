@@ -1766,5 +1766,13 @@
     "url": "https://cline.bot/blog/how-i-learned-to-stop-course-correcting-and-start-using-message-checkpoints",
     "timestamp": 1751511772,
     "summary": "研究发现大型语言模型在多轮对话中性能下降39%，Cline的\"消息检查点\"功能允许用户回溯修改，避免上下文污染，在单次完整输入中高效利用模型的\"快乐路径\"特性。"
+  },
+  {
+    "year": "2025",
+    "month": "07",
+    "title": "用 Glance 打造家庭服务器仪表盘",
+    "url": "https://sspai.com/post/100683",
+    "timestamp": 1751514316,
+    "summary": "Glance家庭服务器仪表盘工具教程：详细介绍其轻量化、高定制特点，包括数据获取（API/爬虫）、JSON托管（n8n/nginx）和样式定制（CSS/AI）方法，并分享iframe嵌入图表技巧，强调让个人数据可视化更生动实用。"
   }
 ]
